@@ -5,7 +5,7 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 ```json
 {
   "format": 1,
-  "run": { "date": "2026-11-15", "bruceparser": "0.19.0", "commit": "3fc392e", "feed": "1.1" },
+  "run": { "date": "2026-11-15", "bruceparser": "0.20.0", "commit": "3fc392e", "feed": "1.2" },
   "site": "https://brucebase.wikidot.com",
   "credit": "The data is Brucebase (brucebase.wikidot.com, Danny van der Linden and its editors); …",
   "reports": {
@@ -29,6 +29,11 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
     "ott:i-want-you":                    { "first-letter": "i" },
     "relation:chubby-checker":           { "no-tags": true },
     "story:story-1972-01-21-neptune-nj": { "no-parent": true }
+  },
+  "anchors": {
+    "1972#000472b": ["recording:1972-04-00b-mediasound-studios-new-york-city-ny",
+                     "recording:1972-05-00-mediasound-studios-new-york-city-ny"],
+    "1972#000672b": ["gig:1972-06-00-unknown-location-point-pleasant-nj"]
   }
 }
 ```
@@ -36,7 +41,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 - **`format`:** a reader that does not know the number ignores the whole
   file. A change a format-1 reader would misread raises it. A new kind does
   not: a reader ignores a kind it does not know (`date-parts` and
-  `files-no-images` came with feed 1.1 and keep format 1).
+  `files-no-images` came with feed 1.1, `anchors` with 1.2; both keep
+  format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -65,3 +71,12 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   - `files-no-images`: the page is tagged `files` and shows no image. Not the
     other way round: a venue or retail page with images and no `files` tag
     is the wiki's rule, not an error.
+- **`anchors`** (since feed 1.2): the year-page anchors of the shows the
+  feed names, a show being a page of an event category (`gig`, `nogig`,
+  `interview`, `rehearsal`, `recording`, `nobruce`) in `pages` or a
+  `dependent-title`'s `event`. Keyed `"<year page>#<anchor>"` as the year
+  page's link has it (`"1975#101175"`, `"1949-64#230949"`), the value always
+  a sorted array of page names: an anchor two entries share carries every
+  page on it, a reader picks one by the entry's date. A year listing links
+  the anchor, not the page, so a reader finds the show through it. A show on
+  no year page has no anchor (feed.sh warns).
