@@ -1,4 +1,82 @@
 {
+  "anchors": {
+    "1967#000867c": [
+      "gig:1967-08-00c-unknown-location-howell-nj"
+    ],
+    "1972#000472b": [
+      "recording:1972-04-00b-mediasound-studios-new-york-city-ny",
+      "recording:1972-05-00-mediasound-studios-new-york-city-ny"
+    ],
+    "1972#000672b": [
+      "gig:1972-06-00-unknown-location-point-pleasant-nj"
+    ],
+    "1972#071272a": [
+      "gig:1972-12-07-correctional-facility-ossining-ny"
+    ],
+    "1973#160273": [
+      "gig:1973-02-16-boylan-gymnasium-west-long-branch-nj"
+    ],
+    "1973#220973a": [
+      "nogig:1973-09-22a-jai-alai-fronton-miami-fl"
+    ],
+    "1973#280273": [
+      "gig:1973-02-28-memorial-civic-auditorium-stockton-ca"
+    ],
+    "1973#290173": [
+      "recording:1973-01-29-914-sound-studios-blauvelt-ny"
+    ],
+    "1973#300173": [
+      "recording:1973-01-30-914-sound-studios-blauvelt-ny"
+    ],
+    "1975#101175": [
+      "gig:1975-11-10-jai-alai-fronton-tampa-fl"
+    ],
+    "1975#111175": [
+      "gig:1975-11-11-jai-alai-fronton-miami-fl"
+    ],
+    "1976#060576": [
+      "gig:1976-05-06-municipal-auditorium-shreveport-la"
+    ],
+    "1978#280778": [
+      "gig:1978-07-28-jai-alai-fronton-miami-fl"
+    ],
+    "1979#051279": [
+      "recording:1979-12-05-power-station-new-york-city-ny"
+    ],
+    "1980#311280": [
+      "gig:1980-12-31-nassau-coliseum-uniondale-ny"
+    ],
+    "1981#140481": [
+      "gig:1981-04-14-festhalle-frankfurt-germany"
+    ],
+    "1987#040487": [
+      "recording:1987-04-04-thrill-hill-east-rumson-nj"
+    ],
+    "1998#240898": [
+      "recording:1998-08-24-boxwood-studio-colts-neck-nj"
+    ],
+    "2024#151024": [
+      "interview:2024-10-15-museum-of-modern-art-new-york-city-ny"
+    ],
+    "2025#240625": [
+      "gig:2025-06-24-reale-arena-donostia-san-sebastian-spain"
+    ],
+    "2026#111126": [
+      "nogig:2026-11-11-st-rose-of-lima-church-freehold-nj"
+    ],
+    "2026#160526": [
+      "gig:2026-05-16-madison-square-garden-new-york-city-ny"
+    ],
+    "2026#240326": [
+      "rehearsal:2026-03-24-youth-temple-ocean-grove-nj"
+    ],
+    "2026#260426": [
+      "gig:2026-04-26-moody-center-austin-tx"
+    ],
+    "2026#280326": [
+      "gig:2026-03-28-state-capitol-saint-paul-mn"
+    ]
+  },
   "credit": "The data is Brucebase (brucebase.wikidot.com, Danny van der Linden and its editors); the checks are BruceParser's.",
   "format": 1,
   "pages": {
@@ -889,10 +967,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.19.0",
-    "commit": "edecd7e",
+    "bruceparser": "0.20.0",
+    "commit": "87dbd04",
     "date": "2026-11-15",
-    "feed": "1.1"
+    "feed": "1.2"
   },
   "site": "https://brucebase.wikidot.com"
 }
