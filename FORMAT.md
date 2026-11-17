@@ -5,11 +5,13 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 ```json
 {
   "format": 1,
-  "run": { "date": "2026-11-15", "bruceparser": "0.18.0", "commit": "3fc392e", "feed": "1.0" },
+  "run": { "date": "2026-11-15", "bruceparser": "0.19.0", "commit": "3fc392e", "feed": "1.1" },
   "site": "https://brucebase.wikidot.com",
   "credit": "The data is Brucebase (brucebase.wikidot.com, Danny van der Linden and its editors); …",
   "reports": {
+    "date-parts":      { "count": 3,   "files": ["REPORTING/MISSING-date-parts-in-tags-cleanedup.org"] },
     "dependent-title": { "count": 39,  "files": ["REPORTING/…", "REPORTING/…"] },
+    "files-no-images": { "count": 32,  "files": ["REPORTING/MISMATCH-images-files-tag.org"] },
     "first-letter":    { "count": 10,  "files": ["REPORTING/MISSING-first-character-tag-in-title.txt"] },
     "no-parent":       { "count": 105, "files": ["REPORTING/NO-PARENT-detail-pages.org"] },
     "no-tags":         { "count": 38,  "files": ["REPORTING/MISSING-tags.txt"] }
@@ -22,6 +24,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
         "eventTitle": "1967-08-00 Unknown Location, Howell, NJ"
       }
     },
+    "files:pass-1989":                   { "files-no-images": true },
+    "news:1978-08-22-madison-square-garden-new-york-city-ny": { "date-parts": { "missing": ["22"], "wrong": ["23"] } },
     "ott:i-want-you":                    { "first-letter": "i" },
     "relation:chubby-checker":           { "no-tags": true },
     "story:story-1972-01-21-neptune-nj": { "no-parent": true }
@@ -30,7 +34,9 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 ```
 
 - **`format`:** a reader that does not know the number ignores the whole
-  file. A change a format-1 reader would misread raises it.
+  file. A change a format-1 reader would misread raises it. A new kind does
+  not: a reader ignores a kind it does not know (`date-parts` and
+  `files-no-images` came with feed 1.1 and keep format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -43,7 +49,7 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
     directory; not published).
 - **`pages`:** keyed by the wiki's page name, without the site and without
   `/noredirect/true`. A page has one entry per kind it carries:
-  - `no-parent`, `no-tags`: `true`;
+  - `no-parent`, `no-tags`, `files-no-images`: `true`;
   - `first-letter`: the missing tag (`"a"` … `"z"`, `"0-9"`);
   - `dependent-title`:
     - `title`: the page's own title;
@@ -51,3 +57,11 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
       no `event` is given, its parent page's (the year page's title for that
       parent);
     - `event`: present when the report names the event page.
+  - `date-parts`: the date tags that do not fit the date in the page's name,
+    `{ "missing": [tag, …], "wrong": [tag, …] }`, either list left out when
+    empty. Only pages that are no event (`gig`, `nogig`, `interview`,
+    `rehearsal`, `recording`: ShowAllEntityData checks those itself), whose
+    name holds a date, and which have tags at all (`no-tags` covers the rest);
+  - `files-no-images`: the page is tagged `files` and shows no image. Not the
+    other way round: a venue or retail page with images and no `files` tag
+    is the wiki's rule, not an error.
