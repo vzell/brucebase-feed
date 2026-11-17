@@ -95,6 +95,96 @@
         "title": "1981-04-14 Festhalle, Frankfurt, Germany"
       }
     },
+    "files:artwork-tour-cs": {
+      "files-no-images": true
+    },
+    "files:artwork-tour-gfapnj": {
+      "files-no-images": true
+    },
+    "files:artwork-tour-lwst": {
+      "files-no-images": true
+    },
+    "files:artwork-tour-nbrsk": {
+      "files-no-images": true
+    },
+    "files:artwork-tour-wiess": {
+      "files-no-images": true
+    },
+    "files:news-magazine-2021": {
+      "files-no-images": true
+    },
+    "files:news-magazine-2022": {
+      "files-no-images": true
+    },
+    "files:news-magazine-2023": {
+      "files-no-images": true
+    },
+    "files:news-magazine-2024": {
+      "files-no-images": true
+    },
+    "files:news-tour-btr": {
+      "files-no-images": true
+    },
+    "files:news-tour-cs": {
+      "files-no-images": true
+    },
+    "files:news-tour-gfapnj": {
+      "files-no-images": true
+    },
+    "files:news-tour-lwst": {
+      "files-no-images": true
+    },
+    "files:news-tour-nbrsk": {
+      "files-no-images": true
+    },
+    "files:news-tour-rvr16": {
+      "files-no-images": true
+    },
+    "files:news-tour-sgrs": {
+      "files-no-images": true
+    },
+    "files:news-tour-vfc": {
+      "files-no-images": true
+    },
+    "files:news-tour-wiess": {
+      "files-no-images": true
+    },
+    "files:news-tour-woad": {
+      "files-no-images": true
+    },
+    "files:pass-1989": {
+      "files-no-images": true
+    },
+    "files:pass-1994": {
+      "files-no-images": true
+    },
+    "files:pass-1998": {
+      "files-no-images": true
+    },
+    "files:pass-2010": {
+      "files-no-images": true
+    },
+    "files:pass-2015": {
+      "files-no-images": true
+    },
+    "files:pass-2020": {
+      "files-no-images": true
+    },
+    "files:setlist-1989": {
+      "files-no-images": true
+    },
+    "files:setlist-1990": {
+      "files-no-images": true
+    },
+    "files:setlist-1991": {
+      "files-no-images": true
+    },
+    "files:ticket-1989": {
+      "files-no-images": true
+    },
+    "files:ticket-1991": {
+      "files-no-images": true
+    },
     "gallery:1981-04-14-festhalle-frankfurt-germany": {
       "dependent-title": {
         "event": "gig:1981-04-14-festhalle-frankfurt-germany",
@@ -152,6 +242,14 @@
       }
     },
     "media:1975-11-10-jai-alai-fronton-tampa-fl": {
+      "date-parts": {
+        "missing": [
+          "10"
+        ],
+        "wrong": [
+          "11"
+        ]
+      },
       "dependent-title": {
         "event": "gig:1975-11-10-jai-alai-fronton-tampa-fl",
         "eventTitle": "1975-11-10 Jai-Alai Fronton, Tampa, FL",
@@ -172,6 +270,16 @@
         "title": "1976-05-06 Municipal Auditorium, Shreveport, LA"
       }
     },
+    "news:1978-08-22-madison-square-garden-new-york-city-ny": {
+      "date-parts": {
+        "missing": [
+          "22"
+        ],
+        "wrong": [
+          "23"
+        ]
+      }
+    },
     "news:1981-04-14-festhalle-frankfurt-germany": {
       "dependent-title": {
         "event": "gig:1981-04-14-festhalle-frankfurt-germany",
@@ -184,6 +292,13 @@
         "event": "gig:2026-05-16-madison-square-garden-new-york-city-ny",
         "eventTitle": "2026-05-16 Madison Square Garden, New York City, NY",
         "title": "2026-05-11 Madison Square Garden, New York City, NY"
+      }
+    },
+    "news:essay-1975-12-31-tower-theater-philadelphia-pa": {
+      "date-parts": {
+        "missing": [
+          "1975"
+        ]
       }
     },
     "news:essay-2012-11-15-centurylink-center-omaha-ne": {
@@ -724,16 +839,34 @@
     "venue:107-1-the-boss-studio-neptune-nj": {
       "first-letter": "0-9"
     },
+    "venue:park-werchter-belgium": {
+      "files-no-images": true
+    },
+    "venue:samson-stages-brooklyn-ny": {
+      "files-no-images": true
+    },
     "venue:unknown-location-bayonne-nj": {
       "first-letter": "u"
     }
   },
   "reports": {
+    "date-parts": {
+      "count": 3,
+      "files": [
+        "REPORTING/MISSING-date-parts-in-tags-cleanedup.org"
+      ]
+    },
     "dependent-title": {
       "count": 39,
       "files": [
         "REPORTING/differences-detail-title-category-title-cleanedup.txt",
         "REPORTING/DIFFERENCES-in-titles-between-year-and-detail-pages-CLEANEDUP.txt"
+      ]
+    },
+    "files-no-images": {
+      "count": 32,
+      "files": [
+        "REPORTING/MISMATCH-images-files-tag.org"
       ]
     },
     "first-letter": {
@@ -756,10 +889,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.18.0",
-    "commit": "e3f821a",
+    "bruceparser": "0.19.0",
+    "commit": "edecd7e",
     "date": "2026-11-15",
-    "feed": "1.0"
+    "feed": "1.1"
   },
   "site": "https://brucebase.wikidot.com"
 }
