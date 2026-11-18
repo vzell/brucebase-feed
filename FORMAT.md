@@ -5,7 +5,7 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 ```json
 {
   "format": 1,
-  "run": { "date": "2026-11-15", "bruceparser": "0.20.0", "commit": "3fc392e", "feed": "1.2" },
+  "run": { "date": "2026-11-15", "bruceparser": "0.21.0", "commit": "3fc392e", "feed": "1.3" },
   "site": "https://brucebase.wikidot.com",
   "credit": "The data is Brucebase (brucebase.wikidot.com, Danny van der Linden and its editors); …",
   "reports": {
@@ -34,6 +34,17 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
     "1972#000472b": ["recording:1972-04-00b-mediasound-studios-new-york-city-ny",
                      "recording:1972-05-00-mediasound-studios-new-york-city-ny"],
     "1972#000672b": ["gig:1972-06-00-unknown-location-point-pleasant-nj"]
+  },
+  "mb": {
+    "f60ec13f-0c48-4c64-b80d-b4a226207017": {
+      "kind": "no-entry", "link": "2023#120923", "date": "2023-09-12",
+      "candidates": [
+        { "anchor": "2023#120923a", "page": "interview:2023-09-12a-stone-hill-farm-colts-neck-nj",
+          "heading": "2023-09-12 - STONE HILL FARM, COLTS NECK, NJ" },
+        { "anchor": "2023#120923b", "page": "nogig:2023-09-12b-ppg-paints-arena-pittsburgh-pa",
+          "heading": "2023-09-12 - PPG PAINTS ARENA, PITTSBURGH, PA", "likely": true }
+      ]
+    }
   }
 }
 ```
@@ -41,8 +52,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 - **`format`:** a reader that does not know the number ignores the whole
   file. A change a format-1 reader would misread raises it. A new kind does
   not: a reader ignores a kind it does not know (`date-parts` and
-  `files-no-images` came with feed 1.1, `anchors` with 1.2; both keep
-  format 1).
+  `files-no-images` came with feed 1.1, `anchors` with 1.2, `mb` with 1.3;
+  all keep format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -80,3 +91,19 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   page on it, a reader picks one by the entry's date. A year listing links
   the anchor, not the page, so a reader finds the show through it. A show on
   no year page has no anchor (feed.sh warns).
+- **`mb`** (since feed 1.3): the artist's MusicBrainz events whose Brucebase
+  link is doubtful, keyed by event MBID. From the run's
+  `search/event_linked_to_artist.org` (search.sh) against
+  `brucebase-event.txt`. Each:
+  - `kind`: `no-entry` (the link's anchor is not on the wiki; most often the
+    wiki writes that date with a letter now), `shared` (two or more events
+    link one entry) or `not-anchor` (the link is no year-page anchor);
+  - `link`: the link as MusicBrainz has it, without the site;
+  - `date`: the event's date, when it has one;
+  - `page`, `heading`: for `shared`, the entry the link reaches;
+  - `dateDiffers`: for `shared`, the event's date is not the entry's (likely
+    this link is the wrong one);
+  - `others`: for `shared`, the other events' MBIDs;
+  - `candidates`: the wiki's entries of the event's date (for `no-entry`
+    also its anchor with a letter), each `{anchor, page, heading}`, with
+    `likely: true` when the heading names the event's place.
