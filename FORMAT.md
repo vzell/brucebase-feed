@@ -53,7 +53,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   file. A change a format-1 reader would misread raises it. A new kind does
   not: a reader ignores a kind it does not know (`date-parts` and
   `files-no-images` came with feed 1.1, `anchors` with 1.2, `mb` with 1.3,
-  `tagTables` with 1.4; all keep format 1).
+  `tagTables` with 1.4, `songTags` and `venueTags` with 1.5; all keep
+  format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -127,3 +128,14 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
     the tags the wiki uses for it, the first named when one is missing
     (`"West Germany": ["germany"]`, `"The Netherlands": ["thenetherlands",
     "netherlands"]`). Without an entry the name's own slug is expected.
+- **`songTags`** (since feed 1.5): a song page → the tags the shows that
+  link it carry, the first the most carried (`"song:born-to-run": ["btr",
+  "borntorun"]`): every tag of the song page's own that is carried (almost)
+  only by shows whose setlist links the song (at least 90 % of the shows
+  carrying it). Only songs whose tags at least 90 % of their shows carry are
+  kept (the wiki tags the others unevenly). Built by BruceParser's
+  `tag-maps.awk` from the run's event and song pages.
+- **`venueTags`** (since feed 1.5): a venue page → its tag, as a one-element
+  list (`"venue:stone-pony-asbury-park-nj": ["stonepony"]`): the venue page's
+  own tag that best fits the shows whose "Venue" link names it. Every venue
+  linked by a show.
