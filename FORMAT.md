@@ -52,8 +52,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 - **`format`:** a reader that does not know the number ignores the whole
   file. A change a format-1 reader would misread raises it. A new kind does
   not: a reader ignores a kind it does not know (`date-parts` and
-  `files-no-images` came with feed 1.1, `anchors` with 1.2, `mb` with 1.3;
-  all keep format 1).
+  `files-no-images` came with feed 1.1, `anchors` with 1.2, `mb` with 1.3,
+  `tagTables` with 1.4; all keep format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -107,3 +107,16 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   - `candidates`: the wiki's entries of the event's date (for `no-entry`
     also its anchor with a letter), each `{anchor, page, heading}`, with
     `likely: true` when the heading names the event's place.
+- **`tagTables`** (since feed 1.4): the lookup tables of ShowAllEntityData's
+  expected-tag checks of a show, hand-edited in BruceParser
+  (`brucebase/tag-tables.json`, seeded from BruceBaseParser's tables), so a
+  change reaches the userscript with the next feed, without a release:
+  - `tours`: `[{name, tag, ranges: [[from, to], …]}, …]`, dates
+    `YYYY-MM-DD`, both ends included. One tag can have several entries (two
+    legs named differently), and two tours can cover one date;
+  - `usStates`, `caProvinces`: abbreviation → name (`"NJ": "New Jersey"`);
+  - `countryRegions`: a country as a title writes it → the region tags it
+    comes with (`"England": ["unitedkingdom", "europe"]`);
+  - `venueAlias`, `relationAlias`, `eStreetDotted`, `songCombos`: a lower-case
+    name → the tag the wiki uses for it; a `venueAlias` value `null` means
+    "no tag is expected for this name".
