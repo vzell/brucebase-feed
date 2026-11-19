@@ -119,4 +119,11 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
     comes with (`"England": ["unitedkingdom", "europe"]`);
   - `venueAlias`, `relationAlias`, `eStreetDotted`, `songCombos`: a lower-case
     name → the tag the wiki uses for it; a `venueAlias` value `null` means
-    "no tag is expected for this name".
+    "no tag is expected for this name";
+  - `expectedRegions` (since feed 1.4.1): the regions of `countryRegions` a
+    show's place is checked for (`["europe", "oceania"]`; the wiki tags the
+    others too rarely);
+  - `placeTags` (since feed 1.4.1): a city or country as a title writes it →
+    the tags the wiki uses for it, the first named when one is missing
+    (`"West Germany": ["germany"]`, `"The Netherlands": ["thenetherlands",
+    "netherlands"]`). Without an entry the name's own slug is expected.
