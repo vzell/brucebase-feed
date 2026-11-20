@@ -61,8 +61,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   not: a reader ignores a kind it does not know (`date-parts` and
   `files-no-images` came with feed 1.1, `anchors` with 1.2, `mb` with 1.3,
   `tagTables` with 1.4, `songTags` and `venueTags` with 1.5,
-  `dependent-name` with 1.6, the `mb` kind `date-differs` with 1.7; all
-  keep format 1).
+  `dependent-name` with 1.6, the `mb` kind `date-differs` with 1.7,
+  `mbWorks` with 1.8; all keep format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -134,6 +134,28 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   - `candidates`: the wiki's entries of the event's date (for `no-entry`
     also its anchor with a letter), each `{anchor, page, heading}`, with
     `likely: true` when the heading names the event's place.
+- **`mbWorks`** (since feed 1.8): the artist's MusicBrainz works whose
+  Brucebase link is doubtful, keyed by work MBID. From the run's
+  `search/work_linked_to_artist.xml` (search.sh -e work) against the run's
+  pages and `song.txt` (`mb-works.awk`). One entry per work, the first kind
+  that applies:
+  - `kind`: `no-target` (the link's page is not on the wiki, or its anchor
+    is on none of the page's ids), `shared` (two or more works link one
+    `song:` page) or `title` (the work's title, and none of its aliases, is
+    the linked song's title, compared loosely: case, quotes, dashes, the
+    ellipsis, blanks, and the wiki's `( - Artist - )` after a cover's title).
+    A studio-sessions row (`stats:…#anchor`) is checked for its page and
+    anchor only;
+  - `link`: the link as MusicBrainz has it, without the site;
+  - `work`, `dis`: the work's title and its disambiguation (when it has one);
+  - `missing`: for `no-target`, `page` or `anchor`;
+  - `title`: for `shared` and `title`, the song page's title;
+  - `others`: for `shared`, the other works, each `{mbid, title}`;
+  - `candidates`: for `no-target`, where the link likely should go, each
+    `{link}` with `likely: true` on one: for a page, the pages of its
+    category carrying its anchor that share the longest start with its name
+    (the shortest of them likely: a renamed page); for an anchor, its page's
+    anchors that start like it, or it like them (likely when only one).
 - **`tagTables`** (since feed 1.4): the lookup tables of ShowAllEntityData's
   expected-tag checks of a show, hand-edited in BruceParser
   (`brucebase/tag-tables.json`, seeded from BruceBaseParser's tables), so a
