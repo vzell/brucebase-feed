@@ -3,6 +3,12 @@
     "1967#000867c": [
       "gig:1967-08-00c-unknown-location-howell-nj"
     ],
+    "1967#001167a": [
+      "gig:1967-11-00a-first-presbyterian-church-freehold-nj"
+    ],
+    "1968#001168": [
+      "gig:1968-11-00-off-broad-street-coffee-house-red-bank-nj"
+    ],
     "1972#000472b": [
       "recording:1972-04-00b-mediasound-studios-new-york-city-ny",
       "recording:1972-05-00-mediasound-studios-new-york-city-ny"
@@ -28,17 +34,32 @@
     "1973#300173": [
       "recording:1973-01-30-914-sound-studios-blauvelt-ny"
     ],
+    "1974#110574": [
+      "gig:1974-05-11-student-union-building-teaneck-nj"
+    ],
     "1975#101175": [
       "gig:1975-11-10-jai-alai-fronton-tampa-fl"
     ],
     "1975#111175": [
       "gig:1975-11-11-jai-alai-fronton-miami-fl"
     ],
+    "1975#250775b": [
+      "gig:1975-07-25b-keystone-hall-kutztown-pa"
+    ],
     "1976#060576": [
       "gig:1976-05-06-municipal-auditorium-shreveport-la"
     ],
+    "1978#030678": [
+      "gig:1978-06-03-nassau-coliseum-uniondale-ny"
+    ],
+    "1978#150778a": [
+      "interview:1978-07-15a-kilt-studio-houston-tx"
+    ],
     "1978#280778": [
       "gig:1978-07-28-jai-alai-fronton-miami-fl"
+    ],
+    "1978#300878b": [
+      "gig:1978-08-30b-agora-cleveland-oh"
     ],
     "1979#051279": [
       "recording:1979-12-05-power-station-new-york-city-ny"
@@ -52,11 +73,74 @@
     "1987#040487": [
       "recording:1987-04-04-thrill-hill-east-rumson-nj"
     ],
+    "1987#081087b": [
+      "gig:1987-10-08b-ritz-new-york-city-ny"
+    ],
+    "1987#260887a": [
+      "gig:1987-08-26a-key-largo-belmar-nj"
+    ],
+    "1987#260887b": [
+      "gig:1987-08-26b-columns-avon-nj"
+    ],
+    "1990#001290b": [
+      "recording:1990-12-00b-ocean-way-studios-los-angeles-ca"
+    ],
+    "1992#221192": [
+      "nobruce:1992-11-22-wkrk-studio-new-york-city-ny"
+    ],
     "1998#240898": [
       "recording:1998-08-24-boxwood-studio-colts-neck-nj"
     ],
+    "1999#020699": [
+      "gig:1999-06-02-palais-omnisports-paris-france"
+    ],
+    "1999#030699": [
+      "gig:1999-06-03-palais-omnisports-paris-france"
+    ],
+    "2002#300702b": [
+      "rehearsal:2002-07-30b-convention-hall-asbury-park-nj"
+    ],
+    "2006#220606": [
+      "gig:2006-06-22-madison-square-garden-new-york-city-ny"
+    ],
+    "2014#160214": [
+      "gig:2014-02-16-aami-park-melbourne-australia"
+    ],
+    "2014#170414": [
+      "gig:2014-04-17-bridgestone-arena-nashville-tn"
+    ],
+    "2016#171016b": [
+      "nogig:2016-10-17b-waterstones-london-england"
+    ],
+    "2018#180718a": [
+      "gig:2018-07-18a-walter-kerr-theatre-new-york-city-ny"
+    ],
+    "2020#100920c": [
+      "interview:2020-09-10c-private-residence-colts-neck-nj"
+    ],
+    "2020#191020a": [
+      "interview:2020-10-19a-private-residence-colts-neck-nj"
+    ],
+    "2020#231020a": [
+      "interview:2020-10-23a-siriusxm-studio-new-york-city-ny"
+    ],
+    "2021#121121b": [
+      "interview:2021-11-12b-basie-center-cinemas-red-bank-nj"
+    ],
+    "2021#140721a": [
+      "interview:2021-07-14a-stone-hill-farm-colts-neck-nj"
+    ],
+    "2023#110423": [
+      "gig:2023-04-11-ubs-arena-elmont-ny"
+    ],
     "2024#151024": [
       "interview:2024-10-15-museum-of-modern-art-new-york-city-ny"
+    ],
+    "2024#220624": [
+      "gig:2024-06-22-estadi-olimpic-lluis-companys-barcelona-spain"
+    ],
+    "2025#151025": [
+      "interview:2025-10-15-royal-festival-hall-london-england"
     ],
     "2025#240625": [
       "gig:2025-06-24-reale-arena-donostia-san-sebastian-spain"
@@ -3842,6 +3926,18 @@
     "content:v-f-w-hall-freehold-nj": {
       "no-tags": true
     },
+    "eye:1974-05-11-student-union-building-rutherford-nj": {
+      "dependent-name": {
+        "event": "gig:1974-05-11-student-union-building-teaneck-nj",
+        "expected": "eye:1974-05-11-student-union-building-teaneck-nj"
+      }
+    },
+    "eye:1975-07-25-keystone-hall-kutztown-pa": {
+      "dependent-name": {
+        "event": "gig:1975-07-25b-keystone-hall-kutztown-pa",
+        "expected": "eye:1975-07-25b-keystone-hall-kutztown-pa"
+      }
+    },
     "eye:1976-05-06-municipal-auditorium-shreveport-la": {
       "dependent-title": {
         "event": "gig:1976-05-06-municipal-auditorium-shreveport-la",
@@ -3861,6 +3957,18 @@
         "event": "gig:1981-04-14-festhalle-frankfurt-germany",
         "eventTitle": "1981-04-14 Festhalle, Frankfurt, West Germany",
         "title": "1981-04-14 Festhalle, Frankfurt, Germany"
+      }
+    },
+    "eye:2014-02-26-entertainment-centre-brisbane-australia": {
+      "dependent-name": {
+        "event": "gig:2014-02-16-aami-park-melbourne-australia",
+        "expected": "eye:2014-02-16-aami-park-melbourne-australia"
+      }
+    },
+    "eye:2024-06-20-estadi-olimpic-lluis-companys-barcelona-spain": {
+      "dependent-name": {
+        "event": "gig:2024-06-22-estadi-olimpic-lluis-companys-barcelona-spain",
+        "expected": "eye:2024-06-22-estadi-olimpic-lluis-companys-barcelona-spain"
       }
     },
     "files:artwork-tour-cs": {
@@ -3953,6 +4061,24 @@
     "files:ticket-1991": {
       "files-no-images": true
     },
+    "gallery:1967-11-00-first-presbyterian-church-freehold-nj": {
+      "dependent-name": {
+        "event": "gig:1967-11-00a-first-presbyterian-church-freehold-nj",
+        "expected": "gallery:1967-11-00a-first-presbyterian-church-freehold-nj"
+      }
+    },
+    "gallery:1968-11-00-off-broad-street-red-bank-nj": {
+      "dependent-name": {
+        "event": "gig:1968-11-00-off-broad-street-coffee-house-red-bank-nj",
+        "expected": "gallery:1968-11-00-off-broad-street-coffee-house-red-bank-nj"
+      }
+    },
+    "gallery:1978-08-30-agora-cleveland-oh": {
+      "dependent-name": {
+        "event": "gig:1978-08-30b-agora-cleveland-oh",
+        "expected": "gallery:1978-08-30b-agora-cleveland-oh"
+      }
+    },
     "gallery:1981-04-14-festhalle-frankfurt-germany": {
       "dependent-title": {
         "event": "gig:1981-04-14-festhalle-frankfurt-germany",
@@ -3960,11 +4086,41 @@
         "title": "1981-04-14 Festhalle, Frankfurt, Germany"
       }
     },
+    "gallery:1999-06-02-palais-omnisport-paris-france": {
+      "dependent-name": {
+        "event": "gig:1999-06-02-palais-omnisports-paris-france",
+        "expected": "gallery:1999-06-02-palais-omnisports-paris-france"
+      }
+    },
+    "gallery:2014-04-17-carnegie-hall-new-york-city-ny": {
+      "dependent-name": {
+        "event": "gig:2014-04-17-bridgestone-arena-nashville-tn",
+        "expected": "gallery:2014-04-17-bridgestone-arena-nashville-tn"
+      }
+    },
+    "gallery:2016-10-17-waterstones-london-england": {
+      "dependent-name": {
+        "event": "nogig:2016-10-17b-waterstones-london-england",
+        "expected": "gallery:2016-10-17b-waterstones-london-england"
+      }
+    },
+    "gallery:2018-07-18-walter-kerr-theatre-new-york-city-ny": {
+      "dependent-name": {
+        "event": "gig:2018-07-18a-walter-kerr-theatre-new-york-city-ny",
+        "expected": "gallery:2018-07-18a-walter-kerr-theatre-new-york-city-ny"
+      }
+    },
     "gallery:2024-10-15-museum-of-modern-art-new-york-city-ny": {
       "dependent-title": {
         "event": "interview:2024-10-15-museum-of-modern-art-new-york-city-ny",
         "eventTitle": "2024-10-15 Roy And Niuta Titus Theater 1 (The), Museum Of Modern Art, New York City, NY",
         "title": "2024-10-15 Museum Of Modern Art, New York City, NY"
+      }
+    },
+    "gallery:2025-10-15b-unknown-location-hall-london-england": {
+      "dependent-name": {
+        "event": "interview:2025-10-15-royal-festival-hall-london-england",
+        "expected": "gallery:2025-10-15-royal-festival-hall-london-england"
       }
     },
     "gallery:2026-11-11-st-rose-of-lima-church-freehold-nj": {
@@ -4002,11 +4158,41 @@
         "title": "1973-09-22 Jai Alai Fronton, Miami, FL"
       }
     },
+    "gignote:1978-07-15-kilt-studio-houston-tx": {
+      "dependent-name": {
+        "event": "interview:1978-07-15a-kilt-studio-houston-tx",
+        "expected": "gignote:1978-07-15a-kilt-studio-houston-tx"
+      }
+    },
     "gignote:1978-07-28-jai-alai-fronton-miami-fl": {
       "dependent-title": {
         "event": "gig:1978-07-28-jai-alai-fronton-miami-fl",
         "eventTitle": "1978-07-28 Jai-Alai Fronton, Miami, FL",
         "title": "1978-07-28 Jai Alai Fronton, Miami, FL"
+      }
+    },
+    "gignote:1987-08-26-columns-avon-nj": {
+      "dependent-name": {
+        "event": "gig:1987-08-26b-columns-avon-nj",
+        "expected": "gignote:1987-08-26b-columns-avon-nj"
+      }
+    },
+    "gignote:1987-08-26-key-largo-belmar-nj": {
+      "dependent-name": {
+        "event": "gig:1987-08-26a-key-largo-belmar-nj",
+        "expected": "gignote:1987-08-26a-key-largo-belmar-nj"
+      }
+    },
+    "gignote:1990-12-00-ocean-way-studios-los-angeles-ca": {
+      "dependent-name": {
+        "event": "recording:1990-12-00b-ocean-way-studios-los-angeles-ca",
+        "expected": "gignote:1990-12-00b-ocean-way-studios-los-angeles-ca"
+      }
+    },
+    "gignote:2017-06-04-asbury-hotel-asbury-park-nj": {
+      "dependent-name": {
+        "event": "nogig:1949-09-23-monmouth-medical-center-long-branch-nj",
+        "expected": "gignote:1949-09-23-monmouth-medical-center-long-branch-nj"
       }
     },
     "media:1975-11-10-jai-alai-fronton-tampa-fl": {
@@ -4018,10 +4204,62 @@
           "11"
         ]
       },
+      "dependent-name": {
+        "event": "gig:1975-11-11-jai-alai-fronton-miami-fl",
+        "expected": "media:1975-11-11-jai-alai-fronton-miami-fl"
+      },
       "dependent-title": {
         "event": "gig:1975-11-10-jai-alai-fronton-tampa-fl",
         "eventTitle": "1975-11-10 Jai-Alai Fronton, Tampa, FL",
         "title": "1975-11-10 Jai Alai Fronton, Tampa, FL"
+      }
+    },
+    "media:1987-10-08-ritz-new-york-city-ny": {
+      "dependent-name": {
+        "event": "gig:1987-10-08b-ritz-new-york-city-ny",
+        "expected": "media:1987-10-08b-ritz-new-york-city-ny"
+      }
+    },
+    "media:1990-12-00-ocean-way-studios-los-angeles-ca": {
+      "dependent-name": {
+        "event": "recording:1990-12-00b-ocean-way-studios-los-angeles-ca",
+        "expected": "media:1990-12-00b-ocean-way-studios-los-angeles-ca"
+      }
+    },
+    "media:1992-11-22-radio-studio-new-york-city-ny": {
+      "dependent-name": {
+        "event": "nobruce:1992-11-22-wkrk-studio-new-york-city-ny",
+        "expected": "media:1992-11-22-wkrk-studio-new-york-city-ny"
+      }
+    },
+    "media:1999-06-03-palais-omnisport-paris-france": {
+      "dependent-name": {
+        "event": "gig:1999-06-03-palais-omnisports-paris-france",
+        "expected": "media:1999-06-03-palais-omnisports-paris-france"
+      }
+    },
+    "media:2006-06-22-new-york-city-ny": {
+      "dependent-name": {
+        "event": "gig:2006-06-22-madison-square-garden-new-york-city-ny",
+        "expected": "media:2006-06-22-madison-square-garden-new-york-city-ny"
+      }
+    },
+    "media:2020-10-23b-siriusxm-studio-new-york-city-ny": {
+      "dependent-name": {
+        "event": "interview:2020-10-23a-siriusxm-studio-new-york-city-ny",
+        "expected": "media:2020-10-23a-siriusxm-studio-new-york-city-ny"
+      }
+    },
+    "media:2021-07-14b-stone-hill-farm-colts-neck-nj": {
+      "dependent-name": {
+        "event": "interview:2021-07-14a-stone-hill-farm-colts-neck-nj",
+        "expected": "media:2021-07-14a-stone-hill-farm-colts-neck-nj"
+      }
+    },
+    "media:2023-04-11-ubs-arena-belmont-park-ny": {
+      "dependent-name": {
+        "event": "gig:2023-04-11-ubs-arena-elmont-ny",
+        "expected": "media:2023-04-11-ubs-arena-elmont-ny"
       }
     },
     "media:2026-03-28-state-capitol-saint-paul-mn": {
@@ -4029,6 +4267,12 @@
         "event": "gig:2026-03-28-state-capitol-saint-paul-mn",
         "eventTitle": "2026-03-28 Minnesota State Capitol, Saint Paul, MN",
         "title": "2026-03-28 Minneapolis State Capitol, Saint Paul, MN"
+      }
+    },
+    "media:dl-2020-09-10-springsteen-residence-colts-neck-nj": {
+      "dependent-name": {
+        "event": "interview:2020-09-10c-private-residence-colts-neck-nj",
+        "expected": "media:2020-09-10c-private-residence-colts-neck-nj"
       }
     },
     "news:1976-05-06-municipal-auditorium-shreveport-la": {
@@ -4194,6 +4438,12 @@
         "title": "1972-01-30 914 Sound Studios, Blauvelt, NY"
       }
     },
+    "recnote:1978-06-05-sports-arena-toledo-oh": {
+      "dependent-name": {
+        "event": "gig:1978-06-03-nassau-coliseum-uniondale-ny",
+        "expected": "recnote:1978-06-03-nassau-coliseum-uniondale-ny"
+      }
+    },
     "recnote:1979-12-05-power-station-new-york-city-ny": {
       "dependent-title": {
         "event": "recording:1979-12-05-power-station-new-york-city-ny",
@@ -4215,6 +4465,18 @@
         "title": "1987-04-04, Thrill Hill East, Rumson, NJ"
       }
     },
+    "recnote:1990-12-00-ocean-way-studios-los-angeles-ca": {
+      "dependent-name": {
+        "event": "recording:1990-12-00b-ocean-way-studios-los-angeles-ca",
+        "expected": "recnote:1990-12-00b-ocean-way-studios-los-angeles-ca"
+      }
+    },
+    "recnote:1992-11-22-radio-studio-new-york-city-ny": {
+      "dependent-name": {
+        "event": "nobruce:1992-11-22-wkrk-studio-new-york-city-ny",
+        "expected": "recnote:1992-11-22-wkrk-studio-new-york-city-ny"
+      }
+    },
     "recnote:1998-08-24-boxwood-studio-colts-neck-nj": {
       "dependent-title": {
         "event": "recording:1998-08-24-boxwood-studio-colts-neck-nj",
@@ -4222,11 +4484,47 @@
         "title": "1997-08-24 Boxwood Studio, Colts Neck, NJ"
       }
     },
+    "recnote:1999-06-02-palais-omnisport-paris-france": {
+      "dependent-name": {
+        "event": "gig:1999-06-02-palais-omnisports-paris-france",
+        "expected": "recnote:1999-06-02-palais-omnisports-paris-france"
+      }
+    },
+    "recnote:1999-06-03-palais-omnisport-paris-france": {
+      "dependent-name": {
+        "event": "gig:1999-06-03-palais-omnisports-paris-france",
+        "expected": "recnote:1999-06-03-palais-omnisports-paris-france"
+      }
+    },
+    "recnote:2002-07-30-convention-hall-asbury-park-nj-evening": {
+      "dependent-name": {
+        "event": "rehearsal:2002-07-30b-convention-hall-asbury-park-nj",
+        "expected": "recnote:2002-07-30b-convention-hall-asbury-park-nj"
+      }
+    },
+    "recnote:2020-10-19a-recnote-residence-colts-neck-nj": {
+      "dependent-name": {
+        "event": "interview:2020-10-19a-private-residence-colts-neck-nj",
+        "expected": "recnote:2020-10-19a-private-residence-colts-neck-nj"
+      }
+    },
+    "recnote:2020-10-23b-siriusxm-studio-new-york-city-ny": {
+      "dependent-name": {
+        "event": "interview:2020-10-23a-siriusxm-studio-new-york-city-ny",
+        "expected": "recnote:2020-10-23a-siriusxm-studio-new-york-city-ny"
+      }
+    },
     "recnote:2026-04-26-moody-center-austin-tx": {
       "dependent-title": {
         "event": "gig:2026-04-26-moody-center-austin-tx",
         "eventTitle": "2026-04-26 Moody Center, University Of Texas, Austin, TX",
         "title": "2026-04-26 Moody Center, Austin, TX"
+      }
+    },
+    "recnote:dl-2021-11-12-basie-center-cinemas-red-bank-nj": {
+      "dependent-name": {
+        "event": "interview:2021-11-12b-basie-center-cinemas-red-bank-nj",
+        "expected": "recnote:2021-11-12b-basie-center-cinemas-red-bank-nj"
       }
     },
     "recording:1984-09-00-shakedown-studios-new-york-city-ny": {
@@ -4624,6 +4922,16 @@
         "REPORTING/MISSING-date-parts-in-tags-cleanedup.org"
       ]
     },
+    "dependent-name": {
+      "count": 36,
+      "files": [
+        "gignote/*.html",
+        "gallery/*.html",
+        "eye/*.html",
+        "media/*.html",
+        "recnote/*.html"
+      ]
+    },
     "dependent-title": {
       "count": 39,
       "files": [
@@ -4664,10 +4972,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.23.0",
-    "commit": "778440c",
+    "bruceparser": "0.24.0",
+    "commit": "2c996c2",
     "date": "2026-11-19",
-    "feed": "1.5"
+    "feed": "1.6"
   },
   "site": "https://brucebase.wikidot.com",
   "songTags": {
