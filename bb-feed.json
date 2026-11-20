@@ -344,6 +344,20 @@
       "kind": "no-entry",
       "link": "1974#140874"
     },
+    "130c126c-77c6-4368-bf0e-ee60a6dbea72": {
+      "candidates": [
+        {
+          "anchor": "1971#301071",
+          "heading": "1971-10-30 - VCU NEW GYM, VIRGINIA COMMONWEALTH UNIVERSITY, RICHMOND, VA",
+          "page": "gig:1971-10-30-vcu-new-gym-richmond-va"
+        }
+      ],
+      "date": "1971-10-30",
+      "heading": "1971-10-29 - THE UPSTAGE, ASBURY PARK, NJ",
+      "kind": "date-differs",
+      "link": "1971#291071b",
+      "page": "gig:1971-10-29-upstage-asbury-park-nj"
+    },
     "13271b7c-3df7-4905-acf2-37b94efa6b3a": {
       "date": "2002-05",
       "kind": "no-entry",
@@ -527,6 +541,13 @@
         "de9b15c5-862e-4c15-94b2-a946e5c3ee92"
       ],
       "page": "interview:2021-06-10-siriusxm-studio-new-york-city-ny"
+    },
+    "20326b65-08df-4a9e-893c-8803a75ac244": {
+      "date": "1991-02-17",
+      "heading": "1991-02-16 - MCENROE RESIDENCE, MALIBU, CA",
+      "kind": "date-differs",
+      "link": "1991#160291",
+      "page": "gig:1991-02-16-private-residence-malibu-ca"
     },
     "2244040b-155a-4308-9950-c1b3bc8840f5": {
       "candidates": [
@@ -1058,6 +1079,13 @@
       "kind": "no-entry",
       "link": "1972#120272"
     },
+    "481c8331-d17d-47b9-80e6-d6bb8a3f9cf4": {
+      "date": "1971-07-26",
+      "heading": "1971-07-25 - MONMOUTH HILLS CLUBHOUSE, RUMSON, NJ",
+      "kind": "date-differs",
+      "link": "1971#250771",
+      "page": "gig:1971-07-25-monmouth-hills-clubhouse-rumson-nj"
+    },
     "48cdf2ae-0800-469e-8ef9-161cf4377e1c": {
       "candidates": [
         {
@@ -1392,6 +1420,13 @@
       "date": "1973-05-16",
       "kind": "no-entry",
       "link": "1973#160573"
+    },
+    "5af0fe0a-0476-4cf4-beab-b46f28bb6a09": {
+      "date": "1975-10-12",
+      "heading": "1975-10-11 - MONMOUTH ARTS CENTER, RED BANK, NJ",
+      "kind": "date-differs",
+      "link": "1975#111075c",
+      "page": "gig:1975-10-11-monmouth-arts-center-red-bank-nj-late"
     },
     "5cb41a91-042f-4780-9532-093327265ffa": {
       "candidates": [
@@ -2282,6 +2317,13 @@
       "kind": "no-entry",
       "link": "1973#050173"
     },
+    "9289f896-891f-4c8c-ba92-d77f09370d97": {
+      "date": "2012-06-04",
+      "heading": "2012-06-03 - BELA VISTA PARK, LISBON, PORTUGAL",
+      "kind": "date-differs",
+      "link": "2012#030612",
+      "page": "gig:2012-06-03-bela-vista-park-lisbon-portugal"
+    },
     "92bbd86f-8ccb-4410-9dd9-21384bfaf531": {
       "candidates": [
         {
@@ -2900,6 +2942,25 @@
       "date": "1968-09-28",
       "kind": "no-entry",
       "link": "1968#280968"
+    },
+    "c4e89808-65ea-4f9e-9ed5-58864a858d50": {
+      "candidates": [
+        {
+          "anchor": "1974#270474a",
+          "heading": "1974-04-27 - UCONN ICE ARENA, PARKING LOT, UNIVERSITY OF CONNECTICUT, STORRS, CT",
+          "page": "gig:1974-04-27-uconn-ice-arena-storrs-ct"
+        },
+        {
+          "anchor": "1974#270474b",
+          "heading": "1974-04-27 - GYMNASIUM, UNIVERSITY OF HARTFORD, HARTFORD, CT",
+          "page": "gig:1974-04-27-gymnasium-hartford-ct"
+        }
+      ],
+      "date": "1974-04-27",
+      "heading": "1974-04-26 - ALUMNAE HALL, BROWN UNIVERSITY, PROVIDENCE, RI",
+      "kind": "date-differs",
+      "link": "1974#260474",
+      "page": "gig:1974-04-26-alumnae-hall-providence-ri"
     },
     "c52aae7a-e03d-4ea9-b91e-9c1ba77106fc": {
       "candidates": [
@@ -3832,6 +3893,20 @@
       "date": "1967-07-26",
       "kind": "no-entry",
       "link": "1967#260767"
+    },
+    "fe126f9a-b359-47e2-964c-3d118a179c54": {
+      "candidates": [
+        {
+          "anchor": "1971#040771",
+          "heading": "1971-07-04 - STUDENT PRINCE, ASBURY PARK, NJ",
+          "page": "gig:1971-07-04-student-prince-asbury-park-nj"
+        }
+      ],
+      "date": "1971-07-04",
+      "heading": "1971-07-03 - THE UPSTAGE, ASBURY PARK, NJ",
+      "kind": "date-differs",
+      "link": "1971#030771b",
+      "page": "gig:1971-07-03-upstage-asbury-park-nj"
     },
     "fe60af3b-38e0-48a2-bd83-6ecd783fc4cf": {
       "candidates": [
@@ -4952,7 +5027,7 @@
       ]
     },
     "mb": {
-      "count": 216,
+      "count": 223,
       "files": [
         "search/event_linked_to_artist.org",
         "brucebase-event.txt"
@@ -4972,10 +5047,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.24.0",
-    "commit": "2c996c2",
+    "bruceparser": "0.26.0",
+    "commit": "cfce494",
     "date": "2026-11-19",
-    "feed": "1.6"
+    "feed": "1.7"
   },
   "site": "https://brucebase.wikidot.com",
   "songTags": {
