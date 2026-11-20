@@ -3928,6 +3928,191 @@
       "link": "1973#020273"
     }
   },
+  "mbWorks": {
+    "2a35fcb8-c90e-40d6-b3c9-48181136b2d3": {
+      "kind": "title",
+      "link": "song:meet-me-in-the-city",
+      "title": "Meet Me In The City",
+      "work": "In the City Tonight"
+    },
+    "545da9e7-c563-31fd-8342-6f40060f0af2": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#lostintheflood"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#lostintheflood"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#lostintheflood",
+      "missing": "page",
+      "work": "Lost in the Flood"
+    },
+    "5a564a66-106f-38b6-823a-101396c9ad09": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#itshardtobeasaintinthecity"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#itshardtobeasaintinthecity"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#itshardtobeasaintinthecity",
+      "missing": "page",
+      "work": "It’s Hard to Be a Saint in the City"
+    },
+    "5c22bc12-7415-3e6e-a0de-4da58125e44c": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#doesthisbusstopat82ndstreet"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#doesthisbusstopat82ndstreet"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#doesthisbusstopat82ndstreet",
+      "missing": "page",
+      "work": "Does This Bus Stop at 82nd Street?"
+    },
+    "6eaeba87-f301-3932-84a5-39d4d88f9c53": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#theangel"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#theangel"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#theangel",
+      "missing": "page",
+      "work": "The Angel"
+    },
+    "7a757d97-da2a-3751-8d32-94d471de2eeb": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#blindedbythelight"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#blindedbythelight"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#blindedbythelight",
+      "missing": "page",
+      "work": "Blinded by the Light"
+    },
+    "904c52a3-2cd7-4c3e-867a-340581b0971f": {
+      "kind": "shared",
+      "link": "song:don-t-back-down",
+      "others": [
+        {
+          "mbid": "cf351184-42d1-48b2-8f1c-7b1914ea7270",
+          "title": "Don’t Back Down on Our Love"
+        }
+      ],
+      "title": "Don't Back Down",
+      "work": "Don’t Back Down"
+    },
+    "b1528b3f-0c0e-3977-ba98-5cb5b38108db": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#growinup"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#growinup"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#growinup",
+      "missing": "page",
+      "work": "Growin’ Up"
+    },
+    "cf351184-42d1-48b2-8f1c-7b1914ea7270": {
+      "kind": "shared",
+      "link": "song:don-t-back-down",
+      "others": [
+        {
+          "mbid": "904c52a3-2cd7-4c3e-867a-340581b0971f",
+          "title": "Don’t Back Down"
+        }
+      ],
+      "title": "Don't Back Down",
+      "work": "Don’t Back Down on Our Love"
+    },
+    "d0241567-4101-3d1c-b4a8-d48784285fb6": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#maryqueenofarkansas"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#maryqueenofarkansas"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#maryqueenofarkansas",
+      "missing": "page",
+      "work": "Mary Queen of Arkansas"
+    },
+    "dba2f648-cb81-3d19-b252-1bbecc62758b": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#spiritinthenight"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#spiritinthenight"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#spiritinthenight",
+      "missing": "page",
+      "work": "Spirit in the Night"
+    },
+    "f73ef1a9-33fe-3f8c-8c87-16e4c0469382": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions#foryou"
+        },
+        {
+          "link": "stats:greetings-from-asbury-park-nj-studio-sessions-details#foryou"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:greetings-from-asbury-park-studio-sessions#foryou",
+      "missing": "page",
+      "work": "For You"
+    },
+    "f78b04ca-bf32-41cc-bd36-70d7d6144059": {
+      "kind": "title",
+      "link": "song:tarantella-napoletana",
+      "title": "Tarantella Napoletana",
+      "work": "Tarantella Napolitana"
+    },
+    "fdb63bfc-2429-474a-816d-281d1d33ceb3": {
+      "candidates": [
+        {
+          "likely": true,
+          "link": "stats:darkness-on-the-edge-of-town-studio-sessions#kingsrock"
+        }
+      ],
+      "kind": "no-target",
+      "link": "stats:darkness-on-the-edge-of-town-studio-sessions#kingsrockkingsbigchance",
+      "missing": "anchor",
+      "work": "King’s Rock (King’s Big Chance)"
+    }
+  },
   "pages": {
     "content:american-hotel-freehold-nj": {
       "no-tags": true
@@ -5033,6 +5218,12 @@
         "brucebase-event.txt"
       ]
     },
+    "mbWorks": {
+      "count": 14,
+      "files": [
+        "search/work_linked_to_artist.xml"
+      ]
+    },
     "no-parent": {
       "count": 105,
       "files": [
@@ -5047,10 +5238,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.26.0",
-    "commit": "cfce494",
+    "bruceparser": "0.27.0",
+    "commit": "917a36f",
     "date": "2026-11-19",
-    "feed": "1.7"
+    "feed": "1.8"
   },
   "site": "https://brucebase.wikidot.com",
   "songTags": {
