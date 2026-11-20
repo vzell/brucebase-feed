@@ -5240,7 +5240,7 @@
   "run": {
     "bruceparser": "0.27.0",
     "commit": "917a36f",
-    "date": "2026-11-19",
+    "date": "2026-11-21",
     "feed": "1.8"
   },
   "site": "https://brucebase.wikidot.com",
