@@ -61,7 +61,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   not: a reader ignores a kind it does not know (`date-parts` and
   `files-no-images` came with feed 1.1, `anchors` with 1.2, `mb` with 1.3,
   `tagTables` with 1.4, `songTags` and `venueTags` with 1.5,
-  `dependent-name` with 1.6; all keep format 1).
+  `dependent-name` with 1.6, the `mb` kind `date-differs` with 1.7; all
+  keep format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -119,10 +120,14 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   `brucebase-event.txt`. Each:
   - `kind`: `no-entry` (the link's anchor is not on the wiki; most often the
     wiki writes that date with a letter now), `shared` (two or more events
-    link one entry) or `not-anchor` (the link is no year-page anchor);
+    link one entry), `not-anchor` (the link is no year-page anchor) or,
+    since feed 1.7, `date-differs` (none of those, and the anchor's date is
+    outside the event's date: compared as far as both go, an anchor's `00`
+    left out, a span `begin - end` holding it fits);
   - `link`: the link as MusicBrainz has it, without the site;
-  - `date`: the event's date, when it has one;
-  - `page`, `heading`: for `shared`, the entry the link reaches;
+  - `date`: the event's date, when it has one (`begin - end` for a span);
+  - `page`, `heading`: for `shared` and `date-differs`, the entry the link
+    reaches;
   - `dateDiffers`: for `shared`, the event's date is not the entry's (likely
     this link is the wrong one);
   - `others`: for `shared`, the other events' MBIDs;
