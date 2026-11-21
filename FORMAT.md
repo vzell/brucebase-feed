@@ -83,6 +83,9 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
       no `event` is given, its parent page's (the year page's title for that
       parent);
     - `event`: present when the report names the event page.
+    A page whose title differs from `eventTitle` only in blanks (a double
+    blank in the wiki's title) is not listed (feed.sh 1.8.1): a browser shows
+    the two the same. BruceParser's reports keep it.
   - `date-parts`: the date tags that do not fit the date in the page's name,
     `{ "missing": [tag, …], "wrong": [tag, …] }`, either list left out when
     empty. Only pages that are no event (`gig`, `nogig`, `interview`,
