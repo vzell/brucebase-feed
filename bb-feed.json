@@ -55,6 +55,9 @@
     "1978#150778a": [
       "interview:1978-07-15a-kilt-studio-houston-tx"
     ],
+    "1978#180778": [
+      "gig:1978-07-18-municipal-auditorium-jackson-ms"
+    ],
     "1978#280778": [
       "gig:1978-07-28-jai-alai-fronton-miami-fl"
     ],
@@ -69,6 +72,9 @@
     ],
     "1981#140481": [
       "gig:1981-04-14-festhalle-frankfurt-germany"
+    ],
+    "1985#241285": [
+      "gig:1985-12-24-private-residence-rumson-nj"
     ],
     "1987#040487": [
       "recording:1987-04-04-thrill-hill-east-rumson-nj"
@@ -4559,6 +4565,13 @@
         "title": "1981-04-14 Festhalle, Frankfurt, Germany"
       }
     },
+    "news:1985-12-24-private-residence-rumson-nj": {
+      "dependent-title": {
+        "event": "gig:1985-12-24-private-residence-rumson-nj",
+        "eventTitle": "1985-12-24 Springsteen Residence, Rumson, NJ",
+        "title": "1985-12-24 Springsteen Residence, Rumson, NJ Rumson Nj"
+      }
+    },
     "news:2026-05-16-madison-square-garden-new-york-city-ny": {
       "dependent-title": {
         "event": "gig:2026-05-16-madison-square-garden-new-york-city-ny",
@@ -4577,6 +4590,25 @@
       "dependent-title": {
         "eventTitle": "2012-11-15 CenturyLink Center, Omaha, NE",
         "title": "2012-11-15 Centurylink Center, Omaha, NE"
+      }
+    },
+    "news:story-1988-06-21-villa-park-birmingham-england-1": {
+      "date-parts": {
+        "wrong": [
+          "22",
+          "25"
+        ]
+      }
+    },
+    "news:story-1988-06-21-villa-park-birmingham-england-2": {
+      "date-parts": {
+        "wrong": [
+          "09",
+          "10",
+          "22",
+          "25",
+          "july"
+        ]
       }
     },
     "news:web-1973-12-22-uncle-al-s-erlton-lounge-cherry-hill-nj": {
@@ -5077,6 +5109,7 @@
     },
     "story:story-1978-07-18-municipal-auditorium-jackson-ms": {
       "dependent-title": {
+        "event": "gig:1978-07-18-municipal-auditorium-jackson-ms",
         "eventTitle": "1978-07-18 Jackson Municipal Auditorium, Jackson, MS",
         "title": "1978-07-18 Municipal Auditorium, Jackson, MS"
       }
@@ -5152,6 +5185,7 @@
     },
     "story:story-1981-04-14-festhalle-frankfurt-germany": {
       "dependent-title": {
+        "event": "gig:1981-04-14-festhalle-frankfurt-germany",
         "eventTitle": "1981-04-14 Festhalle, Frankfurt, West Germany",
         "title": "1981-04-14 Festhalle, Frankfurt, Germany"
       }
@@ -5177,7 +5211,7 @@
   },
   "reports": {
     "date-parts": {
-      "count": 3,
+      "count": 5,
       "files": [
         "REPORTING/MISSING-date-parts-in-tags-cleanedup.org"
       ]
@@ -5193,7 +5227,7 @@
       ]
     },
     "dependent-title": {
-      "count": 39,
+      "count": 40,
       "files": [
         "REPORTING/differences-detail-title-category-title-cleanedup.txt",
         "REPORTING/DIFFERENCES-in-titles-between-year-and-detail-pages-CLEANEDUP.txt"
@@ -5238,10 +5272,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.27.0",
-    "commit": "917a36f",
+    "bruceparser": "0.32.0",
+    "commit": "1be5437",
     "date": "2026-11-21",
-    "feed": "1.8"
+    "feed": "1.8.1"
   },
   "site": "https://brucebase.wikidot.com",
   "songTags": {
