@@ -76,6 +76,10 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 - **`pages`:** keyed by the wiki's page name, without the site and without
   `/noredirect/true`. A page has one entry per kind it carries:
   - `no-parent`, `no-tags`, `files-no-images`: `true`;
+  - `no-parent`: a dated `media`, `news`, `recnote`, `story`, `gignote`,
+    `gallery` or `eye` page with no link in its breadcrumbs (since feed 1.8.3,
+    BruceParser 0.38.0; until then only the dated subtype pages of the first
+    four were checked);
   - `first-letter`: the missing tag (`"a"` … `"z"`, `"0-9"`);
   - `dependent-title`:
     - `title`: the page's own title;
@@ -91,9 +95,12 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
     empty. Only pages that are no event (`gig`, `nogig`, `interview`,
     `rehearsal`, `recording`: ShowAllEntityData checks those itself), whose
     name holds a date, and which have tags at all (`no-tags` covers the rest);
-  - `files-no-images`: the page is tagged `files` and shows no image. Not the
-    other way round: a venue or retail page with images and no `files` tag
-    is the wiki's rule, not an error;
+  - `files-no-images`: the page is tagged `files` and shows no image. The
+    wiki's tag means "files attached to this page": a page that only shows
+    pictures stored under other pages (a retail page's covers) has no tag by
+    rule, and a page with its own pictures but no tag is not in the feed
+    either. Since feed 1.8.3 (BruceParser 0.37.0) news, recnote and relation
+    pages are checked too;
   - `dependent-name` (since feed 1.6): a show's dependent page (`gignote`,
     `gallery`, `eye`, `media`, `recnote`) whose name differs from the show
     its breadcrumbs name (their last link, when it is a page of an event
