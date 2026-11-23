@@ -62,7 +62,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   `files-no-images` came with feed 1.1, `anchors` with 1.2, `mb` with 1.3,
   `tagTables` with 1.4, `songTags` and `venueTags` with 1.5,
   `dependent-name` with 1.6, the `mb` kind `date-differs` with 1.7,
-  `mbWorks` with 1.8; all keep format 1).
+  `mbWorks` with 1.8, `dependent-name` rows of `onstage`, `offstage` and
+  `soundcheck` pages with 1.9; all keep format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -72,7 +73,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
 - **`reports`:**
   - `count`: how many pages carry that kind;
   - `files`: the pipeline's report files it was read from (in its run
-    directory; not published); for `dependent-name` the run's pages it read.
+    directory; not published); for `dependent-name` the run's pages it read
+    and the stage page report.
 - **`pages`:** keyed by the wiki's page name, without the site and without
   `/noredirect/true`. A page has one entry per kind it carries:
   - `no-parent`, `no-tags`, `files-no-images`: `true`;
@@ -113,8 +115,12 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
     pages of one date, or with the `dl-` of a download's note
     (`recnote:dl-2020-04-08-…`), or when Wikidot's cut of a long name
     explains it (one name starts with the other, the cut one has 55
-    characters or more). Left out: `news` (named by the article's date),
-    `story` (its own prefixes) and `onstage` (no breadcrumbs).
+    characters or more; a `-1`/`-2` page cut to 60 minus its suffix). Left
+    out: `news` (named by the article's date) and `story` (its own
+    prefixes). Since feed 1.9 (BruceParser 0.40.0) also `onstage`,
+    `offstage` and `soundcheck` pages: they have no breadcrumbs, so their
+    show is the one show page of their date (a day with several shows, or
+    none, is left out).
 - **`anchors`** (since feed 1.2): the year-page anchors of the shows the
   feed names, a show being a page of an event category (`gig`, `nogig`,
   `interview`, `rehearsal`, `recording`, `nobruce`) in `pages` or a
