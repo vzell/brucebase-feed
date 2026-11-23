@@ -4192,6 +4192,12 @@
     "content:v-f-w-hall-freehold-nj": {
       "no-tags": true
     },
+    "eye:1971-09-01-garfield-park-long-branch-nj": {
+      "no-parent": true
+    },
+    "eye:1973-03-24-student-center-lewiston-ny": {
+      "no-parent": true
+    },
     "eye:1974-05-11-student-union-building-rutherford-nj": {
       "dependent-name": {
         "event": "gig:1974-05-11-student-union-building-teaneck-nj",
@@ -4376,6 +4382,12 @@
         "expected": "gallery:2018-07-18a-walter-kerr-theatre-new-york-city-ny"
       }
     },
+    "gallery:2019-12-06-stone-pony-asbury-park-nj": {
+      "no-parent": true
+    },
+    "gallery:2020-05-06-siriusxm-studio-new-york-city-ny": {
+      "no-parent": true
+    },
     "gallery:2024-10-15-museum-of-modern-art-new-york-city-ny": {
       "dependent-title": {
         "event": "interview:2024-10-15-museum-of-modern-art-new-york-city-ny",
@@ -4410,6 +4422,9 @@
         "title": "1972-06-00 Private Property, Point Pleasant, NJ"
       }
     },
+    "gignote:1973-01-00-unknown-location-red-bank-nj": {
+      "no-parent": true
+    },
     "gignote:1973-02-16-boylan-gymnasium-west-long-branch-nj": {
       "dependent-title": {
         "event": "gig:1973-02-16-boylan-gymnasium-west-long-branch-nj",
@@ -4417,12 +4432,21 @@
         "title": "1973-02-16 Boylan Gymnasium, Monmouth College, West Long Branch, NJ"
       }
     },
+    "gignote:1973-06-03-civic-center-baltimore-md": {
+      "no-parent": true
+    },
     "gignote:1973-09-22a-jai-alai-fronton-miami-fl": {
       "dependent-title": {
         "event": "nogig:1973-09-22a-jai-alai-fronton-miami-fl",
         "eventTitle": "1973-09-22 Jai-Alai Fronton, Miami, FL",
         "title": "1973-09-22 Jai Alai Fronton, Miami, FL"
       }
+    },
+    "gignote:1975-10-03-rivoli-theatre-indianapolis-in": {
+      "no-parent": true
+    },
+    "gignote:1978-06-12-mary-e-sawyer-auditorium-la-crosse-wi": {
+      "no-parent": true
     },
     "gignote:1978-07-15-kilt-studio-houston-tx": {
       "dependent-name": {
@@ -4436,6 +4460,12 @@
         "eventTitle": "1978-07-28 Jai-Alai Fronton, Miami, FL",
         "title": "1978-07-28 Jai Alai Fronton, Miami, FL"
       }
+    },
+    "gignote:1983-06-06-hit-factory-new-york-city-ny": {
+      "no-parent": true
+    },
+    "gignote:1983-06-13-hit-factory-new-york-city-ny": {
+      "no-parent": true
     },
     "gignote:1987-08-26-columns-avon-nj": {
       "dependent-name": {
@@ -4455,11 +4485,35 @@
         "expected": "gignote:1990-12-00b-ocean-way-studios-los-angeles-ca"
       }
     },
+    "gignote:2012-03-17-red-light-cafe-atlanta-ga": {
+      "no-parent": true
+    },
+    "gignote:2014-03-00-fort-hancock-sandy-hook-nj": {
+      "no-parent": true
+    },
+    "gignote:2014-09-04-unknown-location-new-york-city-ny": {
+      "no-parent": true
+    },
+    "gignote:2015-10-25-state-theatre-new-brunswick-nj": {
+      "no-parent": true
+    },
+    "gignote:2016-02-23-quicken-loans-arena-cleveland-oh": {
+      "no-parent": true
+    },
     "gignote:2017-06-04-asbury-hotel-asbury-park-nj": {
       "dependent-name": {
         "event": "nogig:1949-09-23-monmouth-medical-center-long-branch-nj",
         "expected": "gignote:1949-09-23-monmouth-medical-center-long-branch-nj"
       }
+    },
+    "gignote:2021-07-26-ana-intercontinental-hotel-tokyo-japan": {
+      "no-parent": true
+    },
+    "gignote:2021-11-25-siriusxm-studio-new-york-city-ny": {
+      "no-parent": true
+    },
+    "gignote:2023-01-31-amalie-arena-tampa-fl": {
+      "no-parent": true
     },
     "media:1975-11-10-jai-alai-fronton-tampa-fl": {
       "date-parts": {
@@ -4510,6 +4564,15 @@
         "expected": "media:2006-06-22-madison-square-garden-new-york-city-ny"
       }
     },
+    "media:2020-01-17-deeridge-farm-wellington-fl": {
+      "no-parent": true
+    },
+    "media:2020-01-18-paramount-theatre-asbury-park-nj": {
+      "no-parent": true
+    },
+    "media:2020-03-26-siriusxm-studio-new-york-city-ny": {
+      "no-parent": true
+    },
     "media:2020-10-23b-siriusxm-studio-new-york-city-ny": {
       "dependent-name": {
         "event": "interview:2020-10-23a-siriusxm-studio-new-york-city-ny",
@@ -4528,6 +4591,9 @@
         "expected": "media:2023-04-11-ubs-arena-elmont-ny"
       }
     },
+    "media:2025-05-19-eve-studios-bredbury-england": {
+      "no-parent": true
+    },
     "media:2026-03-28-state-capitol-saint-paul-mn": {
       "dependent-title": {
         "event": "gig:2026-03-28-state-capitol-saint-paul-mn",
@@ -4540,6 +4606,12 @@
         "event": "interview:2020-09-10c-private-residence-colts-neck-nj",
         "expected": "media:2020-09-10c-private-residence-colts-neck-nj"
       }
+    },
+    "news:1968-07-17-off-broad-street-red-bank-nj-late": {
+      "no-parent": true
+    },
+    "news:1973-12-22-uncle-al-s-erlton-lounge-cherry-hill-nj": {
+      "files-no-images": true
     },
     "news:1976-05-06-municipal-auditorium-shreveport-la": {
       "dependent-title": {
@@ -4571,6 +4643,18 @@
         "eventTitle": "1985-12-24 Springsteen Residence, Rumson, NJ",
         "title": "1985-12-24 Springsteen Residence, Rumson, NJ Rumson Nj"
       }
+    },
+    "news:1995-08-06-metro-long-branch-nj": {
+      "no-parent": true
+    },
+    "news:2008-08-23-scottrade-center-st-louis-mo": {
+      "no-parent": true
+    },
+    "news:2018-10-03-walter-kerr-theatre-new-york-city-ny": {
+      "no-parent": true
+    },
+    "news:2021-07-26-ana-intercontinental-hotel-tokyo-japan": {
+      "no-parent": true
     },
     "news:2026-05-16-madison-square-garden-new-york-city-ny": {
       "dependent-title": {
@@ -4640,6 +4724,9 @@
     },
     "news:web-2026-04-07-kia-forum-inglewood-ca": {
       "no-tags": true
+    },
+    "news:web-shea-s-theatre-buffalo-ny": {
+      "files-no-images": true
     },
     "offstage:1973-02-28-memorial-civic-auditorium-stockton-ca": {
       "dependent-title": {
@@ -4736,6 +4823,9 @@
         "expected": "recnote:1978-06-03-nassau-coliseum-uniondale-ny"
       }
     },
+    "recnote:1978-08-10-community-war-memorial-rochester-ny": {
+      "files-no-images": true
+    },
     "recnote:1979-12-05-power-station-new-york-city-ny": {
       "dependent-title": {
         "event": "recording:1979-12-05-power-station-new-york-city-ny",
@@ -4749,6 +4839,9 @@
         "eventTitle": "1981-04-14 Festhalle, Frankfurt, West Germany",
         "title": "1981-04-14 Festhalle, Frankfurt, Germany"
       }
+    },
+    "recnote:1985-04-16-kokuritsu-yoyogi-kyogi-jo-tokyo-japan": {
+      "no-parent": true
     },
     "recnote:1987-04-04-thrill-hill-east-rumson-nj": {
       "dependent-title": {
@@ -4822,17 +4915,53 @@
     "recording:1984-09-00-shakedown-studios-new-york-city-ny": {
       "no-tags": true
     },
+    "relation:annie-lennox": {
+      "files-no-images": true
+    },
     "relation:chubby-checker": {
       "no-tags": true
+    },
+    "relation:chuck-plotkin": {
+      "files-no-images": true
+    },
+    "relation:cindy-mizelle": {
+      "files-no-images": true
     },
     "relation:david-mansfield": {
       "no-tags": true
     },
+    "relation:emmylou-harris": {
+      "files-no-images": true
+    },
     "relation:gladys-avignon": {
       "no-tags": true
     },
+    "relation:john-wesley-harding": {
+      "files-no-images": true
+    },
+    "relation:richard-neer": {
+      "files-no-images": true
+    },
     "relation:rob-demartin": {
       "first-letter": "d"
+    },
+    "relation:ronnie-spector": {
+      "files-no-images": true
+    },
+    "relation:roy-orbison": {
+      "files-no-images": true
+    },
+    "relation:the-edge": {
+      "files-no-images": true
+    },
+    "relation:the-rolling-stones": {
+      "files-no-images": true
+    },
+    "relation:the-sessions-band": {
+      "files-no-images": true
+    },
+    "relation:tom-morello": {
+      "files-no-images": true
     },
     "retail:a-more-perfect-union-credits": {
       "no-tags": true
@@ -5234,7 +5363,7 @@
       ]
     },
     "files-no-images": {
-      "count": 32,
+      "count": 47,
       "files": [
         "REPORTING/MISMATCH-images-files-tag.org"
       ]
@@ -5259,7 +5388,7 @@
       ]
     },
     "no-parent": {
-      "count": 105,
+      "count": 133,
       "files": [
         "REPORTING/NO-PARENT-detail-pages.org"
       ]
@@ -5272,10 +5401,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.34.0",
-    "commit": "0ff3b21",
+    "bruceparser": "0.39.0",
+    "commit": "914b2df",
     "date": "2026-11-23",
-    "feed": "1.8.2"
+    "feed": "1.8.3"
   },
   "site": "https://brucebase.wikidot.com",
   "songTags": {
