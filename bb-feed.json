@@ -6,8 +6,17 @@
     "1967#001167a": [
       "gig:1967-11-00a-first-presbyterian-church-freehold-nj"
     ],
+    "1967#220967": [
+      "gig:1967-09-22-west-school-freehold-nj"
+    ],
     "1968#001168": [
       "gig:1968-11-00-off-broad-street-coffee-house-red-bank-nj"
+    ],
+    "1970#050670": [
+      "gig:1970-06-05-unknown-location-nj"
+    ],
+    "1970#200670": [
+      "gig:1970-06-20-string-factory-richmond-va"
     ],
     "1972#000472b": [
       "recording:1972-04-00b-mediasound-studios-new-york-city-ny",
@@ -19,11 +28,29 @@
     "1972#071272a": [
       "gig:1972-12-07-correctional-facility-ossining-ny"
     ],
+    "1973#010673": [
+      "gig:1973-06-01-roads-coliseum-hampton-va"
+    ],
+    "1973#110273": [
+      "gig:1973-02-11-bishop-dougherty-student-center-south-orange"
+    ],
+    "1973#140273": [
+      "gig:1973-02-14-vcu-new-gym-richmond-va"
+    ],
     "1973#160273": [
       "gig:1973-02-16-boylan-gymnasium-west-long-branch-nj"
     ],
+    "1973#201273": [
+      "gig:1973-12-20-bristol-motor-inn-bristol-ri"
+    ],
     "1973#220973a": [
       "nogig:1973-09-22a-jai-alai-fronton-miami-fl"
+    ],
+    "1973#230373": [
+      "gig:1973-03-23-palace-concert-theater-providence-ri"
+    ],
+    "1973#260273": [
+      "gig:1973-02-26-troubadour-west-hollywood-ca"
     ],
     "1973#280273": [
       "gig:1973-02-28-memorial-civic-auditorium-stockton-ca"
@@ -31,11 +58,23 @@
     "1973#290173": [
       "recording:1973-01-29-914-sound-studios-blauvelt-ny"
     ],
+    "1973#290973": [
+      "gig:1973-09-29-college-waynesburg-pa"
+    ],
     "1973#300173": [
       "recording:1973-01-30-914-sound-studios-blauvelt-ny"
     ],
     "1974#110574": [
       "gig:1974-05-11-student-union-building-teaneck-nj"
+    ],
+    "1975#031175": [
+      "gig:1975-11-03-grady-gammage-memorial-auditorium-tempe-az"
+    ],
+    "1975#041175": [
+      "gig:1975-11-04-grady-gammage-memorial-auditorium-tempe-az"
+    ],
+    "1975#061175": [
+      "gig:1975-11-06-grady-gammage-memorial-auditorium-tempe-az"
     ],
     "1975#101175": [
       "gig:1975-11-10-jai-alai-fronton-tampa-fl"
@@ -46,11 +85,29 @@
     "1975#250775b": [
       "gig:1975-07-25b-keystone-hall-kutztown-pa"
     ],
+    "1976#020476": [
+      "gig:1976-04-02-macauley-s-theatre-louisville-ky"
+    ],
     "1976#060576": [
       "gig:1976-05-06-municipal-auditorium-shreveport-la"
     ],
+    "1976#120476": [
+      "gig:1976-04-12-cambria-county-war-memorial-arena-johnstown-p"
+    ],
+    "1977#250277": [
+      "gig:1977-02-25-edward-c-elliott-hall-of-music-west-lafayette"
+    ],
     "1978#030678": [
       "gig:1978-06-03-nassau-coliseum-uniondale-ny"
+    ],
+    "1978#050878": [
+      "gig:1978-08-05-gardens-louisville-ky"
+    ],
+    "1978#060678": [
+      "gig:1978-06-06-convention-center-indianapolis-in"
+    ],
+    "1978#140878": [
+      "gig:1978-08-14-roads-coliseum-hampton-va"
     ],
     "1978#150778a": [
       "interview:1978-07-15a-kilt-studio-houston-tx"
@@ -58,8 +115,20 @@
     "1978#180778": [
       "gig:1978-07-18-municipal-auditorium-jackson-ms"
     ],
+    "1978#201278": [
+      "gig:1978-12-20-center-arena-seattle-wa"
+    ],
+    "1978#230578": [
+      "gig:1978-05-23-shea-s-theatre-buffalo-ny"
+    ],
+    "1978#261078": [
+      "rehearsal:1978-10-26-telegraph-hill-studio-holmdel-nj"
+    ],
     "1978#280778": [
       "gig:1978-07-28-jai-alai-fronton-miami-fl"
+    ],
+    "1978#290678": [
+      "gig:1978-06-29-performing-arts-center-san-jose-ca"
     ],
     "1978#300878b": [
       "gig:1978-08-30b-agora-cleveland-oh"
@@ -70,8 +139,44 @@
     "1980#311280": [
       "gig:1980-12-31-nassau-coliseum-uniondale-ny"
     ],
+    "1981#020381": [
+      "gig:1981-03-02-roads-coliseum-hampton-va"
+    ],
+    "1981#020581": [
+      "gig:1981-05-02-brondbyhallen-copenhagen-denmark"
+    ],
+    "1981#060881": [
+      "gig:1981-08-06-bayou-washington-dc"
+    ],
+    "1981#070481": [
+      "gig:1981-04-07-congress-centrum-hamburg-germany"
+    ],
+    "1981#090481": [
+      "gig:1981-04-09-icc-berlin-germany"
+    ],
     "1981#140481": [
       "gig:1981-04-14-festhalle-frankfurt-germany"
+    ],
+    "1981#160481": [
+      "gig:1981-04-16-olympiahalle-munich-germany"
+    ],
+    "1981#180481": [
+      "gig:1981-04-18-palais-des-sports-paris-france"
+    ],
+    "1981#190481": [
+      "gig:1981-04-19-palais-des-sports-paris-france"
+    ],
+    "1981#200581": [
+      "gig:1981-05-20-new-bingley-hall-stafford-england"
+    ],
+    "1984#061284": [
+      "gig:1984-12-06-civic-center-arena-birmingham-al"
+    ],
+    "1985#150685": [
+      "gig:1985-06-15-waldstadion-frankfurt-germany"
+    ],
+    "1985#180685": [
+      "gig:1985-06-18-olympiastadion-munich-germany"
     ],
     "1985#241285": [
       "gig:1985-12-24-private-residence-rumson-nj"
@@ -88,11 +193,41 @@
     "1987#260887b": [
       "gig:1987-08-26b-columns-avon-nj"
     ],
+    "1988#010488": [
+      "gig:1988-04-01-nassau-coliseum-uniondale-ny"
+    ],
+    "1988#020488": [
+      "gig:1988-04-02-nassau-coliseum-uniondale-ny"
+    ],
+    "1988#020788": [
+      "gig:1988-07-02-stockholms-stadion-stockholm-sweden"
+    ],
+    "1988#050588": [
+      "gig:1988-05-05-dome-tacoma-wa"
+    ],
+    "1988#060588": [
+      "gig:1988-05-06-dome-tacoma-wa"
+    ],
+    "1988#090588": [
+      "gig:1988-05-09-met-center-bloomington-mn"
+    ],
+    "1988#100588": [
+      "gig:1988-05-10-met-center-bloomington-mn"
+    ],
     "1990#001290b": [
       "recording:1990-12-00b-ocean-way-studios-los-angeles-ca"
     ],
+    "1991#080691": [
+      "gig:1991-06-08-thrill-hill-west-beverly-hills-ca"
+    ],
+    "1992#131092": [
+      "gig:1992-10-13-dome-tacoma-wa"
+    ],
     "1992#221192": [
       "nobruce:1992-11-22-wkrk-studio-new-york-city-ny"
+    ],
+    "1993#280593": [
+      "gig:1993-05-28-stockholms-stadion-stockholm-sweden"
     ],
     "1998#240898": [
       "recording:1998-08-24-boxwood-studio-colts-neck-nj"
@@ -103,11 +238,59 @@
     "1999#030699": [
       "gig:1999-06-03-palais-omnisports-paris-france"
     ],
+    "1999#230699": [
+      "gig:1999-06-23-stockholms-stadion-stockholm-sweden"
+    ],
+    "1999#240699": [
+      "gig:1999-06-24-stockholms-stadion-stockholm-sweden"
+    ],
+    "1999#290599": [
+      "gig:1999-05-29-parkbuhne-wuhlheide-berlin-germany"
+    ],
+    "1999#300599": [
+      "gig:1999-05-30-parkbuhne-wuhlheide-berlin-germany"
+    ],
+    "2002#210802": [
+      "gig:2002-08-21-dome-tacoma-wa"
+    ],
     "2002#300702b": [
       "rehearsal:2002-07-30b-convention-hall-asbury-park-nj"
     ],
+    "2003#100503": [
+      "gig:2003-05-10-sudweststadion-ludwigshafen-germany"
+    ],
+    "2003#160903": [
+      "gig:2003-09-16-rentschler-field-east-hartford-ct"
+    ],
+    "2003#180903": [
+      "gig:2003-09-18-rentschler-field-east-hartford-ct"
+    ],
+    "2006#061106": [
+      "gig:2006-11-06-kolnarena-cologne-germany"
+    ],
     "2006#220606": [
       "gig:2006-06-22-madison-square-garden-new-york-city-ny"
+    ],
+    "2006#300406": [
+      "gig:2006-04-30-fair-grounds-new-orleans-la"
+    ],
+    "2008#290308": [
+      "gig:2008-03-29-keyarena-at-seattle-center-seattle-wa"
+    ],
+    "2009#080709": [
+      "gig:2009-07-08-mch-arena-herning-denmark"
+    ],
+    "2009#160709": [
+      "gig:2009-07-16-les-vieilles-charrues-carhaix-france"
+    ],
+    "2013#061113": [
+      "gig:2013-11-06-theater-at-msg-new-york-city-ny"
+    ],
+    "2013#100613": [
+      "gig:2013-06-10-mtv-studios-camden-town-england"
+    ],
+    "2014#070514": [
+      "gig:2014-05-07-hyatt-regency-century-plaza-hotel-los-angeles"
     ],
     "2014#160214": [
       "gig:2014-02-16-aami-park-melbourne-australia"
@@ -115,8 +298,23 @@
     "2014#170414": [
       "gig:2014-04-17-bridgestone-arena-nashville-tn"
     ],
+    "2015#060815": [
+      "gig:2015-08-06-nep-studios-new-york-city-ny"
+    ],
+    "2015#300415": [
+      "gig:2015-04-30-mount-auburn-cemetery-cambridge-ma"
+    ],
+    "2016#011116": [
+      "gig:2016-11-01-theater-at-msg-new-york-city-ny"
+    ],
+    "2016#150316": [
+      "gig:2016-03-15-memorial-sports-arena-los-angeles-ca"
+    ],
     "2016#171016b": [
       "nogig:2016-10-17b-waterstones-london-england"
+    ],
+    "2017#190117": [
+      "rehearsal:2017-01-19-arena-perth-australia"
     ],
     "2018#180718a": [
       "gig:2018-07-18a-walter-kerr-theatre-new-york-city-ny"
@@ -127,8 +325,20 @@
     "2020#191020a": [
       "interview:2020-10-19a-private-residence-colts-neck-nj"
     ],
+    "2020#211220": [
+      "gig:2020-12-21-private-residence-colts-neck-nj"
+    ],
+    "2020#220420": [
+      "gig:2020-04-22-private-residence-colts-neck-nj"
+    ],
     "2020#231020a": [
       "interview:2020-10-23a-siriusxm-studio-new-york-city-ny"
+    ],
+    "2020#240320": [
+      "recording:2020-03-24-private-residence-colts-neck-nj"
+    ],
+    "2020#271020": [
+      "gig:2020-10-27-private-residence-colts-neck-nj"
     ],
     "2021#121121b": [
       "interview:2021-11-12b-basie-center-cinemas-red-bank-nj"
@@ -136,8 +346,14 @@
     "2021#140721a": [
       "interview:2021-07-14a-stone-hill-farm-colts-neck-nj"
     ],
+    "2023#000423": [
+      "gig:2023-04-00-private-residence-swimming-river-reservoir-nj"
+    ],
     "2023#110423": [
       "gig:2023-04-11-ubs-arena-elmont-ny"
+    ],
+    "2024#020724": [
+      "gig:2024-07-02-park-werchter-belgium"
     ],
     "2024#151024": [
       "interview:2024-10-15-museum-of-modern-art-new-york-city-ny"
@@ -156,6 +372,9 @@
     ],
     "2026#160526": [
       "gig:2026-05-16-madison-square-garden-new-york-city-ny"
+    ],
+    "2026#200326": [
+      "rehearsal:2026-03-20-youth-temple-ocean-grove-nj"
     ],
     "2026#240326": [
       "rehearsal:2026-03-24-youth-temple-ocean-grove-nj"
@@ -4728,11 +4947,83 @@
     "news:web-shea-s-theatre-buffalo-ny": {
       "files-no-images": true
     },
+    "offstage:1970-06-05-regency-hotel-lakewood-nj": {
+      "dependent-name": {
+        "event": "gig:1970-06-05-unknown-location-nj",
+        "expected": "offstage:1970-06-05-unknown-location-nj"
+      }
+    },
     "offstage:1973-02-28-memorial-civic-auditorium-stockton-ca": {
       "dependent-title": {
         "event": "gig:1973-02-28-memorial-civic-auditorium-stockton-ca",
         "eventTitle": "1973-02-28 Stockton Memorial Civic Auditorium, Stockton, CA",
         "title": "1973-02-28 Memorial Civic Auditorium, Stockton, CA"
+      }
+    },
+    "offstage:2006-04-30-fairgrounds-new-orleans-la": {
+      "dependent-name": {
+        "event": "gig:2006-04-30-fair-grounds-new-orleans-la",
+        "expected": "offstage:2006-04-30-fair-grounds-new-orleans-la"
+      }
+    },
+    "offstage:2013-11-06-the-theater-at-msg-new-york-city-ny": {
+      "dependent-name": {
+        "event": "gig:2013-11-06-theater-at-msg-new-york-city-ny",
+        "expected": "offstage:2013-11-06-theater-at-msg-new-york-city-ny"
+      }
+    },
+    "offstage:2015-08-06-nep-studio-52-new-york-city-ny": {
+      "dependent-name": {
+        "event": "gig:2015-08-06-nep-studios-new-york-city-ny",
+        "expected": "offstage:2015-08-06-nep-studios-new-york-city-ny"
+      }
+    },
+    "offstage:2016-11-01-the-theater-at-msg-new-york-city-ny": {
+      "dependent-name": {
+        "event": "gig:2016-11-01-theater-at-msg-new-york-city-ny",
+        "expected": "offstage:2016-11-01-theater-at-msg-new-york-city-ny"
+      }
+    },
+    "offstage:2020-03-24-springsteen-residence-colts-neck-nj": {
+      "dependent-name": {
+        "event": "recording:2020-03-24-private-residence-colts-neck-nj",
+        "expected": "offstage:2020-03-24-private-residence-colts-neck-nj"
+      }
+    },
+    "offstage:2020-10-27-springsteen-residence-colts-neck-nj": {
+      "dependent-name": {
+        "event": "gig:2020-10-27-private-residence-colts-neck-nj",
+        "expected": "offstage:2020-10-27-private-residence-colts-neck-nj"
+      }
+    },
+    "offstage:2020-12-21-springsteen-residence-colts-neck-nj": {
+      "dependent-name": {
+        "event": "gig:2020-12-21-private-residence-colts-neck-nj",
+        "expected": "offstage:2020-12-21-private-residence-colts-neck-nj"
+      }
+    },
+    "offstage:2023-04-00-springsteen-residence-swimming-river-res": {
+      "dependent-name": {
+        "event": "gig:2023-04-00-private-residence-swimming-river-reservoir-nj",
+        "expected": "offstage:2023-04-00-private-residence-swimming-river-reservo"
+      }
+    },
+    "onstage:1967-09-22-west-freehold-school-freehold-nj": {
+      "dependent-name": {
+        "event": "gig:1967-09-22-west-school-freehold-nj",
+        "expected": "onstage:1967-09-22-west-school-freehold-nj"
+      }
+    },
+    "onstage:1970-06-05-regency-hotel-lakewood-nj": {
+      "dependent-name": {
+        "event": "gig:1970-06-05-unknown-location-nj",
+        "expected": "onstage:1970-06-05-unknown-location-nj"
+      }
+    },
+    "onstage:1970-06-20-the-string-factory-richmond-va": {
+      "dependent-name": {
+        "event": "gig:1970-06-20-string-factory-richmond-va",
+        "expected": "onstage:1970-06-20-string-factory-richmond-va"
       }
     },
     "onstage:1972-12-07-correctional-facility-ossining-ny": {
@@ -4742,11 +5033,71 @@
         "title": "1972-12-07 Chapel, Ossining Correctional Facility, Ossining, NY"
       }
     },
+    "onstage:1973-02-11-dougherty-student-center-south-orange-nj": {
+      "dependent-name": {
+        "event": "gig:1973-02-11-bishop-dougherty-student-center-south-orange",
+        "expected": "onstage:1973-02-11-bishop-dougherty-student-center-south-ora"
+      }
+    },
+    "onstage:1973-02-14-new-gymnasium-richmond-va": {
+      "dependent-name": {
+        "event": "gig:1973-02-14-vcu-new-gym-richmond-va",
+        "expected": "onstage:1973-02-14-vcu-new-gym-richmond-va"
+      }
+    },
     "onstage:1973-02-16-boylan-gymnasium-west-long-branch-nj": {
       "dependent-title": {
         "event": "gig:1973-02-16-boylan-gymnasium-west-long-branch-nj",
         "eventTitle": "1973-02-16 William T. Boylan Gymnasium, Monmouth College, West Long Branch, NJ",
         "title": "1973-02-16 Boylan Gymnasium, Monmouth College, West Long Branch, NJ"
+      }
+    },
+    "onstage:1973-02-26-the-troubadour-west-hollywood-ca": {
+      "dependent-name": {
+        "event": "gig:1973-02-26-troubadour-west-hollywood-ca",
+        "expected": "onstage:1973-02-26-troubadour-west-hollywood-ca"
+      }
+    },
+    "onstage:1973-03-23-palace-concert-theatre-providence-ri": {
+      "dependent-name": {
+        "event": "gig:1973-03-23-palace-concert-theater-providence-ri",
+        "expected": "onstage:1973-03-23-palace-concert-theater-providence-ri"
+      }
+    },
+    "onstage:1973-06-01-hampton-roads-coliseum-hampton-va": {
+      "dependent-name": {
+        "event": "gig:1973-06-01-roads-coliseum-hampton-va",
+        "expected": "onstage:1973-06-01-roads-coliseum-hampton-va"
+      }
+    },
+    "onstage:1973-09-29-waynesburg-college-waynesburg-pa": {
+      "dependent-name": {
+        "event": "gig:1973-09-29-college-waynesburg-pa",
+        "expected": "onstage:1973-09-29-college-waynesburg-pa"
+      }
+    },
+    "onstage:1973-12-20-motor-inn-bristol-ri": {
+      "dependent-name": {
+        "event": "gig:1973-12-20-bristol-motor-inn-bristol-ri",
+        "expected": "onstage:1973-12-20-bristol-motor-inn-bristol-ri"
+      }
+    },
+    "onstage:1975-11-03-gammage-memorial-auditorium-tempe-az": {
+      "dependent-name": {
+        "event": "gig:1975-11-03-grady-gammage-memorial-auditorium-tempe-az",
+        "expected": "onstage:1975-11-03-grady-gammage-memorial-auditorium-tempe-a"
+      }
+    },
+    "onstage:1975-11-04-gammage-memorial-auditorium-tempe-az": {
+      "dependent-name": {
+        "event": "gig:1975-11-04-grady-gammage-memorial-auditorium-tempe-az",
+        "expected": "onstage:1975-11-04-grady-gammage-memorial-auditorium-tempe-a"
+      }
+    },
+    "onstage:1975-11-06-gammage-memorial-auditorium-tempe-az": {
+      "dependent-name": {
+        "event": "gig:1975-11-06-grady-gammage-memorial-auditorium-tempe-az",
+        "expected": "onstage:1975-11-06-grady-gammage-memorial-auditorium-tempe-a"
       }
     },
     "onstage:1975-11-10-jai-alai-fronton-tampa-fl": {
@@ -4763,6 +5114,42 @@
         "title": "1975-11-11 Jai Alai Fronton, Miami, FL"
       }
     },
+    "onstage:1976-04-02-macauley-theatre-louisville-ky": {
+      "dependent-name": {
+        "event": "gig:1976-04-02-macauley-s-theatre-louisville-ky",
+        "expected": "onstage:1976-04-02-macauley-s-theatre-louisville-ky"
+      }
+    },
+    "onstage:1976-04-12-war-memorial-arena-johnston-pa": {
+      "dependent-name": {
+        "event": "gig:1976-04-12-cambria-county-war-memorial-arena-johnstown-p",
+        "expected": "onstage:1976-04-12-cambria-county-war-memorial-arena-johnsto"
+      }
+    },
+    "onstage:1977-02-25-elliott-hall-of-music-west-lafayette-in": {
+      "dependent-name": {
+        "event": "gig:1977-02-25-edward-c-elliott-hall-of-music-west-lafayette",
+        "expected": "onstage:1977-02-25-edward-c-elliott-hall-of-music-west-lafay"
+      }
+    },
+    "onstage:1978-05-23-shea-s-buffalo-theatre-buffalo-ny": {
+      "dependent-name": {
+        "event": "gig:1978-05-23-shea-s-theatre-buffalo-ny",
+        "expected": "onstage:1978-05-23-shea-s-theatre-buffalo-ny"
+      }
+    },
+    "onstage:1978-06-06-indiana-convention-center-indianapolis-in": {
+      "dependent-name": {
+        "event": "gig:1978-06-06-convention-center-indianapolis-in",
+        "expected": "onstage:1978-06-06-convention-center-indianapolis-in"
+      }
+    },
+    "onstage:1978-06-29-center-for-the-performing-arts-san-jose-c": {
+      "dependent-name": {
+        "event": "gig:1978-06-29-performing-arts-center-san-jose-ca",
+        "expected": "onstage:1978-06-29-performing-arts-center-san-jose-ca"
+      }
+    },
     "onstage:1978-07-28-jai-alai-fronton-miami-fl": {
       "dependent-title": {
         "event": "gig:1978-07-28-jai-alai-fronton-miami-fl",
@@ -4770,11 +5157,299 @@
         "title": "1978-07-28 Jai Alai Fronton, Miami, FL"
       }
     },
+    "onstage:1978-08-05-louisville-gardens-louisville-ky": {
+      "dependent-name": {
+        "event": "gig:1978-08-05-gardens-louisville-ky",
+        "expected": "onstage:1978-08-05-gardens-louisville-ky"
+      }
+    },
+    "onstage:1978-08-14-hampton-roads-coliseum-hampton-va": {
+      "dependent-name": {
+        "event": "gig:1978-08-14-roads-coliseum-hampton-va",
+        "expected": "onstage:1978-08-14-roads-coliseum-hampton-va"
+      }
+    },
+    "onstage:1978-10-26-private-residence-holmdel-nj": {
+      "dependent-name": {
+        "event": "rehearsal:1978-10-26-telegraph-hill-studio-holmdel-nj",
+        "expected": "onstage:1978-10-26-telegraph-hill-studio-holmdel-nj"
+      }
+    },
+    "onstage:1978-12-20-seattle-center-arena-seattle-wa": {
+      "dependent-name": {
+        "event": "gig:1978-12-20-center-arena-seattle-wa",
+        "expected": "onstage:1978-12-20-center-arena-seattle-wa"
+      }
+    },
+    "onstage:1981-03-02-hampton-roads-coliseum-hampton-va": {
+      "dependent-name": {
+        "event": "gig:1981-03-02-roads-coliseum-hampton-va",
+        "expected": "onstage:1981-03-02-roads-coliseum-hampton-va"
+      }
+    },
+    "onstage:1981-04-07-congress-centrum-hamburg-west-germany": {
+      "dependent-name": {
+        "event": "gig:1981-04-07-congress-centrum-hamburg-germany",
+        "expected": "onstage:1981-04-07-congress-centrum-hamburg-germany"
+      }
+    },
+    "onstage:1981-04-09-icc-west-berlin-west-germany": {
+      "dependent-name": {
+        "event": "gig:1981-04-09-icc-berlin-germany",
+        "expected": "onstage:1981-04-09-icc-berlin-germany"
+      }
+    },
+    "onstage:1981-04-14-festhalle-frankfurt-west-germany": {
+      "dependent-name": {
+        "event": "gig:1981-04-14-festhalle-frankfurt-germany",
+        "expected": "onstage:1981-04-14-festhalle-frankfurt-germany"
+      }
+    },
+    "onstage:1981-04-16-olympiahalle-munich-west-germany": {
+      "dependent-name": {
+        "event": "gig:1981-04-16-olympiahalle-munich-germany",
+        "expected": "onstage:1981-04-16-olympiahalle-munich-germany"
+      }
+    },
+    "onstage:1981-04-18-palais-des-sports-paris-fra": {
+      "dependent-name": {
+        "event": "gig:1981-04-18-palais-des-sports-paris-france",
+        "expected": "onstage:1981-04-18-palais-des-sports-paris-france"
+      }
+    },
+    "onstage:1981-04-19-palais-des-sports-paris-fra": {
+      "dependent-name": {
+        "event": "gig:1981-04-19-palais-des-sports-paris-france",
+        "expected": "onstage:1981-04-19-palais-des-sports-paris-france"
+      }
+    },
+    "onstage:1981-05-02-brondby-hallen-copenhagen-denmark": {
+      "dependent-name": {
+        "event": "gig:1981-05-02-brondbyhallen-copenhagen-denmark",
+        "expected": "onstage:1981-05-02-brondbyhallen-copenhagen-denmark"
+      }
+    },
+    "onstage:1981-05-20-bingley-hall-stafford-england": {
+      "dependent-name": {
+        "event": "gig:1981-05-20-new-bingley-hall-stafford-england",
+        "expected": "onstage:1981-05-20-new-bingley-hall-stafford-england"
+      }
+    },
+    "onstage:1981-08-06-bayou-club-washington-dc": {
+      "dependent-name": {
+        "event": "gig:1981-08-06-bayou-washington-dc",
+        "expected": "onstage:1981-08-06-bayou-washington-dc"
+      }
+    },
+    "onstage:1984-12-06-jefferson-civic-center-arena-birmingham-a": {
+      "dependent-name": {
+        "event": "gig:1984-12-06-civic-center-arena-birmingham-al",
+        "expected": "onstage:1984-12-06-civic-center-arena-birmingham-al"
+      }
+    },
+    "onstage:1985-06-15-waldstadion-frankfurt-west-germany": {
+      "dependent-name": {
+        "event": "gig:1985-06-15-waldstadion-frankfurt-germany",
+        "expected": "onstage:1985-06-15-waldstadion-frankfurt-germany"
+      }
+    },
+    "onstage:1985-06-18-olympiastadion-munich-west-germany": {
+      "dependent-name": {
+        "event": "gig:1985-06-18-olympiastadion-munich-germany",
+        "expected": "onstage:1985-06-18-olympiastadion-munich-germany"
+      }
+    },
+    "onstage:1988-04-01-nassau-veterans-memorial-coliseum-unionda": {
+      "dependent-name": {
+        "event": "gig:1988-04-01-nassau-coliseum-uniondale-ny",
+        "expected": "onstage:1988-04-01-nassau-coliseum-uniondale-ny"
+      }
+    },
+    "onstage:1988-04-02-nassau-veterans-memorial-coliseum-unionda": {
+      "dependent-name": {
+        "event": "gig:1988-04-02-nassau-coliseum-uniondale-ny",
+        "expected": "onstage:1988-04-02-nassau-coliseum-uniondale-ny"
+      }
+    },
+    "onstage:1988-05-05-tacoma-dome-tacoma-wa": {
+      "dependent-name": {
+        "event": "gig:1988-05-05-dome-tacoma-wa",
+        "expected": "onstage:1988-05-05-dome-tacoma-wa"
+      }
+    },
+    "onstage:1988-05-06-tacoma-dome-tacoma-wa": {
+      "dependent-name": {
+        "event": "gig:1988-05-06-dome-tacoma-wa",
+        "expected": "onstage:1988-05-06-dome-tacoma-wa"
+      }
+    },
+    "onstage:1988-05-09-metropolitan-sports-center-bloomington-mn": {
+      "dependent-name": {
+        "event": "gig:1988-05-09-met-center-bloomington-mn",
+        "expected": "onstage:1988-05-09-met-center-bloomington-mn"
+      }
+    },
+    "onstage:1988-05-10-metropolitan-sports-center-bloomington-mn": {
+      "dependent-name": {
+        "event": "gig:1988-05-10-met-center-bloomington-mn",
+        "expected": "onstage:1988-05-10-met-center-bloomington-mn"
+      }
+    },
+    "onstage:1988-07-02-stadion-stockholm-sweden": {
+      "dependent-name": {
+        "event": "gig:1988-07-02-stockholms-stadion-stockholm-sweden",
+        "expected": "onstage:1988-07-02-stockholms-stadion-stockholm-sweden"
+      }
+    },
+    "onstage:1991-06-08-thrill-hill-west-hills-ca": {
+      "dependent-name": {
+        "event": "gig:1991-06-08-thrill-hill-west-beverly-hills-ca",
+        "expected": "onstage:1991-06-08-thrill-hill-west-beverly-hills-ca"
+      }
+    },
+    "onstage:1992-10-13-tacoma-dome-tacoma-wa": {
+      "dependent-name": {
+        "event": "gig:1992-10-13-dome-tacoma-wa",
+        "expected": "onstage:1992-10-13-dome-tacoma-wa"
+      }
+    },
+    "onstage:1993-05-28-stadion-stockholm-sweden": {
+      "dependent-name": {
+        "event": "gig:1993-05-28-stockholms-stadion-stockholm-sweden",
+        "expected": "onstage:1993-05-28-stockholms-stadion-stockholm-sweden"
+      }
+    },
+    "onstage:1999-05-29-parkbuehne-wuhlheide-berlin-germany": {
+      "dependent-name": {
+        "event": "gig:1999-05-29-parkbuhne-wuhlheide-berlin-germany",
+        "expected": "onstage:1999-05-29-parkbuhne-wuhlheide-berlin-germany"
+      }
+    },
+    "onstage:1999-05-30-parkbuehne-wuhlheide-berlin-germany": {
+      "dependent-name": {
+        "event": "gig:1999-05-30-parkbuhne-wuhlheide-berlin-germany",
+        "expected": "onstage:1999-05-30-parkbuhne-wuhlheide-berlin-germany"
+      }
+    },
+    "onstage:1999-06-23-stadion-stockholm-sweden": {
+      "dependent-name": {
+        "event": "gig:1999-06-23-stockholms-stadion-stockholm-sweden",
+        "expected": "onstage:1999-06-23-stockholms-stadion-stockholm-sweden"
+      }
+    },
+    "onstage:1999-06-24-stadion-stockholm-sweden": {
+      "dependent-name": {
+        "event": "gig:1999-06-24-stockholms-stadion-stockholm-sweden",
+        "expected": "onstage:1999-06-24-stockholms-stadion-stockholm-sweden"
+      }
+    },
+    "onstage:2002-08-21-tacoma-dome-tacoma-wa": {
+      "dependent-name": {
+        "event": "gig:2002-08-21-dome-tacoma-wa",
+        "expected": "onstage:2002-08-21-dome-tacoma-wa"
+      }
+    },
+    "onstage:2003-05-10-suedweststadion-ludwigshafen-germany": {
+      "dependent-name": {
+        "event": "gig:2003-05-10-sudweststadion-ludwigshafen-germany",
+        "expected": "onstage:2003-05-10-sudweststadion-ludwigshafen-germany"
+      }
+    },
+    "onstage:2003-09-16-rentschler-field-hartford-ct": {
+      "dependent-name": {
+        "event": "gig:2003-09-16-rentschler-field-east-hartford-ct",
+        "expected": "onstage:2003-09-16-rentschler-field-east-hartford-ct"
+      }
+    },
+    "onstage:2003-09-18-rentschler-field-hartford-ct": {
+      "dependent-name": {
+        "event": "gig:2003-09-18-rentschler-field-east-hartford-ct",
+        "expected": "onstage:2003-09-18-rentschler-field-east-hartford-ct"
+      }
+    },
+    "onstage:2006-11-06-koelnarena-cologne-germany": {
+      "dependent-name": {
+        "event": "gig:2006-11-06-kolnarena-cologne-germany",
+        "expected": "onstage:2006-11-06-kolnarena-cologne-germany"
+      }
+    },
+    "onstage:2008-03-29-keyarena-seattle-wa": {
+      "dependent-name": {
+        "event": "gig:2008-03-29-keyarena-at-seattle-center-seattle-wa",
+        "expected": "onstage:2008-03-29-keyarena-at-seattle-center-seattle-wa"
+      }
+    },
+    "onstage:2009-07-08-mch-arena-herning-herning-denmark": {
+      "dependent-name": {
+        "event": "gig:2009-07-08-mch-arena-herning-denmark",
+        "expected": "onstage:2009-07-08-mch-arena-herning-denmark"
+      }
+    },
+    "onstage:2009-07-16-les-vieilles-charrues-carhaix-fr": {
+      "dependent-name": {
+        "event": "gig:2009-07-16-les-vieilles-charrues-carhaix-france",
+        "expected": "onstage:2009-07-16-les-vieilles-charrues-carhaix-france"
+      }
+    },
+    "onstage:2013-06-10-mtv-networks-europe-london-england": {
+      "dependent-name": {
+        "event": "gig:2013-06-10-mtv-studios-camden-town-england",
+        "expected": "onstage:2013-06-10-mtv-studios-camden-town-england"
+      }
+    },
+    "onstage:2014-05-07-hyatt-regency-century-plaza-los-angeles-c": {
+      "dependent-name": {
+        "event": "gig:2014-05-07-hyatt-regency-century-plaza-hotel-los-angeles",
+        "expected": "onstage:2014-05-07-hyatt-regency-century-plaza-hotel-los-ang"
+      }
+    },
+    "onstage:2015-04-30-story-chapel-cambridge-ma": {
+      "dependent-name": {
+        "event": "gig:2015-04-30-mount-auburn-cemetery-cambridge-ma",
+        "expected": "onstage:2015-04-30-mount-auburn-cemetery-cambridge-ma"
+      }
+    },
+    "onstage:2015-08-06-nep-studio-52-new-york-city-ny": {
+      "dependent-name": {
+        "event": "gig:2015-08-06-nep-studios-new-york-city-ny",
+        "expected": "onstage:2015-08-06-nep-studios-new-york-city-ny"
+      }
+    },
+    "onstage:2016-03-15-memorial-sports-arena-los-ang": {
+      "dependent-name": {
+        "event": "gig:2016-03-15-memorial-sports-arena-los-angeles-ca",
+        "expected": "onstage:2016-03-15-memorial-sports-arena-los-angeles-ca"
+      }
+    },
+    "onstage:2017-01-19-perth-arena-perth-australia": {
+      "dependent-name": {
+        "event": "rehearsal:2017-01-19-arena-perth-australia",
+        "expected": "onstage:2017-01-19-arena-perth-australia"
+      }
+    },
+    "onstage:2020-04-22-springsteen-residence-colts-neck-nj": {
+      "dependent-name": {
+        "event": "gig:2020-04-22-private-residence-colts-neck-nj",
+        "expected": "onstage:2020-04-22-private-residence-colts-neck-nj"
+      }
+    },
+    "onstage:2024-07-02-festivalpark-werchter-belgium": {
+      "dependent-name": {
+        "event": "gig:2024-07-02-park-werchter-belgium",
+        "expected": "onstage:2024-07-02-park-werchter-belgium"
+      }
+    },
     "onstage:2025-06-24-reale-arena-donostia-san-sebastian-spain": {
       "dependent-title": {
         "event": "gig:2025-06-24-reale-arena-donostia-san-sebastian-spain",
         "eventTitle": "2025-06-24 Reale Arena, Donostia-San Sebastián, Spain",
         "title": "2025-06-21 Reale Arena, Donostia-San Sebastián, Spain"
+      }
+    },
+    "onstage:2026-03-20-unknown-location-nj": {
+      "dependent-name": {
+        "event": "rehearsal:2026-03-20-youth-temple-ocean-grove-nj",
+        "expected": "onstage:2026-03-20-youth-temple-ocean-grove-nj"
       }
     },
     "onstage:2026-03-24-youth-temple-ocean-grove-nj": {
@@ -5346,13 +6021,14 @@
       ]
     },
     "dependent-name": {
-      "count": 36,
+      "count": 112,
       "files": [
         "gignote/*.html",
         "gallery/*.html",
         "eye/*.html",
         "media/*.html",
-        "recnote/*.html"
+        "recnote/*.html",
+        "REPORTING/DIFFERENCES-stage-page-names.org"
       ]
     },
     "dependent-title": {
@@ -5401,10 +6077,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.39.0",
-    "commit": "914b2df",
+    "bruceparser": "0.40.0",
+    "commit": "3e65334",
     "date": "2026-11-23",
-    "feed": "1.8.3"
+    "feed": "1.9"
   },
   "site": "https://brucebase.wikidot.com",
   "songTags": {
