@@ -5272,10 +5272,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.32.0",
-    "commit": "1be5437",
-    "date": "2026-11-21",
-    "feed": "1.8.1"
+    "bruceparser": "0.34.0",
+    "commit": "0ff3b21",
+    "date": "2026-11-23",
+    "feed": "1.8.2"
   },
   "site": "https://brucebase.wikidot.com",
   "songTags": {
