@@ -1,6 +1,10 @@
 # bb-feed.json, format 1
 
-One JSON object. Its keys are sorted, so two runs diff line by line.
+One JSON object. Its keys are sorted, so two runs diff line by line. Since
+feed 1.11 it is written without indentation, one entry of each top-level
+object a line (a page, an anchor, an `mb` event, a map entry): about 390 KB
+instead of 530 KB. The example below is indented for reading; a reader takes
+either.
 
 ```json
 {
@@ -63,7 +67,8 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   `tagTables` with 1.4, `songTags` and `venueTags` with 1.5,
   `dependent-name` with 1.6, the `mb` kind `date-differs` with 1.7,
   `mbWorks` with 1.8, `dependent-name` rows of `onstage`, `offstage` and
-  `soundcheck` pages with 1.9, `relationTags` with 1.10; all keep format 1).
+  `soundcheck` pages with 1.9, `relationTags` with 1.10, the compact layout
+  with 1.11; all keep format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
