@@ -63,7 +63,7 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   `tagTables` with 1.4, `songTags` and `venueTags` with 1.5,
   `dependent-name` with 1.6, the `mb` kind `date-differs` with 1.7,
   `mbWorks` with 1.8, `dependent-name` rows of `onstage`, `offstage` and
-  `soundcheck` pages with 1.9; all keep format 1).
+  `soundcheck` pages with 1.9, `relationTags` with 1.10; all keep format 1).
 - **`run`:**
   - `date`: the day of the run the data comes from. The data is that day's
     wiki;
@@ -203,3 +203,10 @@ One JSON object. Its keys are sorted, so two runs diff line by line.
   list (`"venue:stone-pony-asbury-park-nj": ["stonepony"]`): the venue page's
   own tag that best fits the shows whose "Venue" link names it. Every venue
   linked by a show.
+- **`relationTags`** (since feed 1.10): a relation page → its own tags that
+  count as its name (`"relation:donald-dunn": ["duckdunn"]`): every tag of the
+  page that at least half of the shows listing it on their On Stage tab carry
+  and that is no other relation page's name (a band's tag on a member's page
+  is not kept). A stage name the wiki uses, as here, is one. Built by
+  BruceParser's `relation-tags.awk` from the run's On stage, relation and
+  event pages.
