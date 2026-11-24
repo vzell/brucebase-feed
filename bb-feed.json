@@ -6013,6 +6013,6531 @@
       "first-letter": "u"
     }
   },
+  "relationTags": {
+    "relation:aaron-dessner": [
+      "aarondessner"
+    ],
+    "relation:aaron-heick": [
+      "aaronheick"
+    ],
+    "relation:abe-laboriel": [
+      "abelaboriel"
+    ],
+    "relation:abednego-mazibuko": [
+      "abednegomazibuko"
+    ],
+    "relation:abigail-washburn": [
+      "abigailwashburn"
+    ],
+    "relation:ada-dyer": [
+      "adadyer"
+    ],
+    "relation:adam-clayton": [
+      "adamclayton"
+    ],
+    "relation:adam-garbinski": [
+      "adamgarbinski"
+    ],
+    "relation:adam-weiner": [
+      "adamweiner"
+    ],
+    "relation:adele-springsteen": [
+      "adelespringsteen"
+    ],
+    "relation:adrienne-warren": [
+      "adriennewarren"
+    ],
+    "relation:afrika-bambaataa": [
+      "afrikabambaataa"
+    ],
+    "relation:aidy-bryant": [
+      "aidybryant"
+    ],
+    "relation:airlie-koo": [
+      "airliekoo"
+    ],
+    "relation:akil": [
+      "akil"
+    ],
+    "relation:al-berger": [
+      "alberger"
+    ],
+    "relation:al-carty": [
+      "alcarty"
+    ],
+    "relation:al-di-meola": [
+      "aldimeola"
+    ],
+    "relation:al-green": [
+      "algreen"
+    ],
+    "relation:al-jardine": [
+      "aljardine"
+    ],
+    "relation:al-jarreau": [
+      "aljarreau"
+    ],
+    "relation:al-torrente": [
+      "altorrente"
+    ],
+    "relation:alabama-shakes": [
+      "alabamashakes"
+    ],
+    "relation:alan-chez": [
+      "alchez"
+    ],
+    "relation:alan-fitzgerald": [
+      "alanfitzgerald"
+    ],
+    "relation:alan-smith": [
+      "alansmith"
+    ],
+    "relation:alan-stepansky": [
+      "alanstepansky"
+    ],
+    "relation:albee-tellone": [
+      "albeetellone"
+    ],
+    "relation:albert-mazibuko": [
+      "albertmazibuko"
+    ],
+    "relation:alejandro-escovedo": [
+      "alejandroescovedo"
+    ],
+    "relation:alethea-mills": [
+      "aletheamills"
+    ],
+    "relation:alex-acuna": [
+      "alexacuna"
+    ],
+    "relation:alex-alexander": [
+      "alexalexander"
+    ],
+    "relation:alex-levine": [
+      "alexlevine"
+    ],
+    "relation:alex-rosamilia": [
+      "alexrosamilia"
+    ],
+    "relation:alfreda-mccrary": [
+      "alfredamccrary"
+    ],
+    "relation:ali-weinberg": [
+      "aliweinberg"
+    ],
+    "relation:alison-mosshart": [
+      "alisonmosshart"
+    ],
+    "relation:allen-ginsberg": [
+      "allenginsberg"
+    ],
+    "relation:aloe-blacc": [
+      "aloeblacc"
+    ],
+    "relation:alto-reed": [
+      "altoreed"
+    ],
+    "relation:alynda-segarra": [
+      "alyndasegarra"
+    ],
+    "relation:amanda-morden": [
+      "amandamorden"
+    ],
+    "relation:amy-broza": [
+      "amybroza"
+    ],
+    "relation:amy-helm": [
+      "amyhelm"
+    ],
+    "relation:amy-poehler": [
+      "amypoehler"
+    ],
+    "relation:amy-ray": [
+      "amyray"
+    ],
+    "relation:amy-tan": [
+      "amytan"
+    ],
+    "relation:ana-monwah-lei": [
+      "anamonwahlei"
+    ],
+    "relation:anders-goman": [
+      "andersgoman"
+    ],
+    "relation:andra-day": [
+      "andraday"
+    ],
+    "relation:andrew-gold": [
+      "andrewgold"
+    ],
+    "relation:andrew-janss": [
+      "andrewjanss"
+    ],
+    "relation:andrew-love": [
+      "andrewlove"
+    ],
+    "relation:andy-burton": [
+      "andyburton"
+    ],
+    "relation:andy-cichon": [
+      "andycichon"
+    ],
+    "relation:andy-kelly": [
+      "andykelly"
+    ],
+    "relation:andy-lemaster": [
+      "andylemaster"
+    ],
+    "relation:andy-mccormick": [
+      "andymccormick"
+    ],
+    "relation:andy-shernoff": [
+      "andyshernoff"
+    ],
+    "relation:andy-stoller": [
+      "andystoller"
+    ],
+    "relation:andy-york": [
+      "andyyork"
+    ],
+    "relation:angel-olsen": [
+      "angelolsen"
+    ],
+    "relation:angel-rogers": [
+      "angelrogers"
+    ],
+    "relation:angela-howard": [
+      "angelahoward"
+    ],
+    "relation:ani-difranco": [
+      "anidifranco"
+    ],
+    "relation:anita-baker": [
+      "anitabaker"
+    ],
+    "relation:anita-pointer": [
+      "anitapointer"
+    ],
+    "relation:ann-mccrary": [
+      "annmccrary"
+    ],
+    "relation:anna-mcgarrigle": [
+      "annamcgarrigle"
+    ],
+    "relation:anna-webber": [
+      "annawebber"
+    ],
+    "relation:annabelle-traves": [
+      "annabelletraves"
+    ],
+    "relation:annaliesa-place": [
+      "annaliesaplace"
+    ],
+    "relation:anne-preven": [
+      "annepreven"
+    ],
+    "relation:annie-brody-dutka": [
+      "anniebrodydutka"
+    ],
+    "relation:annie-lennox": [
+      "annielennox"
+    ],
+    "relation:anson-cooper": [
+      "ansoncooper"
+    ],
+    "relation:anthony-almonte": [
+      "anthonyalmonte"
+    ],
+    "relation:anthony-bagliore": [
+      "anthonybagliore"
+    ],
+    "relation:anthony-breznican": [
+      "anthonybreznican"
+    ],
+    "relation:anthony-d-amato": [
+      "anthonydamato"
+    ],
+    "relation:anthony-mason": [
+      "anthonymason"
+    ],
+    "relation:antoine-de-caunes": [
+      "antoinedecaunes"
+    ],
+    "relation:antoinette-moore": [
+      "antoinettemoore"
+    ],
+    "relation:anton-fig": [
+      "antonfig"
+    ],
+    "relation:antonio-lawrence": [
+      "antoniolawrence"
+    ],
+    "relation:arcade-fire": [
+      "arcadefire"
+    ],
+    "relation:ariel-parkington": [
+      "arielparkington"
+    ],
+    "relation:arlen-roth": [
+      "arlenroth"
+    ],
+    "relation:arlo-guthrie": [
+      "arloguthrie"
+    ],
+    "relation:arno-hecht": [
+      "arnohecht"
+    ],
+    "relation:arnold-buss": [
+      "arnoldbuss"
+    ],
+    "relation:art-baron": [
+      "artbaron"
+    ],
+    "relation:art-garfunkel": [
+      "artgarfunkel"
+    ],
+    "relation:art-hoffer": [
+      "arthoffer"
+    ],
+    "relation:art-nardini": [
+      "artnardini"
+    ],
+    "relation:arthur-suydam": [
+      "arthursuydam"
+    ],
+    "relation:arturo-ortiz": [
+      "arturoortiz"
+    ],
+    "relation:athena-o-lochlainn": [
+      "athenaolochlainn"
+    ],
+    "relation:atlantic-city-expressway": [
+      "atlanticcityexpressway"
+    ],
+    "relation:audie-cornish": [
+      "audiecornish"
+    ],
+    "relation:audrey-martells": [
+      "audreymartells"
+    ],
+    "relation:austin-stunkard": [
+      "austinstunkard"
+    ],
+    "relation:axl-rose": [
+      "axlrose"
+    ],
+    "relation:ayane-kozasa": [
+      "ayanekozasa"
+    ],
+    "relation:b-b-king": [
+      "bbking"
+    ],
+    "relation:b-e-taylor": [
+      "betaylor"
+    ],
+    "relation:b-j-nelson": [
+      "bjnelson"
+    ],
+    "relation:badly-drawn-boy": [
+      "badlydrawnboy"
+    ],
+    "relation:bakithi-kumalo": [
+      "bakithikumalo"
+    ],
+    "relation:barack-obama": [
+      "barackobama"
+    ],
+    "relation:barbara-dinkins": [
+      "barbaradinkins"
+    ],
+    "relation:barbara-payton": [
+      "barbarapayton"
+    ],
+    "relation:barney-rachabane": [
+      "barneyrachabane"
+    ],
+    "relation:barry-danielian": [
+      "barrydanielian"
+    ],
+    "relation:barry-lynn": [
+      "barrylynn"
+    ],
+    "relation:bart-haynes": [
+      "barthaynes"
+    ],
+    "relation:bashiri-johnson": [
+      "bashirijohnson"
+    ],
+    "relation:beaver-brown": [
+      "beaverbrown"
+    ],
+    "relation:beck": [
+      "beck"
+    ],
+    "relation:beck-bennett": [
+      "beckbennett"
+    ],
+    "relation:bela-fleck": [
+      "belafleck"
+    ],
+    "relation:bela-salazar": [
+      "belasalazar"
+    ],
+    "relation:ben-bridwell": [
+      "benbridwell"
+    ],
+    "relation:ben-buchwald": [
+      "benbuchwald"
+    ],
+    "relation:ben-butler": [
+      "benbutler"
+    ],
+    "relation:ben-e-king": [
+      "beneking"
+    ],
+    "relation:ben-harper": [
+      "benharper"
+    ],
+    "relation:ben-jaffe": [
+      "benjaffe"
+    ],
+    "relation:ben-knox-miller": [
+      "benknoxmiller"
+    ],
+    "relation:ben-lovett": [
+      "benlovett"
+    ],
+    "relation:ben-mankiewicz": [
+      "benmankiewicz"
+    ],
+    "relation:ben-mauro": [
+      "benmauro"
+    ],
+    "relation:ben-shabalala": [
+      "benshabalala"
+    ],
+    "relation:ben-tanner": [
+      "bentanner"
+    ],
+    "relation:benjamin-newberry": [
+      "benjaminnewberry"
+    ],
+    "relation:benmont-tench": [
+      "benmonttench"
+    ],
+    "relation:benny-horowitz": [
+      "bennyhorowitz"
+    ],
+    "relation:bernard-fowler": [
+      "bernardfowler"
+    ],
+    "relation:bernice-johnson-reagon": [
+      "bernicejohnsonreagon"
+    ],
+    "relation:bernie-herr": [
+      "bernieherr"
+    ],
+    "relation:bernie-williams": [
+      "berniewilliams"
+    ],
+    "relation:berton-averre": [
+      "bertonaverre"
+    ],
+    "relation:bertram-engel": [
+      "bertramengel"
+    ],
+    "relation:bette-midler": [
+      "bettemidler"
+    ],
+    "relation:big-sean": [
+      "bigsean"
+    ],
+    "relation:big-youth": [
+      "bigyouth"
+    ],
+    "relation:bill-ayres": [
+      "billayres"
+    ],
+    "relation:bill-churchville": [
+      "billchurchville"
+    ],
+    "relation:bill-cosby": [
+      "billcosby"
+    ],
+    "relation:bill-deasy": [
+      "billdeasy"
+    ],
+    "relation:bill-derby": [
+      "billderby"
+    ],
+    "relation:bill-frank": [
+      "billfrank"
+    ],
+    "relation:bill-gibson": [
+      "billgibson",
+      "news."
+    ],
+    "relation:bill-graham": [
+      "billgraham"
+    ],
+    "relation:bill-holloman": [
+      "billholloman"
+    ],
+    "relation:bill-lilley": [
+      "billlilley"
+    ],
+    "relation:bill-miller": [
+      "billmiller"
+    ],
+    "relation:bill-nace": [
+      "billnace"
+    ],
+    "relation:bill-nershi": [
+      "billnershi"
+    ],
+    "relation:bill-payne": [
+      "billpayne"
+    ],
+    "relation:bill-rieflin": [
+      "billrieflin"
+    ],
+    "relation:bill-toms": [
+      "billtoms"
+    ],
+    "relation:billy-bragg": [
+      "billybragg"
+    ],
+    "relation:billy-brown": [
+      "billybrown"
+    ],
+    "relation:billy-burnette": [
+      "billyburnette"
+    ],
+    "relation:billy-chinnock": [
+      "billychinnock"
+    ],
+    "relation:billy-gibbons": [
+      "billygibbons"
+    ],
+    "relation:billy-guy": [
+      "billyguy"
+    ],
+    "relation:billy-hector": [
+      "billyhector"
+    ],
+    "relation:billy-hinsche": [
+      "billyhinsche"
+    ],
+    "relation:billy-idol": [
+      "billyidol"
+    ],
+    "relation:billy-joel": [
+      "billyjoel"
+    ],
+    "relation:billy-livesay": [
+      "billylivesay"
+    ],
+    "relation:billy-preston": [
+      "billypreston"
+    ],
+    "relation:billy-rush": [
+      "billyrush"
+    ],
+    "relation:billy-ryan": [
+      "billyryan"
+    ],
+    "relation:billy-talbot": [
+      "billytalbot"
+    ],
+    "relation:black-thought": [
+      "blackthought"
+    ],
+    "relation:bleachers": [
+      "bleachers"
+    ],
+    "relation:blondie-chaplin": [
+      "blondiechaplin"
+    ],
+    "relation:bo-diddley": [
+      "bodiddley"
+    ],
+    "relation:bob-alfano": [
+      "bobalfano"
+    ],
+    "relation:bob-benjamin": [
+      "bobbenjamin"
+    ],
+    "relation:bob-boyd": [
+      "bobboyd"
+    ],
+    "relation:bob-britt": [
+      "bobbritt"
+    ],
+    "relation:bob-burger": [
+      "bobburger"
+    ],
+    "relation:bob-campanell": [
+      "bobcampanell"
+    ],
+    "relation:bob-costas": [
+      "bobcostas"
+    ],
+    "relation:bob-delevante": [
+      "bobdelevante"
+    ],
+    "relation:bob-dylan": [
+      "bobdylan"
+    ],
+    "relation:bob-ferrel": [
+      "bobferrel"
+    ],
+    "relation:bob-funk": [
+      "bobfunk"
+    ],
+    "relation:bob-gaudio": [
+      "bobgaudio"
+    ],
+    "relation:bob-geldof": [
+      "bobgeldof"
+    ],
+    "relation:bob-glaub": [
+      "bobglaub"
+    ],
+    "relation:bob-jensen": [
+      "bobjensen"
+    ],
+    "relation:bob-lizik": [
+      "boblizik"
+    ],
+    "relation:bob-malone": [
+      "bobmalone"
+    ],
+    "relation:bob-muckin": [
+      "bobmuckin"
+    ],
+    "relation:bob-neuwirth": [
+      "bobneuwirth"
+    ],
+    "relation:bob-smith": [
+      "bobsmith"
+    ],
+    "relation:bob-werner": [
+      "bobwerner"
+    ],
+    "relation:bobby-bandiera": [
+      "bobbybandiera"
+    ],
+    "relation:bobby-bandiera-band": [
+      "bobbybandieraband"
+    ],
+    "relation:bobby-brown": [
+      "bobbybrown"
+    ],
+    "relation:bobby-buttons": [
+      "bobbybuttons"
+    ],
+    "relation:bobby-campo": [
+      "bobbycampo"
+    ],
+    "relation:bobby-chouinard": [
+      "bobbychouinard"
+    ],
+    "relation:bobby-cotoia": [
+      "bobbycotoia"
+    ],
+    "relation:bobby-daniel": [
+      "bobbydaniel"
+    ],
+    "relation:bobby-debow": [
+      "bobbydebow"
+    ],
+    "relation:bobby-feigenbaum": [
+      "bobbyfeigenbaum"
+    ],
+    "relation:bobby-keys": [
+      "bobbykeys"
+    ],
+    "relation:bobby-king": [
+      "bobbyking"
+    ],
+    "relation:bobby-mcferrin": [
+      "bobbymcferrin"
+    ],
+    "relation:bobby-moynihan": [
+      "bobbymoynihan"
+    ],
+    "relation:bobby-read": [
+      "bobbyread"
+    ],
+    "relation:bobby-thomas": [
+      "bobbythomas"
+    ],
+    "relation:bobby-valli": [
+      "bobbyvalli"
+    ],
+    "relation:bobby-williams": [
+      "bobbywilliams"
+    ],
+    "relation:bobby-womack": [
+      "bobbywomack"
+    ],
+    "relation:bobby-z": [
+      "bobbyz"
+    ],
+    "relation:bobbye-hall": [
+      "bobbyehall"
+    ],
+    "relation:bon-jovi": [
+      "bonjovi"
+    ],
+    "relation:bonnie-raitt": [
+      "bonnieraitt"
+    ],
+    "relation:bonny-bonaparte": [
+      "bonnybonaparte"
+    ],
+    "relation:bono": [
+      "bono"
+    ],
+    "relation:booker-t-jones": [
+      "bookertjones"
+    ],
+    "relation:boz-scaggs": [
+      "bozscaggs"
+    ],
+    "relation:brad-hall": [
+      "bradhall"
+    ],
+    "relation:brad-leali": [
+      "bradleali"
+    ],
+    "relation:brad-pemberton": [
+      "bradpemberton"
+    ],
+    "relation:brady-blade": [
+      "bradyblade"
+    ],
+    "relation:brandon-flowers": [
+      "brandonflowers"
+    ],
+    "relation:brandon-wright": [
+      "brandonwright"
+    ],
+    "relation:branford-marsalis": [
+      "branfordmarsalis"
+    ],
+    "relation:brenda-reid": [
+      "brendareid"
+    ],
+    "relation:brendan-o-brien": [
+      "brendanobrien"
+    ],
+    "relation:brent-clore": [
+      "brentclore"
+    ],
+    "relation:brent-fortson": [
+      "brentfortson"
+    ],
+    "relation:brent-harding": [
+      "brentharding"
+    ],
+    "relation:brian-dunne": [
+      "briandunne"
+    ],
+    "relation:brian-fallon": [
+      "brianfallon"
+    ],
+    "relation:brian-mitchell": [
+      "brianmitchell"
+    ],
+    "relation:brian-pareschi": [
+      "brianpareschi"
+    ],
+    "relation:brian-ray": [
+      "brianray"
+    ],
+    "relation:brian-setzer": [
+      "briansetzer"
+    ],
+    "relation:brian-stoltz": [
+      "brianstoltz"
+    ],
+    "relation:brian-williams": [
+      "brianwilliams"
+    ],
+    "relation:brian-wilson": [
+      "brianwilson"
+    ],
+    "relation:bridget-o-donnell": [
+      "bridgetodonnell"
+    ],
+    "relation:bright-eyes": [
+      "brighteyes"
+    ],
+    "relation:brint-anderson": [
+      "brintanderson"
+    ],
+    "relation:brittany-howard": [
+      "brittanyhoward"
+    ],
+    "relation:bruce-cockburn": [
+      "brucecockburn"
+    ],
+    "relation:bruce-gary": [
+      "brucegary"
+    ],
+    "relation:bruce-greenwood": [
+      "brucegreenwood"
+    ],
+    "relation:bruce-hornsby": [
+      "brucehornsby"
+    ],
+    "relation:bruce-kapler": [
+      "brucekapler"
+    ],
+    "relation:bruce-slogan": [
+      "bruceslogan"
+    ],
+    "relation:bruce-sosibo": [
+      "brucesosibo"
+    ],
+    "relation:bruce-willis": [
+      "brucewillis"
+    ],
+    "relation:bryan-adams": [
+      "bryanadams"
+    ],
+    "relation:bryan-devendorf": [
+      "bryandevendorf"
+    ],
+    "relation:bryan-douglas": [
+      "bryandouglas"
+    ],
+    "relation:bryan-haring": [
+      "bryanharing"
+    ],
+    "relation:bryce-dessner": [
+      "brycedessner"
+    ],
+    "relation:bryn-terfel": [
+      "brynterfel"
+    ],
+    "relation:buck-brown": [
+      "buckbrown"
+    ],
+    "relation:bucky-baxter": [
+      "buckybaxter"
+    ],
+    "relation:bucky-naughton": [
+      "buckynaughton"
+    ],
+    "relation:buddy-miller": [
+      "buddymiller"
+    ],
+    "relation:buffalo-bill-gelber": [
+      "billgelber"
+    ],
+    "relation:butch-watt": [
+      "butchwatt"
+    ],
+    "relation:buzz-london": [
+      "buzzlondon"
+    ],
+    "relation:buzzy-linhart": [
+      "buzzylinhart"
+    ],
+    "relation:bystander": [
+      "bystander"
+    ],
+    "relation:c-j-morris": [
+      "cjmorris"
+    ],
+    "relation:caitlin-cleary": [
+      "caitlincleary"
+    ],
+    "relation:caleb-burhans": [
+      "calebburhans"
+    ],
+    "relation:caleb-followill": [
+      "calebfollowill"
+    ],
+    "relation:campbell-webster": [
+      "campbellwebster"
+    ],
+    "relation:cara-garofalo": [
+      "caragarofalo"
+    ],
+    "relation:carl-d-errico": [
+      "carlderrico"
+    ],
+    "relation:carl-fischer": [
+      "carlfischer"
+    ],
+    "relation:carl-gardner": [
+      "carlgardner"
+    ],
+    "relation:carl-perkins": [
+      "carlperkins"
+    ],
+    "relation:carl-restivo": [
+      "carlrestivo"
+    ],
+    "relation:carl-wilson": [
+      "carlwilson"
+    ],
+    "relation:carlitos-del-puerto": [
+      "carlitosdelpuerto"
+    ],
+    "relation:carlo-novi": [
+      "carlonovi"
+    ],
+    "relation:carol-dennis": [
+      "caroldennis"
+    ],
+    "relation:carol-kalvonjian": [
+      "carolkalvonjian"
+    ],
+    "relation:carol-shive": [
+      "carolshive"
+    ],
+    "relation:carole-king": [
+      "caroleking"
+    ],
+    "relation:caroline-hopson": [
+      "carolinehopson"
+    ],
+    "relation:caroline-jones": [
+      "carolinejones"
+    ],
+    "relation:caroll-spinney": [
+      "carollspinney"
+    ],
+    "relation:carolyn-johnson": [
+      "carolynjohnson"
+    ],
+    "relation:carolyne-mas": [
+      "carolynemas"
+    ],
+    "relation:casey-driessen": [
+      "caseydriessen"
+    ],
+    "relation:cat-simon": [
+      "catsimon"
+    ],
+    "relation:caterino-riccardi": [
+      "caterinoriccardi"
+    ],
+    "relation:catherine-russell": [
+      "catherinerussell"
+    ],
+    "relation:cats-on-a-smooth-surface": [
+      "catsonasmoothsurface"
+    ],
+    "relation:cbs-orchestra": [
+      "cbsorchestra"
+    ],
+    "relation:cecily-strong": [
+      "cecilystrong"
+    ],
+    "relation:celia-hatton": [
+      "celiahatton"
+    ],
+    "relation:chaka-khan": [
+      "chakakhan"
+    ],
+    "relation:chali-2na": [
+      "chali2na"
+    ],
+    "relation:chandler-travis": [
+      "chandlertravis"
+    ],
+    "relation:charles-giordano": [
+      "charlesgiordano"
+    ],
+    "relation:charles-mitchell": [
+      "charlesmitchell"
+    ],
+    "relation:charley-drayton": [
+      "charleydrayton"
+    ],
+    "relation:charlie-gabriel": [
+      "charliegabriel"
+    ],
+    "relation:charlie-musselwhite": [
+      "charliemusselwhite"
+    ],
+    "relation:charlie-sexton": [
+      "charliesexton"
+    ],
+    "relation:charlie-warwick": [
+      "charliewarwick"
+    ],
+    "relation:charlie-watts": [
+      "charliewatts"
+    ],
+    "relation:charlotte-ryan": [
+      "charlotteryan"
+    ],
+    "relation:charly-garcia": [
+      "charlygarcia"
+    ],
+    "relation:chavonne-stewart": [
+      "chavonnestewart"
+    ],
+    "relation:chazz-palminteri": [
+      "chazzpalminteri"
+    ],
+    "relation:chevy-chase": [
+      "chevychase"
+    ],
+    "relation:child": [
+      "child"
+    ],
+    "relation:chino-roberts": [
+      "chinoroberts"
+    ],
+    "relation:chojo-jacques": [
+      "chojojacques"
+    ],
+    "relation:chris-anderson": [
+      "chrisanderson"
+    ],
+    "relation:chris-botti": [
+      "chrisbotti"
+    ],
+    "relation:chris-campbell": [
+      "chriscampbell"
+    ],
+    "relation:chris-fryar": [
+      "chrisfryar"
+    ],
+    "relation:chris-hayes": [
+      "chrishayes",
+      "news."
+    ],
+    "relation:chris-hillman": [
+      "chrishillman"
+    ],
+    "relation:chris-isaak": [
+      "chrisisaak"
+    ],
+    "relation:chris-jordan": [
+      "chrisjordan"
+    ],
+    "relation:chris-lawrence": [
+      "chrislawrence"
+    ],
+    "relation:chris-martin": [
+      "chrismartin"
+    ],
+    "relation:chris-masterson": [
+      "chrismasterson"
+    ],
+    "relation:chris-phillips": [
+      "chrisphillips"
+    ],
+    "relation:chris-plunkett": [
+      "chrisplunkett"
+    ],
+    "relation:chris-scianni": [
+      "chrisscianni"
+    ],
+    "relation:chris-searles": [
+      "chrissearles"
+    ],
+    "relation:chris-spedding": [
+      "chrisspedding"
+    ],
+    "relation:chrissie-hynde": [
+      "chrissiehynde"
+    ],
+    "relation:christian-hebel": [
+      "christianhebel"
+    ],
+    "relation:christian-hoff": [
+      "christianhoff"
+    ],
+    "relation:christian-mcbride": [
+      "christianmcbride"
+    ],
+    "relation:christine-ohlman": [
+      "christineohlman"
+    ],
+    "relation:christine-smith": [
+      "christinesmith"
+    ],
+    "relation:christine-wiltshire": [
+      "christinewiltshire"
+    ],
+    "relation:christopher-clemons": [
+      "christopherclemons"
+    ],
+    "relation:christopher-reutinger": [
+      "christopherreutinger"
+    ],
+    "relation:chuck-berry": [
+      "chuckberry"
+    ],
+    "relation:chuck-burgi": [
+      "chuckburgi"
+    ],
+    "relation:chuck-d": [
+      "chuckd"
+    ],
+    "relation:chuck-hamilton": [
+      "chuckhamilton"
+    ],
+    "relation:chuck-leavell": [
+      "chuckleavell"
+    ],
+    "relation:chuck-plotkin": [
+      "chuckplotkin"
+    ],
+    "relation:cindy-mizelle": [
+      "cindymizelle"
+    ],
+    "relation:clarence-banks": [
+      "clarencebanks"
+    ],
+    "relation:clarence-mcdonald": [
+      "clarencemcdonald"
+    ],
+    "relation:clark-gayton": [
+      "clarkgayton"
+    ],
+    "relation:claudia-chopek": [
+      "claudiachopek"
+    ],
+    "relation:claudio-baglioni": [
+      "claudiobaglioni"
+    ],
+    "relation:clay-cook": [
+      "claycook"
+    ],
+    "relation:clay-moore": [
+      "claymoore"
+    ],
+    "relation:clayton-bryant": [
+      "claytonbryant"
+    ],
+    "relation:cleopatra-kennedy": [
+      "cleopatrakennedy"
+    ],
+    "relation:cleotha-staples": [
+      "cleothastaples"
+    ],
+    "relation:clifford-carter": [
+      "cliffordcarter"
+    ],
+    "relation:clint-drieberg": [
+      "clintdrieberg"
+    ],
+    "relation:clint-maedgen": [
+      "clintmaedgen"
+    ],
+    "relation:clive-davis": [
+      "clivedavis"
+    ],
+    "relation:clyde-brown": [
+      "clydebrown"
+    ],
+    "relation:coldplay": [
+      "coldplay"
+    ],
+    "relation:colin-jost": [
+      "colinjost"
+    ],
+    "relation:colin-macdonald": [
+      "colinmacdonald"
+    ],
+    "relation:collin-tilton": [
+      "collintilton"
+    ],
+    "relation:commander-cody": [
+      "commandercody"
+    ],
+    "relation:common": [
+      "common"
+    ],
+    "relation:conan-o-brien": [
+      "conanobrien"
+    ],
+    "relation:connie-manser": [
+      "conniemanser"
+    ],
+    "relation:conor-oberst": [
+      "conoroberst"
+    ],
+    "relation:cooper-and-koo-strings": [
+      "cooperandkoostrings"
+    ],
+    "relation:corey-glover": [
+      "coreyglover"
+    ],
+    "relation:corinda-carford": [
+      "corindacarford"
+    ],
+    "relation:cornell-gunter": [
+      "cornellgunter"
+    ],
+    "relation:cory-muro": [
+      "corymuro"
+    ],
+    "relation:courtney-barnett": [
+      "courtneybarnett"
+    ],
+    "relation:coy-bowles": [
+      "coybowles"
+    ],
+    "relation:craig-caprioni": [
+      "craigcaprioni"
+    ],
+    "relation:craig-doerge": [
+      "craigdoerge"
+    ],
+    "relation:craig-finn": [
+      "craigfinn"
+    ],
+    "relation:craig-frost": [
+      "craigfrost"
+    ],
+    "relation:craig-werner": [
+      "craigwerner"
+    ],
+    "relation:crispin-cioe": [
+      "crispincioe"
+    ],
+    "relation:crystal-taliefero": [
+      "crystaltaliefero"
+    ],
+    "relation:curt-fluhr": [
+      "curtfluhr"
+    ],
+    "relation:curt-ramm": [
+      "curtramm"
+    ],
+    "relation:curtis-mayfield": [
+      "curtismayfield"
+    ],
+    "relation:curtis-stewart": [
+      "curtisstewart"
+    ],
+    "relation:cyndi-lauper": [
+      "cyndilauper"
+    ],
+    "relation:cynthia-morrow": [
+      "cynthiamorrow"
+    ],
+    "relation:cyro-baptista": [
+      "cyrobaptista"
+    ],
+    "relation:d-angelo": [
+      "dangelo"
+    ],
+    "relation:d-b-weiss": [
+      "dbweiss"
+    ],
+    "relation:d-j-fontana": [
+      "djfontana"
+    ],
+    "relation:d-m-c": [
+      "dmc"
+    ],
+    "relation:d-wayne-wiggins": [
+      "dwaynewiggins"
+    ],
+    "relation:damian-einstein": [
+      "damianeinstein"
+    ],
+    "relation:dan-levine": [
+      "danlevine"
+    ],
+    "relation:dan-murphy": [
+      "danmurphy"
+    ],
+    "relation:dan-stone": [
+      "danstone"
+    ],
+    "relation:dan-zanes": [
+      "danzanes"
+    ],
+    "relation:dana-lyn": [
+      "danalyn"
+    ],
+    "relation:dana-marchioni": [
+      "danamarchioni"
+    ],
+    "relation:dane-clark": [
+      "daneclark"
+    ],
+    "relation:dani-flowers": [
+      "daniflowers"
+    ],
+    "relation:daniel-de-los-reyes": [
+      "danieldelosreyes"
+    ],
+    "relation:daniel-lanois": [
+      "daniellanois"
+    ],
+    "relation:daniel-lavoie": [
+      "daniellavoie"
+    ],
+    "relation:daniel-reichard": [
+      "danielreichard"
+    ],
+    "relation:danielle-sample": [
+      "daniellesample"
+    ],
+    "relation:danny-alexander": [
+      "dannyalexander"
+    ],
+    "relation:danny-clinch": [
+      "dannyclinch"
+    ],
+    "relation:danny-devito": [
+      "dannydevito"
+    ],
+    "relation:danny-federici": [
+      "dannyfederici"
+    ],
+    "relation:danny-fox": [
+      "dannyfox"
+    ],
+    "relation:danny-gallagher": [
+      "dannygallagher"
+    ],
+    "relation:danny-gochnour": [
+      "dannygochnour"
+    ],
+    "relation:danny-hyland": [
+      "dannyhyland"
+    ],
+    "relation:danny-kortchmar": [
+      "dannykortchmar"
+    ],
+    "relation:danny-ray": [
+      "dannyray"
+    ],
+    "relation:danny-sage": [
+      "dannysage"
+    ],
+    "relation:danny-white": [
+      "dannywhite"
+    ],
+    "relation:dar-williams": [
+      "darwilliams"
+    ],
+    "relation:darian-sahanaja": [
+      "dariansahanaja"
+    ],
+    "relation:darius-rucker": [
+      "dariusrucker"
+    ],
+    "relation:darlene-love": [
+      "darlenelove"
+    ],
+    "relation:darrell-leonard": [
+      "darrellleonard"
+    ],
+    "relation:darryl-jones": [
+      "darryljones"
+    ],
+    "relation:daryl-hall": [
+      "darylhall"
+    ],
+    "relation:daryl-hannah": [
+      "darylhannah"
+    ],
+    "relation:dave-barry": [
+      "davebarry"
+    ],
+    "relation:dave-bielanko": [
+      "davebielanko"
+    ],
+    "relation:dave-davies": [
+      "davedavies"
+    ],
+    "relation:dave-edmunds": [
+      "daveedmunds"
+    ],
+    "relation:dave-gibbs": [
+      "davegibbs"
+    ],
+    "relation:dave-grohl": [
+      "davegrohl"
+    ],
+    "relation:dave-guy": [
+      "daveguy"
+    ],
+    "relation:dave-hazlett": [
+      "davehazlett"
+    ],
+    "relation:dave-herman": [
+      "daveherman"
+    ],
+    "relation:dave-keuning": [
+      "davekeuning"
+    ],
+    "relation:dave-marsh": [
+      "davemarsh"
+    ],
+    "relation:dave-matthews": [
+      "davematthews"
+    ],
+    "relation:dave-nunez": [
+      "davenunez"
+    ],
+    "relation:dave-petersen": [
+      "davepetersen"
+    ],
+    "relation:dave-pirner": [
+      "davepirner"
+    ],
+    "relation:dave-rosenthal": [
+      "daverosenthal"
+    ],
+    "relation:dave-sellar": [
+      "davesellar"
+    ],
+    "relation:dave-stewart": [
+      "davestewart"
+    ],
+    "relation:davey-faragher": [
+      "daveyfaragher"
+    ],
+    "relation:david-amram": [
+      "davidamram"
+    ],
+    "relation:david-beal": [
+      "davidbeal"
+    ],
+    "relation:david-blue": [
+      "davidblue"
+    ],
+    "relation:david-brigati": [
+      "davidbrigati"
+    ],
+    "relation:david-bryan": [
+      "davidbryan"
+    ],
+    "relation:david-busey": [
+      "davidbusey"
+    ],
+    "relation:david-charles": [
+      "davidcharles"
+    ],
+    "relation:david-crosby": [
+      "davidcrosby"
+    ],
+    "relation:david-dye": [
+      "daviddye"
+    ],
+    "relation:david-harrington": [
+      "davidharrington"
+    ],
+    "relation:david-hayes": [
+      "davidhayes"
+    ],
+    "relation:david-hidalgo-jr": [
+      "davidhidalgojr"
+    ],
+    "relation:david-holt": [
+      "davidholt"
+    ],
+    "relation:david-johansen": [
+      "davidjohansen"
+    ],
+    "relation:david-kalish": [
+      "davidkalish"
+    ],
+    "relation:david-keyes": [
+      "davidkeyes"
+    ],
+    "relation:david-landau": [
+      "davidlandau"
+    ],
+    "relation:david-lee-shamlian": [
+      "davidleeshamlian"
+    ],
+    "relation:david-lindley": [
+      "davidlindley"
+    ],
+    "relation:david-longworth": [
+      "davidlongworth"
+    ],
+    "relation:david-marks": [
+      "davidmarks"
+    ],
+    "relation:david-paich": [
+      "davidpaich"
+    ],
+    "relation:david-pulkingham": [
+      "davidpulkingham"
+    ],
+    "relation:david-remnick": [
+      "davidremnick"
+    ],
+    "relation:david-rhodes": [
+      "davidrhodes"
+    ],
+    "relation:david-rozenblatt": [
+      "davidrozenblatt"
+    ],
+    "relation:david-ruffin": [
+      "davidruffin"
+    ],
+    "relation:david-sanborn": [
+      "davidsanborn"
+    ],
+    "relation:david-sancious": [
+      "david.sancious"
+    ],
+    "relation:david-santos": [
+      "davidsantos"
+    ],
+    "relation:david-tellerman": [
+      "davidtellerman"
+    ],
+    "relation:david-zurawski": [
+      "davidzurawski"
+    ],
+    "relation:davis-mclarty": [
+      "davismclarty"
+    ],
+    "relation:dawne-allynne": [
+      "dawneallynne"
+    ],
+    "relation:dayna-richardson": [
+      "daynarichardson"
+    ],
+    "relation:dean-felber": [
+      "deanfelber"
+    ],
+    "relation:deanie-richardson": [
+      "deanierichardson"
+    ],
+    "relation:debbie-gibson": [
+      "debbiegibson"
+    ],
+    "relation:debbie-harry": [
+      "debbieharry"
+    ],
+    "relation:debra-mose": [
+      "debramose"
+    ],
+    "relation:dee-holmes": [
+      "deeholmes"
+    ],
+    "relation:del-mccoury": [
+      "delmccoury"
+    ],
+    "relation:delila-paz": [
+      "delilapaz"
+    ],
+    "relation:delmar-brown": [
+      "delmarbrown"
+    ],
+    "relation:dennis-amoruso": [
+      "dennisamoruso"
+    ],
+    "relation:dennis-collins": [
+      "denniscollins"
+    ],
+    "relation:dennis-diken": [
+      "dennisdiken"
+    ],
+    "relation:dennis-edwards": [
+      "dennisedwards"
+    ],
+    "relation:dennis-franz": [
+      "dennisfranz"
+    ],
+    "relation:dennis-orlock": [
+      "dennisorlock"
+    ],
+    "relation:denny-fongheiser": [
+      "dennyfongheiser"
+    ],
+    "relation:denny-orr": [
+      "dennyorr"
+    ],
+    "relation:denny-weston": [
+      "dennyweston"
+    ],
+    "relation:derek-cruz": [
+      "derekcruz"
+    ],
+    "relation:derek-huston": [
+      "derekhuston"
+    ],
+    "relation:dermot-o-leary": [
+      "dermotoleary"
+    ],
+    "relation:dezron-douglas": [
+      "dezrondouglas"
+    ],
+    "relation:dezzie-norman": [
+      "dezzienorman"
+    ],
+    "relation:dia-nielsen": [
+      "dianielsen"
+    ],
+    "relation:diana-ross": [
+      "dianaross"
+    ],
+    "relation:diane-delin": [
+      "dianedelin"
+    ],
+    "relation:dick-green": [
+      "dickgreen"
+    ],
+    "relation:dickey-betts": [
+      "dickeybetts"
+    ],
+    "relation:didi-d-errico": [
+      "dididerrico"
+    ],
+    "relation:diego-voglino": [
+      "diegovoglino"
+    ],
+    "relation:dino-danelli": [
+      "dinodanelli"
+    ],
+    "relation:dino-guerrero": [
+      "dinoguerrero"
+    ],
+    "relation:dion-dimucci": [
+      "diondimucci"
+    ],
+    "relation:dionne-warwick": [
+      "dionnewarwick"
+    ],
+    "relation:dirck-van-lieu": [
+      "dirckvanlieu"
+    ],
+    "relation:dixie-chicks": [
+      "dixiechicks"
+    ],
+    "relation:dj-cheese": [
+      "djcheese"
+    ],
+    "relation:dolette-mcdonald": [
+      "dolettemcdonald"
+    ],
+    "relation:dominic-miller": [
+      "dominicmiller"
+    ],
+    "relation:don-brewer": [
+      "donbrewer"
+    ],
+    "relation:don-dilego": [
+      "dondilego"
+    ],
+    "relation:don-evans": [
+      "donevans"
+    ],
+    "relation:don-harris": [
+      "donharris"
+    ],
+    "relation:don-harvey": [
+      "donharvey"
+    ],
+    "relation:don-heffington": [
+      "donheffington"
+    ],
+    "relation:don-henley": [
+      "donhenley"
+    ],
+    "relation:don-ienner": [
+      "donienner"
+    ],
+    "relation:don-london": [
+      "donlondon"
+    ],
+    "relation:don-mattingly": [
+      "donmattingly"
+    ],
+    "relation:don-rickles": [
+      "donrickles"
+    ],
+    "relation:don-was": [
+      "donwas"
+    ],
+    "relation:donald-dunn": [
+      "duckdunn"
+    ],
+    "relation:donnie-bertelson": [
+      "donniebertelson"
+    ],
+    "relation:donnie-iris": [
+      "donnieiris"
+    ],
+    "relation:donnie-powell": [
+      "donniepowell"
+    ],
+    "relation:doug-dehays": [
+      "dougdehays"
+    ],
+    "relation:doug-derryberry": [
+      "dougderryberry"
+    ],
+    "relation:doug-fieger": [
+      "dougfieger"
+    ],
+    "relation:doug-garrison": [
+      "douggarrison"
+    ],
+    "relation:doug-haywood": [
+      "doughaywood"
+    ],
+    "relation:doug-jay": [
+      "dougjay"
+    ],
+    "relation:doug-pettibone": [
+      "dougpettibone"
+    ],
+    "relation:doug-stegmeyer": [
+      "dougstegmeyer"
+    ],
+    "relation:doug-wimbish": [
+      "dougwimbish"
+    ],
+    "relation:doyle-hough": [
+      "doylehough"
+    ],
+    "relation:dr-dre": [
+      "drdre"
+    ],
+    "relation:dr-john": [
+      "drjohn"
+    ],
+    "relation:dr-zoom-the-sonic-boom": [
+      "drzoom",
+      "sonicboom",
+      "steven.vanzandt"
+    ],
+    "relation:dropkick-murphys": [
+      "dropkickmurphys"
+    ],
+    "relation:duke-bootee": [
+      "dukebootee"
+    ],
+    "relation:dusty-hill": [
+      "dustyhill"
+    ],
+    "relation:earl-gardner": [
+      "earlgardner"
+    ],
+    "relation:earth": [
+      "earth"
+    ],
+    "relation:ed-beauchamp": [
+      "edbeauchamp"
+    ],
+    "relation:ed-brown": [
+      "edbrown"
+    ],
+    "relation:ed-de-palma": [
+      "eddepalma"
+    ],
+    "relation:ed-horne": [
+      "edhorne"
+    ],
+    "relation:ed-hynes": [
+      "edhynes"
+    ],
+    "relation:ed-manion": [
+      "edmanion"
+    ],
+    "relation:ed-neumeister": [
+      "edneumeister"
+    ],
+    "relation:ed-norton": [
+      "ednorton"
+    ],
+    "relation:ed-piersanti": [
+      "edpiersanti"
+    ],
+    "relation:ed-sciaky": [
+      "edsciaky"
+    ],
+    "relation:ed-sheeran": [
+      "edsheeran"
+    ],
+    "relation:eddie-brigati": [
+      "eddiebrigati"
+    ],
+    "relation:eddie-britt": [
+      "eddiebritt"
+    ],
+    "relation:eddie-floyd": [
+      "eddiefloyd"
+    ],
+    "relation:eddie-kendricks": [
+      "eddiekendricks"
+    ],
+    "relation:eddie-minnifield": [
+      "eddieminnifield"
+    ],
+    "relation:eddie-testa": [
+      "eddietesta"
+    ],
+    "relation:eddie-vedder": [
+      "eddievedder"
+    ],
+    "relation:eddy-cue": [
+      "eddycue"
+    ],
+    "relation:edgey-pires": [
+      "edgeypires"
+    ],
+    "relation:edie-zirilli": [
+      "ediezirilli"
+    ],
+    "relation:edith-bowman": [
+      "edithbowman"
+    ],
+    "relation:edwin-starr": [
+      "edwinstarr"
+    ],
+    "relation:elaine-caswell": [
+      "elainecaswell"
+    ],
+    "relation:eleanor-whitmore": [
+      "eleanorwhitmore"
+    ],
+    "relation:elias-haslanger": [
+      "eliashaslanger"
+    ],
+    "relation:elijah-ford": [
+      "elijahford"
+    ],
+    "relation:eliza-bennett": [
+      "elizabennett"
+    ],
+    "relation:elizabeth-lim-dutton": [
+      "elizabethlimdutton"
+    ],
+    "relation:ellen-harper": [
+      "ellenharper"
+    ],
+    "relation:ellen-shipley": [
+      "ellenshipley"
+    ],
+    "relation:elliott-murphy": [
+      "elliottmurphy"
+    ],
+    "relation:ellison-kendrick": [
+      "ellisonkendrick"
+    ],
+    "relation:eloise-wong": [
+      "eloisewong"
+    ],
+    "relation:elton-john": [
+      "eltonjohn"
+    ],
+    "relation:elysian-fields": [
+      "elysianfields"
+    ],
+    "relation:emedin-rivera": [
+      "emedinrivera"
+    ],
+    "relation:emil-stucchio": [
+      "emilstucchio"
+    ],
+    "relation:emily-robison": [
+      "emilyrobison"
+    ],
+    "relation:emily-saliers": [
+      "emilysaliers"
+    ],
+    "relation:emma-perkins": [
+      "emmaperkins"
+    ],
+    "relation:emma-sutton": [
+      "emmasutton"
+    ],
+    "relation:emmylou-harris": [
+      "emmylouharris"
+    ],
+    "relation:eric-burdon": [
+      "ericburdon"
+    ],
+    "relation:eric-church": [
+      "ericchurch"
+    ],
+    "relation:eric-clapton": [
+      "ericclapton"
+    ],
+    "relation:eric-gardner": [
+      "ericgardner"
+    ],
+    "relation:eric-leeds": [
+      "ericleeds"
+    ],
+    "relation:eric-weissberg": [
+      "ericweissberg"
+    ],
+    "relation:erica-canales": [
+      "ericacanales"
+    ],
+    "relation:erik-lawrence": [
+      "eriklawrence"
+    ],
+    "relation:erika-jerry": [
+      "erikajerry"
+    ],
+    "relation:ernest-carter": [
+      "ernest.carter"
+    ],
+    "relation:errol-cooney": [
+      "errolcooney"
+    ],
+    "relation:eurythmics": [
+      "eurythmics"
+    ],
+    "relation:evan-smith": [
+      "evansmith"
+    ],
+    "relation:evan-springsteen": [
+      "evanspringsteen"
+    ],
+    "relation:everett-bradley": [
+      "everettbradley"
+    ],
+    "relation:exit-105": [
+      "exit105"
+    ],
+    "relation:eydie-gorme": [
+      "eydiegorme"
+    ],
+    "relation:ezra-klinger": [
+      "ezraklinger"
+    ],
+    "relation:f-knuckles": [
+      "fknuckles"
+    ],
+    "relation:fabio-fazio": [
+      "fabiofazio"
+    ],
+    "relation:faith-hill": [
+      "faithhill"
+    ],
+    "relation:felicia-collins": [
+      "feliciacollins"
+    ],
+    "relation:felicia-douglass": [
+      "feliciadouglass"
+    ],
+    "relation:felix-cavaliere": [
+      "felixcavaliere"
+    ],
+    "relation:fernando-gonzalez-gonzalez": [
+      "fernandogonzalez"
+    ],
+    "relation:fifi-longo": [
+      "fifilongo"
+    ],
+    "relation:flavor-flav": [
+      "flavorflav"
+    ],
+    "relation:flea": [
+      "flea"
+    ],
+    "relation:flo-and-eddie": [
+      "floandeddie"
+    ],
+    "relation:fonzi-thornton": [
+      "fonzithornton"
+    ],
+    "relation:four-tops": [
+      "dukefakir",
+      "fourtops",
+      "obiebenson"
+    ],
+    "relation:fran-smith": [
+      "fransmithjr"
+    ],
+    "relation:francesca-dardani": [
+      "francescadardani"
+    ],
+    "relation:francesca-hiew": [
+      "francescahiew"
+    ],
+    "relation:francine-daniels": [
+      "francinedaniels"
+    ],
+    "relation:francisco-centeno": [
+      "franciscocenteno"
+    ],
+    "relation:frank-beard": [
+      "frankbeard"
+    ],
+    "relation:frank-caruso": [
+      "frankcaruso"
+    ],
+    "relation:frank-craig": [
+      "frankcraig"
+    ],
+    "relation:frank-elmo": [
+      "frankelmo"
+    ],
+    "relation:frank-gross": [
+      "frankgross"
+    ],
+    "relation:frank-martin": [
+      "frankmartin"
+    ],
+    "relation:frank-marziotti": [
+      "frankmarziotti"
+    ],
+    "relation:frank-pagano": [
+      "frankpagano"
+    ],
+    "relation:frank-pagano-2": [
+      "frankpagano2"
+    ],
+    "relation:frank-sampedro": [
+      "franksampedro"
+    ],
+    "relation:frank-simes": [
+      "franksimes"
+    ],
+    "relation:frank-sinatra": [
+      "franksinatra"
+    ],
+    "relation:frankie-lee": [
+      "frankielee"
+    ],
+    "relation:frankie-valli": [
+      "frankievalli"
+    ],
+    "relation:fred-campbell": [
+      "fredcampbell"
+    ],
+    "relation:fred-cash": [
+      "fredcash"
+    ],
+    "relation:fred-defeo": [
+      "freddefeo"
+    ],
+    "relation:fred-hellerman": [
+      "fredhellerman"
+    ],
+    "relation:fredrik-skavlan": [
+      "fredrikskavlan"
+    ],
+    "relation:freebo": [
+      "freebo"
+    ],
+    "relation:freedom-bremner": [
+      "freedombremner"
+    ],
+    "relation:funky-dusty-the-soul-broom": [
+      "funkydusty",
+      "soulbroom",
+      "steven.vanzandt"
+    ],
+    "relation:g-e-smith": [
+      "gesmith"
+    ],
+    "relation:gabbie-sansone": [
+      "gabbiesansone"
+    ],
+    "relation:gabriela-diaz": [
+      "gabrieladiaz"
+    ],
+    "relation:garland-jeffreys": [
+      "garlandjeffreys"
+    ],
+    "relation:garry-fish": [
+      "garryfish"
+    ],
+    "relation:garry-grant": [
+      "garrygrant"
+    ],
+    "relation:garry-tallent": [
+      "garrytallent"
+    ],
+    "relation:gary-breit": [
+      "garybreit"
+    ],
+    "relation:gary-busey": [
+      "garybusey"
+    ],
+    "relation:gary-cavico": [
+      "garycavico"
+    ],
+    "relation:gary-clark-jr": [
+      "garyclarkjr"
+    ],
+    "relation:gary-gold": [
+      "garygold"
+    ],
+    "relation:gary-gramolini": [
+      "garygramolini"
+    ],
+    "relation:gary-griffin": [
+      "garygriffin"
+    ],
+    "relation:gary-lucas": [
+      "garylucas"
+    ],
+    "relation:gary-mallaber": [
+      "garymallaber"
+    ],
+    "relation:gary-rieger": [
+      "garyrieger"
+    ],
+    "relation:gary-u-s-bonds": [
+      "garyusbonds"
+    ],
+    "relation:gaspard-murphy": [
+      "gaspardmurphy"
+    ],
+    "relation:gayle-king": [
+      "gayleking"
+    ],
+    "relation:gena-britt": [
+      "genabritt"
+    ],
+    "relation:gene-boccia": [
+      "geneboccia"
+    ],
+    "relation:gene-clark": [
+      "geneclark"
+    ],
+    "relation:gene-cornish": [
+      "genecornish"
+    ],
+    "relation:genya-ravan": [
+      "genyaravan"
+    ],
+    "relation:geoffrey-mdletshe": [
+      "geoffreymdletshe"
+    ],
+    "relation:geoffrey-oryema": [
+      "geoffreyoryema"
+    ],
+    "relation:george-benson": [
+      "georgebenson"
+    ],
+    "relation:george-clinton": [
+      "georgeclinton"
+    ],
+    "relation:george-harrison": [
+      "georgeharrison"
+    ],
+    "relation:george-hawkins": [
+      "georgehawkinsjr"
+    ],
+    "relation:george-ruiz": [
+      "georgeruiz"
+    ],
+    "relation:george-shelby": [
+      "georgeshelby"
+    ],
+    "relation:george-theiss": [
+      "georgetheiss"
+    ],
+    "relation:geraint-watkins": [
+      "geraintwatkins"
+    ],
+    "relation:gerald-carboy": [
+      "geraldcarboy"
+    ],
+    "relation:gerard-ekdom": [
+      "gerardekdom"
+    ],
+    "relation:gia-ciambotti": [
+      "giaciambotti"
+    ],
+    "relation:gigi-gonaway": [
+      "gigigonaway"
+    ],
+    "relation:gil-goldstein": [
+      "gilgoldstein"
+    ],
+    "relation:gil-scott-heron": [
+      "gilscottheron"
+    ],
+    "relation:gil-snyder": [
+      "gilsnyder"
+    ],
+    "relation:giles-davis": [
+      "gilesdavis"
+    ],
+    "relation:gina-gershon": [
+      "ginagershon"
+    ],
+    "relation:gina-holton": [
+      "ginaholton"
+    ],
+    "relation:glen-burtnik": [
+      "glenburtnik"
+    ],
+    "relation:glen-hansard": [
+      "glenhansard"
+    ],
+    "relation:glen-hardin": [
+      "glenhardin"
+    ],
+    "relation:glenn-alexander": [
+      "glennalexander"
+    ],
+    "relation:glenn-fukunaga": [
+      "glennfukunaga"
+    ],
+    "relation:gloria-gaynor": [
+      "gloriagaynor"
+    ],
+    "relation:gordon-brown": [
+      "gordonbrown"
+    ],
+    "relation:gorgo-beach": [
+      "gorgobeach"
+    ],
+    "relation:grace-bowers": [
+      "gracebowers"
+    ],
+    "relation:grace-jones": [
+      "gracejones"
+    ],
+    "relation:graham-bright": [
+      "grahambright"
+    ],
+    "relation:graham-maby": [
+      "grahammaby"
+    ],
+    "relation:graham-nash": [
+      "grahamnash"
+    ],
+    "relation:graham-norton": [
+      "grahamnorton"
+    ],
+    "relation:grainger-hines": [
+      "graingerhines"
+    ],
+    "relation:grandson": [
+      "grandson"
+    ],
+    "relation:greg-brooks": [
+      "gregbrooks"
+    ],
+    "relation:greg-deppe": [
+      "gregdeppe"
+    ],
+    "relation:greg-fallis": [
+      "gregfallis"
+    ],
+    "relation:greg-kihn": [
+      "gregkihn"
+    ],
+    "relation:greg-leisz": [
+      "gregleisz"
+    ],
+    "relation:greg-liszt": [
+      "gregliszt"
+    ],
+    "relation:greg-phillinganes": [
+      "gregphillinganes"
+    ],
+    "relation:greg-richling": [
+      "gregrichling"
+    ],
+    "relation:gregory-peck": [
+      "gregorypeck"
+    ],
+    "relation:gunnar-olsen": [
+      "gunnarolsen"
+    ],
+    "relation:guy-berryman": [
+      "guyberryman"
+    ],
+    "relation:guy-davis": [
+      "guydavis"
+    ],
+    "relation:hailie-lucille": [
+      "hailielucille"
+    ],
+    "relation:hal-hollander": [
+      "halhollander"
+    ],
+    "relation:hal-keshner": [
+      "halkeshner"
+    ],
+    "relation:hall-oates": [
+      "halloates"
+    ],
+    "relation:hana-king": [
+      "hanaking"
+    ],
+    "relation:hank-ballard": [
+      "hankballard"
+    ],
+    "relation:hank-woji": [
+      "hankwoji"
+    ],
+    "relation:hannah-cohen": [
+      "hannahcohen"
+    ],
+    "relation:harley-federici": [
+      "harleyfederici"
+    ],
+    "relation:harry-belafonte": [
+      "harrybelafonte"
+    ],
+    "relation:harry-filkin": [
+      "harryfilkin"
+    ],
+    "relation:harry-manx": [
+      "harrymanx"
+    ],
+    "relation:hart-perry": [
+      "hartperry"
+    ],
+    "relation:harvey-brooks": [
+      "harveybrooks"
+    ],
+    "relation:harvey-cherlin": [
+      "harveycherlin"
+    ],
+    "relation:haywood-gregory": [
+      "haywoodgregory"
+    ],
+    "relation:headman-shabalala": [
+      "headmanshabalala"
+    ],
+    "relation:heath-fogg": [
+      "heathfogg"
+    ],
+    "relation:heavy-trucking": [
+      "heavytrucking"
+    ],
+    "relation:hector-munoz": [
+      "hectormunoz"
+    ],
+    "relation:henrik-littauer": [
+      "henriklittauer"
+    ],
+    "relation:henry-hey": [
+      "henryhey"
+    ],
+    "relation:herb-rooney": [
+      "herbrooney"
+    ],
+    "relation:herbie-hancock": [
+      "herbiehancock"
+    ],
+    "relation:hermie-granati": [
+      "hermiegranati"
+    ],
+    "relation:hetty-schneider-band": [
+      "hettyschneiderband"
+    ],
+    "relation:hiroko-taguchi": [
+      "hirokotaguchi"
+    ],
+    "relation:hobo": [
+      "hobo"
+    ],
+    "relation:hoda-kotb": [
+      "hodakotb"
+    ],
+    "relation:hootie-the-blowfish": [
+      "blowfish"
+    ],
+    "relation:howard-freund": [
+      "howardfreund"
+    ],
+    "relation:howard-kaylan": [
+      "howardkaylan"
+    ],
+    "relation:howie-epstein": [
+      "howieepstein"
+    ],
+    "relation:howie-wyeth": [
+      "howiewyeth"
+    ],
+    "relation:huey-lewis": [
+      "news."
+    ],
+    "relation:hugh-mcdonald": [
+      "hughmcdonald"
+    ],
+    "relation:humberto-tan": [
+      "humbertotan"
+    ],
+    "relation:ian-gray": [
+      "iangray"
+    ],
+    "relation:ian-hendrickson-smith": [
+      "ianhendricksonsmith"
+    ],
+    "relation:ian-perkins": [
+      "ianperkins"
+    ],
+    "relation:idina-menzel": [
+      "idinamenzel"
+    ],
+    "relation:ike-reilly": [
+      "ikereilly"
+    ],
+    "relation:imelda-yalcin": [
+      "imeldayalcin"
+    ],
+    "relation:india-arie": [
+      "indiaarie"
+    ],
+    "relation:indigo-girls": [
+      "indigogirls"
+    ],
+    "relation:indofunk-satish": [
+      "indofunksatish"
+    ],
+    "relation:ingo-marte": [
+      "ingomarte"
+    ],
+    "relation:ingo-zamperoni": [
+      "ingozamperoni"
+    ],
+    "relation:inos-phungula": [
+      "inosphungula"
+    ],
+    "relation:irma-thomas": [
+      "irmathomas"
+    ],
+    "relation:iron-city-houserockers": [
+      "ironcityhouserockers"
+    ],
+    "relation:isaac-mtshali": [
+      "isaacmtshali"
+    ],
+    "relation:isaac-washam": [
+      "isaacwasham"
+    ],
+    "relation:ivan-kral": [
+      "ivankral"
+    ],
+    "relation:j-d-souther": [
+      "jdsouther"
+    ],
+    "relation:j-d-woofer": [
+      "jdwoofer"
+    ],
+    "relation:j-j-holiday": [
+      "jjholiday"
+    ],
+    "relation:j-j-johnson": [
+      "jjjohnson"
+    ],
+    "relation:j-r-carroll": [
+      "jrcarroll"
+    ],
+    "relation:j-robert-spencer": [
+      "jrobertspencer"
+    ],
+    "relation:j-t-lewis": [
+      "jtlewis"
+    ],
+    "relation:j-t-thomas": [
+      "jtthomas"
+    ],
+    "relation:j-v-collier": [
+      "jvcollier"
+    ],
+    "relation:jabulani-dubazana": [
+      "jabulanidubazana"
+    ],
+    "relation:jack-antonoff": [
+      "jackantonoff"
+    ],
+    "relation:jack-clemons": [
+      "jackclemons"
+    ],
+    "relation:jack-daley": [
+      "jackdaley"
+    ],
+    "relation:jack-hardy": [
+      "jackhardy"
+    ],
+    "relation:jack-healey": [
+      "jackhealey"
+    ],
+    "relation:jack-scarangella": [
+      "jackscarangella"
+    ],
+    "relation:jack-syperek": [
+      "jacksyperek"
+    ],
+    "relation:jackie-jackson": [
+      "jackiejackson"
+    ],
+    "relation:jackson-browne": [
+      "jacksonbrowne"
+    ],
+    "relation:jackson-smith": [
+      "jacksonsmith"
+    ],
+    "relation:jacob-silver": [
+      "jacobsilver"
+    ],
+    "relation:jaelee-roberts": [
+      "jaeleeroberts"
+    ],
+    "relation:jah-love": [
+      "jahlove"
+    ],
+    "relation:jai-winding": [
+      "jaiwinding"
+    ],
+    "relation:jake-blanton": [
+      "jakeblanton"
+    ],
+    "relation:jake-clemons": [
+      "jakeclemons"
+    ],
+    "relation:jake-thistle": [
+      "jakethistle"
+    ],
+    "relation:jakob-dylan": [
+      "jakobdylan"
+    ],
+    "relation:jam-master-jay": [
+      "jammasterjay"
+    ],
+    "relation:james-brown": [
+      "jamesbrown"
+    ],
+    "relation:james-burton": [
+      "jamesburton"
+    ],
+    "relation:james-cruz": [
+      "jamescruz"
+    ],
+    "relation:james-honeyman-scott": [
+      "jameshoneymanscott"
+    ],
+    "relation:james-ingram": [
+      "jamesingram"
+    ],
+    "relation:james-intveld": [
+      "jamesintveld"
+    ],
+    "relation:james-lynch": [
+      "jameslynch"
+    ],
+    "relation:james-maddock": [
+      "jamesmaddock"
+    ],
+    "relation:james-michael-brown": [
+      "jamesmichaelbrown"
+    ],
+    "relation:james-poyser": [
+      "jamespoyser"
+    ],
+    "relation:james-taylor": [
+      "jamestaylor"
+    ],
+    "relation:jamie-foxx": [
+      "jamiefoxx"
+    ],
+    "relation:jamie-peck": [
+      "jamiepeck"
+    ],
+    "relation:jane-scarpantoni": [
+      "janescarpantoni"
+    ],
+    "relation:jane-stanley": [
+      "janestanley"
+    ],
+    "relation:jane-williams": [
+      "janewilliams"
+    ],
+    "relation:janey-choi": [
+      "janeychoi"
+    ],
+    "relation:janice-pendarvis": [
+      "janicependarvis"
+    ],
+    "relation:jann-wenner": [
+      "jannwenner"
+    ],
+    "relation:jaquita-perkins": [
+      "jaquitaperkins"
+    ],
+    "relation:jared-scharff": [
+      "jaredscharff"
+    ],
+    "relation:jarod-clemons": [
+      "jarodclemons"
+    ],
+    "relation:jason-crosby": [
+      "jasoncrosby"
+    ],
+    "relation:jason-federici": [
+      "jasonfederici"
+    ],
+    "relation:jason-hohn": [
+      "jasonhohn"
+    ],
+    "relation:jason-neukom": [
+      "jasonneukom"
+    ],
+    "relation:jason-stanley": [
+      "jasonstanley"
+    ],
+    "relation:jay-dee-daugherty": [
+      "jaydeedaugherty"
+    ],
+    "relation:jay-gibson": [
+      "jaygibson"
+    ],
+    "relation:jay-pharoah": [
+      "jaypharoah"
+    ],
+    "relation:jay-ungar": [
+      "jayungar"
+    ],
+    "relation:jay-weinberg": [
+      "jayweinberg"
+    ],
+    "relation:jc-maillard": [
+      "jcmaillard"
+    ],
+    "relation:jean-beauvoir": [
+      "jeanbeauvoir"
+    ],
+    "relation:jeannie-clark": [
+      "jeannieclark"
+    ],
+    "relation:jeff-beck": [
+      "jeffbeck"
+    ],
+    "relation:jeff-campbell": [
+      "jeffcampbell"
+    ],
+    "relation:jeff-cohen": [
+      "jeffcohen"
+    ],
+    "relation:jeff-darosa": [
+      "jeffdarosa"
+    ],
+    "relation:jeff-delongchamp": [
+      "jeffdelongchamp"
+    ],
+    "relation:jeff-garrison": [
+      "jeffgarrison"
+    ],
+    "relation:jeff-heisholt": [
+      "jeffheisholt"
+    ],
+    "relation:jeff-hill": [
+      "jeffhill"
+    ],
+    "relation:jeff-kazee": [
+      "jeffkazee"
+    ],
+    "relation:jeff-kievit": [
+      "jeffkievit"
+    ],
+    "relation:jeff-kinder": [
+      "jeffkinder"
+    ],
+    "relation:jeff-levine": [
+      "jefflevine"
+    ],
+    "relation:jeff-lubin": [
+      "jefflubin"
+    ],
+    "relation:jeff-lubin-band": [
+      "jefflubinband"
+    ],
+    "relation:jeff-lynne": [
+      "jefflynne"
+    ],
+    "relation:jeff-prystowsky": [
+      "jeffprystowsky"
+    ],
+    "relation:jeff-yang": [
+      "jeffyang"
+    ],
+    "relation:jeff-young": [
+      "jeffyoung"
+    ],
+    "relation:jeffrey-foskett": [
+      "jeffreyfoskett"
+    ],
+    "relation:jeffrey-osborne": [
+      "jeffreyosborne"
+    ],
+    "relation:jeffrey-ross": [
+      "jeffreyross"
+    ],
+    "relation:jen-chapin": [
+      "jenchapin"
+    ],
+    "relation:jenard-andrews": [
+      "jenardandrews"
+    ],
+    "relation:jennifer-charles": [
+      "jennifercharles"
+    ],
+    "relation:jennifer-hartswick": [
+      "jenniferhartswick"
+    ],
+    "relation:jennifer-hudson": [
+      "jenniferhudson"
+    ],
+    "relation:jennifer-nettles": [
+      "jennifernettles"
+    ],
+    "relation:jennifer-warnes": [
+      "jenniferwarnes"
+    ],
+    "relation:jeremiah-fraites": [
+      "jeremiahfraites"
+    ],
+    "relation:jeremy-allen-white": [
+      "jeremyallenwhite"
+    ],
+    "relation:jeremy-chatzky": [
+      "jeremychatzky"
+    ],
+    "relation:jeremy-strong": [
+      "jeremystrong"
+    ],
+    "relation:jerome-benton": [
+      "jeromebenton"
+    ],
+    "relation:jerry-angel": [
+      "jerryangel"
+    ],
+    "relation:jerry-butler": [
+      "jerrybutler"
+    ],
+    "relation:jerry-cohen": [
+      "jerrycohen"
+    ],
+    "relation:jerry-lee-lewis": [
+      "jerryleelewis"
+    ],
+    "relation:jerry-leiber": [
+      "jerryleiber"
+    ],
+    "relation:jerry-matthews": [
+      "jerrymatthews"
+    ],
+    "relation:jerry-scheff": [
+      "jerryscheff"
+    ],
+    "relation:jerry-vivino": [
+      "jerryvivino"
+    ],
+    "relation:jesse-harris": [
+      "jesseharris"
+    ],
+    "relation:jesse-malin": [
+      "jessemalin"
+    ],
+    "relation:jesse-moorer": [
+      "jessemoorer"
+    ],
+    "relation:jesse-smith": [
+      "jessesmith"
+    ],
+    "relation:jesse-taylor": [
+      "jessetaylor"
+    ],
+    "relation:jessica-springsteen": [
+      "jessicaspringsteen"
+    ],
+    "relation:jessie-wagner": [
+      "jessiewagner"
+    ],
+    "relation:jessika-borg": [
+      "jessikaborg"
+    ],
+    "relation:jessye-norman": [
+      "jessyenorman"
+    ],
+    "relation:jill-scott": [
+      "jillscott"
+    ],
+    "relation:jill-west": [
+      "jillwest"
+    ],
+    "relation:jim-allen": [
+      "jimallen"
+    ],
+    "relation:jim-babjak": [
+      "jimbabjak"
+    ],
+    "relation:jim-brown": [
+      "jimbrown"
+    ],
+    "relation:jim-celestino": [
+      "jimcelestino"
+    ],
+    "relation:jim-cretecos": [
+      "jimcretecos"
+    ],
+    "relation:jim-hanson": [
+      "jimhanson"
+    ],
+    "relation:jim-hines": [
+      "jimhines"
+    ],
+    "relation:jim-horn": [
+      "jimhorn"
+    ],
+    "relation:jim-hynes": [
+      "jimhynes"
+    ],
+    "relation:jim-james": [
+      "jimjames"
+    ],
+    "relation:jim-keltner": [
+      "jimkeltner"
+    ],
+    "relation:jim-rotolo": [
+      "jimrotolo"
+    ],
+    "relation:jim-sonefeld": [
+      "jimsonefeld"
+    ],
+    "relation:jim-weider": [
+      "jimweider"
+    ],
+    "relation:jimbo-ross": [
+      "jimboross"
+    ],
+    "relation:jimi-bones": [
+      "jimibones"
+    ],
+    "relation:jimmie-dale-gilmore": [
+      "jimmiedalegilmore"
+    ],
+    "relation:jimmie-vaughan": [
+      "jimmievaughan"
+    ],
+    "relation:jimmie-wood": [
+      "jimmiewood"
+    ],
+    "relation:jimmy-barnes": [
+      "jimmybarnes"
+    ],
+    "relation:jimmy-cliff": [
+      "jimmycliff"
+    ],
+    "relation:jimmy-de-martini": [
+      "jimmydemartini"
+    ],
+    "relation:jimmy-dillon": [
+      "jimmydillon"
+    ],
+    "relation:jimmy-fallon": [
+      "jimmyfallon"
+    ],
+    "relation:jimmy-haddox": [
+      "jimmyhaddox"
+    ],
+    "relation:jimmy-kimmel": [
+      "jimmykimmel"
+    ],
+    "relation:jimmy-lafave": [
+      "jimmylafave"
+    ],
+    "relation:jimmy-lester": [
+      "jimmylester"
+    ],
+    "relation:jimmy-mcguire": [
+      "jimmymcguire"
+    ],
+    "relation:jimmy-morehaus": [
+      "jimmymorehaus"
+    ],
+    "relation:jimmy-nail": [
+      "jimmynail"
+    ],
+    "relation:jimmy-perkins": [
+      "jimmyperkins"
+    ],
+    "relation:jimmy-vivino": [
+      "jimmyvivino"
+    ],
+    "relation:jo-anna-kameron": [
+      "joannakameron"
+    ],
+    "relation:jo-lawry": [
+      "jolawry"
+    ],
+    "relation:joan-baez": [
+      "joanbaez"
+    ],
+    "relation:joan-jett": [
+      "joanjett"
+    ],
+    "relation:joanna-maurer": [
+      "joannamaurer"
+    ],
+    "relation:joanne-shenandoah": [
+      "joanneshenandoah"
+    ],
+    "relation:jocie-adams": [
+      "jocieadams"
+    ],
+    "relation:jockey-shabalala": [
+      "jockeyshabalala"
+    ],
+    "relation:joe-bellia": [
+      "joebellia"
+    ],
+    "relation:joe-blunt": [
+      "joeblunt"
+    ],
+    "relation:joe-cabral": [
+      "joecabral"
+    ],
+    "relation:joe-delia": [
+      "joedelia"
+    ],
+    "relation:joe-deninzon": [
+      "joedeninzon"
+    ],
+    "relation:joe-ely": [
+      "joeely"
+    ],
+    "relation:joe-grillo": [
+      "joegrillo"
+    ],
+    "relation:joe-gullace": [
+      "joegullace"
+    ],
+    "relation:joe-hagstrom": [
+      "joehagstrom"
+    ],
+    "relation:joe-hooven": [
+      "joehooven"
+    ],
+    "relation:joe-lastie": [
+      "joelastiejr"
+    ],
+    "relation:joe-lazarus": [
+      "joelazarus"
+    ],
+    "relation:joe-martin": [
+      "joemartin"
+    ],
+    "relation:joe-mcdonald": [
+      "countryjoemcdonald"
+    ],
+    "relation:joe-morales": [
+      "joemorales"
+    ],
+    "relation:joe-morris": [
+      "joemorris"
+    ],
+    "relation:joe-murray": [
+      "joemurray"
+    ],
+    "relation:joe-nappy": [
+      "joenappy"
+    ],
+    "relation:joe-nevelo": [
+      "joenevelo"
+    ],
+    "relation:joe-pelesky": [
+      "joepelesky"
+    ],
+    "relation:joe-petillo": [
+      "joepetillo"
+    ],
+    "relation:joe-principe": [
+      "joeprincipe"
+    ],
+    "relation:joe-sublett": [
+      "joesublett"
+    ],
+    "relation:joe-sumner": [
+      "joesumner"
+    ],
+    "relation:joe-sweeney": [
+      "joesweeney"
+    ],
+    "relation:joe-vadala": [
+      "joevadala"
+    ],
+    "relation:joe-walsh": [
+      "joewalsh"
+    ],
+    "relation:joel-gramolini": [
+      "joelgramolini"
+    ],
+    "relation:joel-krauss": [
+      "joelkrauss"
+    ],
+    "relation:joel-selvin": [
+      "joelselvin"
+    ],
+    "relation:joey-berkley": [
+      "joeyberkley"
+    ],
+    "relation:joey-ramone": [
+      "joeyramone"
+    ],
+    "relation:joey-stann": [
+      "joeystann"
+    ],
+    "relation:joffo-simmons": [
+      "joffosimmons"
+    ],
+    "relation:john-angus-macdonald": [
+      "johnangusmacdonald"
+    ],
+    "relation:john-bailey": [
+      "johnbailey"
+    ],
+    "relation:john-barnes": [
+      "johnbarnes"
+    ],
+    "relation:john-bazz": [
+      "johnbazz"
+    ],
+    "relation:john-berry": [
+      "johnberry"
+    ],
+    "relation:john-binkley": [
+      "johnbinkley"
+    ],
+    "relation:john-cale": [
+      "johncale"
+    ],
+    "relation:john-candy": [
+      "johncandy"
+    ],
+    "relation:john-cascella": [
+      "johncascella"
+    ],
+    "relation:john-chudoba": [
+      "johnchudoba"
+    ],
+    "relation:john-colby": [
+      "johncolby"
+    ],
+    "relation:john-conte": [
+      "johnconte"
+    ],
+    "relation:john-corey": [
+      "johncorey"
+    ],
+    "relation:john-david": [
+      "johndavid"
+    ],
+    "relation:john-densmore": [
+      "johndensmore"
+    ],
+    "relation:john-driskell-hopkins": [
+      "johndriskellhopkins"
+    ],
+    "relation:john-entwistle": [
+      "johnentwistle"
+    ],
+    "relation:john-fogerty": [
+      "johnfogerty"
+    ],
+    "relation:john-graham": [
+      "johngraham"
+    ],
+    "relation:john-gros": [
+      "johngros"
+    ],
+    "relation:john-hammond": [
+      "johnhammond"
+    ],
+    "relation:john-isley": [
+      "johnisley"
+    ],
+    "relation:john-jackson": [
+      "johnjackson"
+    ],
+    "relation:john-james": [
+      "johnjames"
+    ],
+    "relation:john-kumnick": [
+      "johnkumnick"
+    ],
+    "relation:john-lee-hooker": [
+      "johnleehooker"
+    ],
+    "relation:john-legend": [
+      "johnlegend"
+    ],
+    "relation:john-leventhal": [
+      "johnleventhal"
+    ],
+    "relation:john-luraschi": [
+      "johnluraschi"
+    ],
+    "relation:john-magnusson": [
+      "johnmagnusson"
+    ],
+    "relation:john-martin": [
+      "johnmartin"
+    ],
+    "relation:john-mcelrath": [
+      "johnmcelrath"
+    ],
+    "relation:john-mcenroe": [
+      "johnmcenroe"
+    ],
+    "relation:john-mellencamp": [
+      "johnmellencamp"
+    ],
+    "relation:john-micco": [
+      "johnmicco"
+    ],
+    "relation:john-miller": [
+      "johnmiller"
+    ],
+    "relation:john-o-reilly": [
+      "johnoreilly"
+    ],
+    "relation:john-oates": [
+      "johnoates"
+    ],
+    "relation:john-oeser": [
+      "johnoeser"
+    ],
+    "relation:john-pittas": [
+      "johnpittas"
+    ],
+    "relation:john-popper": [
+      "johnpopper"
+    ],
+    "relation:john-prine": [
+      "johnprine"
+    ],
+    "relation:john-roberts": [
+      "johnroberts"
+    ],
+    "relation:john-robinson": [
+      "johnrobinson"
+    ],
+    "relation:john-rodgers": [
+      "johnrodgers"
+    ],
+    "relation:john-rutherford": [
+      "johnrutherford"
+    ],
+    "relation:john-rzeznik": [
+      "johnrzeznik"
+    ],
+    "relation:john-scarpulla": [
+      "johnscarpulla"
+    ],
+    "relation:john-selolwane": [
+      "johnselolwane"
+    ],
+    "relation:john-shanks": [
+      "johnshanks"
+    ],
+    "relation:john-sykes": [
+      "johnsykes"
+    ],
+    "relation:john-waasdorp": [
+      "johnwaasdorp"
+    ],
+    "relation:john-wesley-harding": [
+      "johnwesleyharding"
+    ],
+    "relation:johnny-almond": [
+      "johnnyalmond"
+    ],
+    "relation:johnny-colla": [
+      "johnnycolla",
+      "news."
+    ],
+    "relation:johnny-depp": [
+      "johnnydepp"
+    ],
+    "relation:johnny-grushecky": [
+      "johnnygrushecky"
+    ],
+    "relation:johnny-lee-schell": [
+      "johnnyleeschell"
+    ],
+    "relation:johnny-moore": [
+      "johnnymoore"
+    ],
+    "relation:johnny-pisano": [
+      "johnnypisano"
+    ],
+    "relation:jon-bon-jovi": [
+      "jonbonjovi"
+    ],
+    "relation:jon-deas": [
+      "jondeas"
+    ],
+    "relation:jon-e-gee": [
+      "jonegee"
+    ],
+    "relation:jon-estrin": [
+      "jonestrin"
+    ],
+    "relation:jon-fishman": [
+      "jonfishman"
+    ],
+    "relation:jon-gordon": [
+      "jongordon"
+    ],
+    "relation:jon-landau": [
+      "jonlandau"
+    ],
+    "relation:jon-rudnitsky": [
+      "jonrudnitsky"
+    ],
+    "relation:jon-stewart": [
+      "jonstewart"
+    ],
+    "relation:jon-weber": [
+      "jonweber"
+    ],
+    "relation:joni-mitchell": [
+      "jonimitchell"
+    ],
+    "relation:jonny-buckland": [
+      "jonnybuckland"
+    ],
+    "relation:jonny-ng": [
+      "jonnyng"
+    ],
+    "relation:jonny-wickersham": [
+      "jonnywickersham"
+    ],
+    "relation:jorge-otero": [
+      "jorgeotero"
+    ],
+    "relation:jorgen-johansson": [
+      "jorgenjohansson"
+    ],
+    "relation:joseph-arthur": [
+      "josepharthur"
+    ],
+    "relation:joseph-firecrow": [
+      "josephfirecrow"
+    ],
+    "relation:joseph-shabalala": [
+      "josephshabalala"
+    ],
+    "relation:josh-ritter": [
+      "joshritter"
+    ],
+    "relation:joyce-hammann": [
+      "joycehammann"
+    ],
+    "relation:joyce-westphal": [
+      "joycewestphal"
+    ],
+    "relation:juan-escovedo": [
+      "juanescovedo"
+    ],
+    "relation:juanes": [
+      "juanes"
+    ],
+    "relation:julian-ferraretto": [
+      "julianferraretto"
+    ],
+    "relation:julian-lennon": [
+      "julianlennon"
+    ],
+    "relation:juliana-hatfield": [
+      "julianahatfield"
+    ],
+    "relation:julianne-phillips": [
+      "juliannephillips"
+    ],
+    "relation:juliet-seger": [
+      "julietseger"
+    ],
+    "relation:june-pointer": [
+      "junepointer"
+    ],
+    "relation:jurassic-5": [
+      "jurassic5"
+    ],
+    "relation:justin-goldner": [
+      "justingoldner"
+    ],
+    "relation:k-d-lang": [
+      "kdlang"
+    ],
+    "relation:kamal-gray": [
+      "kamalgray"
+    ],
+    "relation:karen-o": [
+      "kareno"
+    ],
+    "relation:karl-mueller": [
+      "karlmueller"
+    ],
+    "relation:karla-bonoff": [
+      "karlabonoff"
+    ],
+    "relation:karla-manzur": [
+      "karlamanzur"
+    ],
+    "relation:kashif": [
+      "kashif"
+    ],
+    "relation:kate-capshaw": [
+      "katecapshaw"
+    ],
+    "relation:kate-hudson": [
+      "katehudson"
+    ],
+    "relation:kate-mcgarrigle": [
+      "katemcgarrigle"
+    ],
+    "relation:kate-mckinnon": [
+      "katemckinnon"
+    ],
+    "relation:katherine-hughes": [
+      "katherinehughes"
+    ],
+    "relation:kathi-goldmark": [
+      "kathigoldmark"
+    ],
+    "relation:kathryn-krugell": [
+      "kathrynkrugell"
+    ],
+    "relation:katie-blomarz-kimball": [
+      "katieblomarzkimball"
+    ],
+    "relation:katie-jacoby": [
+      "katiejacoby"
+    ],
+    "relation:katreese-barnes": [
+      "katreesebarnes"
+    ],
+    "relation:kaveh-rastegar": [
+      "kavehrastegar"
+    ],
+    "relation:keb-mo": [
+      "kebmo"
+    ],
+    "relation:keef-cowboy": [
+      "keefcowboy"
+    ],
+    "relation:keith-cronin": [
+      "keithcronin"
+    ],
+    "relation:keith-kaminski": [
+      "keithkaminski"
+    ],
+    "relation:keith-leblanc": [
+      "keithleblanc"
+    ],
+    "relation:keith-richards": [
+      "keithrichards"
+    ],
+    "relation:keith-scott": [
+      "keithscott"
+    ],
+    "relation:keller-williams": [
+      "kellerwilliams"
+    ],
+    "relation:kelly-looney": [
+      "kellylooney"
+    ],
+    "relation:ken-casey": [
+      "kencasey"
+    ],
+    "relation:ken-follett": [
+      "kenfollett"
+    ],
+    "relation:ken-johnston": [
+      "kenjohnston"
+    ],
+    "relation:ken-stringfellow": [
+      "kenstringfellow"
+    ],
+    "relation:ken-taylor": [
+      "kentaylor"
+    ],
+    "relation:kenan-thompson": [
+      "kenanthompson"
+    ],
+    "relation:kenji-fenton": [
+      "kenjifenton"
+    ],
+    "relation:kenneth-edmonds": [
+      "kennethedmonds"
+    ],
+    "relation:kenneth-whalum": [
+      "kennethwhalum"
+    ],
+    "relation:kenny-aronoff": [
+      "kennyaronoff"
+    ],
+    "relation:kenny-chesney": [
+      "kennychesney"
+    ],
+    "relation:kenny-jo-silva": [
+      "kennyjosilva"
+    ],
+    "relation:kenny-kirkland": [
+      "kennykirkland"
+    ],
+    "relation:kenny-loggins": [
+      "kennyloggins"
+    ],
+    "relation:kenny-mathaba": [
+      "kennymathaba"
+    ],
+    "relation:kenny-pentifallo": [
+      "kennypentifallo"
+    ],
+    "relation:kenny-rankin": [
+      "kennyrankin"
+    ],
+    "relation:kenny-rogers": [
+      "kennyrogers"
+    ],
+    "relation:kern-kennedy": [
+      "kernkennedy"
+    ],
+    "relation:kerry-hauptli": [
+      "kerryhauptli"
+    ],
+    "relation:kevin-bacon": [
+      "kevinbacon"
+    ],
+    "relation:kevin-connair": [
+      "kevinconnair"
+    ],
+    "relation:kevin-dukes": [
+      "kevindukes"
+    ],
+    "relation:kevin-gilmore": [
+      "kevingilmore"
+    ],
+    "relation:kevin-kavanaugh": [
+      "kevinkavanaugh"
+    ],
+    "relation:kevin-kopack": [
+      "kevinkopack"
+    ],
+    "relation:kevin-mccormick": [
+      "kevinmccormick"
+    ],
+    "relation:kevin-mckendree": [
+      "kevinmckendree"
+    ],
+    "relation:kevin-nealon": [
+      "kevinnealon"
+    ],
+    "relation:kevin-rheault": [
+      "kevinrheault"
+    ],
+    "relation:kevin-russell": [
+      "kevinrussell"
+    ],
+    "relation:kevn-kinney": [
+      "kevnkinney"
+    ],
+    "relation:khadijah-islah-mohammed": [
+      "khadijahislahmohammed"
+    ],
+    "relation:kid-leo": [
+      "kidleo"
+    ],
+    "relation:killer-joe": [
+      "killerjoe"
+    ],
+    "relation:kim-carnes": [
+      "kimcarnes"
+    ],
+    "relation:kim-farinacci": [
+      "kimfarinacci"
+    ],
+    "relation:kim-gordon": [
+      "kimgordon"
+    ],
+    "relation:king": [
+      "king"
+    ],
+    "relation:king-zapata": [
+      "kingzapata"
+    ],
+    "relation:kirk-douglas": [
+      "kirkdouglas"
+    ],
+    "relation:kirk-henderson": [
+      "kirkhenderson"
+    ],
+    "relation:kirsty-young": [
+      "kirstyyoung"
+    ],
+    "relation:kitty-cooper": [
+      "kittycooper"
+    ],
+    "relation:kool-rock-ski": [
+      "koolrockski"
+    ],
+    "relation:kris-allen": [
+      "krisallen"
+    ],
+    "relation:kris-kristofferson": [
+      "kriskristofferson"
+    ],
+    "relation:kronos-quartet": [
+      "kronosquartet"
+    ],
+    "relation:kurtis-blow": [
+      "kurtisblow"
+    ],
+    "relation:kyle-mooney": [
+      "kylemooney"
+    ],
+    "relation:l-shankar": [
+      "lshankar"
+    ],
+    "relation:la-toya-jackson": [
+      "latoyajackson"
+    ],
+    "relation:lachlan-bramble": [
+      "lachlanbramble"
+    ],
+    "relation:lady-gaga": [
+      "ladygaga"
+    ],
+    "relation:ladysmith-black-mambazo": [
+      "ladysmithblackmambazo"
+    ],
+    "relation:lance-larson": [
+      "lancelarson"
+    ],
+    "relation:larry-campbell": [
+      "larrycampbell"
+    ],
+    "relation:larry-cragg": [
+      "larrycragg"
+    ],
+    "relation:larry-crane": [
+      "larrycrane"
+    ],
+    "relation:larry-eagle": [
+      "larryeagle"
+    ],
+    "relation:larry-etkin": [
+      "larryetkin"
+    ],
+    "relation:larry-lee-lerma": [
+      "larryleelerma"
+    ],
+    "relation:larry-long": [
+      "larrylong"
+    ],
+    "relation:laura-anderson": [
+      "lauraanderson"
+    ],
+    "relation:laura-cantrell": [
+      "lauracantrell"
+    ],
+    "relation:laura-cortese": [
+      "lauracortese"
+    ],
+    "relation:laura-creamer": [
+      "lauracreamer"
+    ],
+    "relation:laura-lutzke": [
+      "lauralutzke"
+    ],
+    "relation:lauren-onkey": [
+      "laurenonkey"
+    ],
+    "relation:laurie-anderson": [
+      "laurieanderson"
+    ],
+    "relation:laurie-tobias": [
+      "laurietobias"
+    ],
+    "relation:lauryn-hill": [
+      "laurynhill"
+    ],
+    "relation:lavern-baker": [
+      "lavernbaker"
+    ],
+    "relation:lawrence-payton": [
+      "lawrencepayton"
+    ],
+    "relation:layonne-holmes": [
+      "layonneholmes"
+    ],
+    "relation:lee-ann-grushecky": [
+      "leeanngrushecky"
+    ],
+    "relation:lee-dorsey": [
+      "leedorsey"
+    ],
+    "relation:lee-forshner": [
+      "leeforshner"
+    ],
+    "relation:lee-foy": [
+      "leefoy"
+    ],
+    "relation:lee-rocker": [
+      "leerocker"
+    ],
+    "relation:lee-szymborski": [
+      "leeszymborski"
+    ],
+    "relation:lee-thanos": [
+      "leethanos"
+    ],
+    "relation:leland-sklar": [
+      "lelandsklar"
+    ],
+    "relation:lenny-kaye": [
+      "lennykaye"
+    ],
+    "relation:lenny-pickett": [
+      "lennypickett"
+    ],
+    "relation:leon-gieco": [
+      "leongieco"
+    ],
+    "relation:leon-pendarvis": [
+      "leonpendarvis"
+    ],
+    "relation:les-paul": [
+      "lespaul"
+    ],
+    "relation:leslie-jones": [
+      "lesliejones"
+    ],
+    "relation:leslie-ming": [
+      "leslieming"
+    ],
+    "relation:lester-bangs": [
+      "lesterbangs"
+    ],
+    "relation:lester-chambers": [
+      "lesterchambers"
+    ],
+    "relation:lester-pennyfeather": [
+      "lesterpennyfeather"
+    ],
+    "relation:levi-stubbs": [
+      "levistubbs"
+    ],
+    "relation:levon-helm": [
+      "levonhelm"
+    ],
+    "relation:liberty-devitto": [
+      "libertydevitto"
+    ],
+    "relation:lillian-walker": [
+      "lillianwalker"
+    ],
+    "relation:lilly-brown": [
+      "lillybrown"
+    ],
+    "relation:linda-heffentrager": [
+      "lindaheffentrager"
+    ],
+    "relation:linda-ronstadt": [
+      "lindaronstadt"
+    ],
+    "relation:lindsey-buckingham": [
+      "lindseybuckingham"
+    ],
+    "relation:link-wray": [
+      "linkwray"
+    ],
+    "relation:linton-kwesi-johnson": [
+      "lintonkwesijohnson"
+    ],
+    "relation:lionel-richie": [
+      "lionelrichie"
+    ],
+    "relation:lisa-bouchelle": [
+      "lisabouchelle"
+    ],
+    "relation:lisa-coleman": [
+      "lisacoleman"
+    ],
+    "relation:lisa-fischer": [
+      "lisafischer"
+    ],
+    "relation:lisa-germano": [
+      "lisagermano"
+    ],
+    "relation:lisa-lowell": [
+      "lisalowell"
+    ],
+    "relation:lisa-reynolds": [
+      "lisareynolds"
+    ],
+    "relation:little-richard": [
+      "littlerichard"
+    ],
+    "relation:lloyd-landesman": [
+      "lloydlandesman"
+    ],
+    "relation:lord-gunner-group": [
+      "lordgunnergroup"
+    ],
+    "relation:loren-gold": [
+      "lorengold"
+    ],
+    "relation:lorne-michaels": [
+      "lornemichaels"
+    ],
+    "relation:lost-highway-band": [
+      "losthighwayband"
+    ],
+    "relation:lotti-golden": [
+      "lottigolden"
+    ],
+    "relation:lou-marini": [
+      "loumarini"
+    ],
+    "relation:lou-reed": [
+      "loureed"
+    ],
+    "relation:louie-appel": [
+      "louieappel"
+    ],
+    "relation:louis-johnson": [
+      "louisjohnson"
+    ],
+    "relation:lowell-levinger": [
+      "lowelllevinger"
+    ],
+    "relation:lucas-o-brien": [
+      "lucasobrien"
+    ],
+    "relation:lucas-ruge-jones": [
+      "lucasrugejones"
+    ],
+    "relation:lucia-de-la-garza": [
+      "luciadelagarza"
+    ],
+    "relation:lucille-schoettle": [
+      "lucilleschoettle"
+    ],
+    "relation:lucinda-williams": [
+      "lucindawilliams"
+    ],
+    "relation:luis-miguel": [
+      "luismiguel"
+    ],
+    "relation:lukas-crouse": [
+      "lukascrouse"
+    ],
+    "relation:lydia-miller-choorapuzha": [
+      "lydiamillerchoorapuzha"
+    ],
+    "relation:lydia-parkington": [
+      "lydiaparkington"
+    ],
+    "relation:lyle-lovett": [
+      "lylelovett"
+    ],
+    "relation:lynn-lockamy": [
+      "lynnlockamy"
+    ],
+    "relation:m-ward": [
+      "mward"
+    ],
+    "relation:madison-federici": [
+      "madisonfederici"
+    ],
+    "relation:madonna": [
+      "madonna"
+    ],
+    "relation:maggie-gould": [
+      "maggiegould"
+    ],
+    "relation:maggie-rogers": [
+      "maggierogers"
+    ],
+    "relation:magic-johnson": [
+      "magicjohnson"
+    ],
+    "relation:malopoets": [
+      "malopoets"
+    ],
+    "relation:malurt": [
+      "malurt"
+    ],
+    "relation:mama-tried": [
+      "mamatried"
+    ],
+    "relation:manolo-badrena": [
+      "manolobadrena"
+    ],
+    "relation:manolo-garcia": [
+      "manologarcia"
+    ],
+    "relation:manu-katche": [
+      "manukatche"
+    ],
+    "relation:marah": [
+      "marah"
+    ],
+    "relation:marc-7": [
+      "marc7"
+    ],
+    "relation:marc-anthony-thompson": [
+      "marcanthonythompson"
+    ],
+    "relation:marc-browne": [
+      "marcbrowne"
+    ],
+    "relation:marc-maron": [
+      "marcmaron"
+    ],
+    "relation:marc-moriva": [
+      "marcmoriva"
+    ],
+    "relation:marc-muller": [
+      "marcmuller"
+    ],
+    "relation:marc-reisman": [
+      "marcreisman"
+    ],
+    "relation:marc-ribler": [
+      "marcribler"
+    ],
+    "relation:marc-ribot": [
+      "marcribot"
+    ],
+    "relation:marcus-mumford": [
+      "marcusmumford"
+    ],
+    "relation:margaret-blades": [
+      "margaretblades"
+    ],
+    "relation:margo-thunderbird": [
+      "margothunderbird"
+    ],
+    "relation:mario-calire": [
+      "mariocalire"
+    ],
+    "relation:mario-cipollina": [
+      "mariocipollina",
+      "news."
+    ],
+    "relation:mario-cruz": [
+      "mariocruz"
+    ],
+    "relation:mario-marsillo": [
+      "mariomarsillo"
+    ],
+    "relation:mark-agnor": [
+      "markagnor"
+    ],
+    "relation:mark-alexander": [
+      "markalexander"
+    ],
+    "relation:mark-bonder": [
+      "markbonder"
+    ],
+    "relation:mark-braud": [
+      "markbraud"
+    ],
+    "relation:mark-brown": [
+      "brownmark"
+    ],
+    "relation:mark-bryan": [
+      "markbryan"
+    ],
+    "relation:mark-byerly": [
+      "markbyerly"
+    ],
+    "relation:mark-chatfield": [
+      "markchatfield"
+    ],
+    "relation:mark-clifford": [
+      "markclifford"
+    ],
+    "relation:mark-diomede": [
+      "markdiomede"
+    ],
+    "relation:mark-eitzel": [
+      "markeitzel"
+    ],
+    "relation:mark-goldenberg": [
+      "markgoldenberg"
+    ],
+    "relation:mark-kelley": [
+      "markkelley"
+    ],
+    "relation:mark-kissling": [
+      "markkissling"
+    ],
+    "relation:mark-leimbach": [
+      "markleimbach"
+    ],
+    "relation:mark-masefield": [
+      "markmasefield"
+    ],
+    "relation:mark-mullins": [
+      "markmullins"
+    ],
+    "relation:mark-murphy": [
+      "markmurphy"
+    ],
+    "relation:mark-o-connor": [
+      "markoconnor"
+    ],
+    "relation:mark-parenteau": [
+      "markparenteau"
+    ],
+    "relation:mark-pender": [
+      "markpender"
+    ],
+    "relation:mark-prentice": [
+      "markprentice"
+    ],
+    "relation:mark-radcliffe": [
+      "markradcliffe"
+    ],
+    "relation:mark-rivera": [
+      "markrivera"
+    ],
+    "relation:mark-savage": [
+      "marksavage"
+    ],
+    "relation:mark-stewart": [
+      "markstewart"
+    ],
+    "relation:mark-tiernan": [
+      "marktiernan"
+    ],
+    "relation:mark-volman": [
+      "markvolman"
+    ],
+    "relation:mark-winchester": [
+      "markwinchester"
+    ],
+    "relation:marlon-jackson": [
+      "marlonjackson"
+    ],
+    "relation:marshall-crenshaw": [
+      "marshallcrenshaw"
+    ],
+    "relation:martha-reeves": [
+      "marthareeves"
+    ],
+    "relation:martha-wainwright": [
+      "marthawainwright"
+    ],
+    "relation:martie-maguire": [
+      "martiemaguire"
+    ],
+    "relation:martin-chambers": [
+      "martinchambers"
+    ],
+    "relation:martin-scorsese": [
+      "martinscorsese"
+    ],
+    "relation:marty-fogel": [
+      "martyfogel"
+    ],
+    "relation:marty-rifkin": [
+      "martyrifkin"
+    ],
+    "relation:mary-chapin-carpenter": [
+      "marychapincarpenter"
+    ],
+    "relation:mary-j-blige": [
+      "maryjblige"
+    ],
+    "relation:mary-wilson": [
+      "marywilson"
+    ],
+    "relation:matt-berninger": [
+      "mattberninger"
+    ],
+    "relation:matt-blostein": [
+      "mattblostein"
+    ],
+    "relation:matt-everitt": [
+      "matteveritt"
+    ],
+    "relation:matt-fink": [
+      "mattfink"
+    ],
+    "relation:matt-groening": [
+      "mattgroening"
+    ],
+    "relation:matt-hogan": [
+      "matthogan"
+    ],
+    "relation:matt-jardine": [
+      "mattjardine"
+    ],
+    "relation:matt-kelly": [
+      "mattkelly"
+    ],
+    "relation:matt-mangano": [
+      "mattmangano"
+    ],
+    "relation:matt-nolen": [
+      "mattnolen"
+    ],
+    "relation:matt-o-ree": [
+      "mattoree"
+    ],
+    "relation:matt-savage": [
+      "mattsavage"
+    ],
+    "relation:matt-wade": [
+      "mattwade"
+    ],
+    "relation:matthew-mcdonald": [
+      "matthewmcdonald"
+    ],
+    "relation:maureen-conlon-gutierrez": [
+      "maureenconlongutierrez"
+    ],
+    "relation:maureen-mccrink": [
+      "maureenmccrink"
+    ],
+    "relation:maureen-mcdermott": [
+      "maureenmcdermott"
+    ],
+    "relation:mauricio-lewak": [
+      "mauriciolewak"
+    ],
+    "relation:maurycy-banaszek": [
+      "maurycybanaszek"
+    ],
+    "relation:mavis-staples": [
+      "mavisstaples"
+    ],
+    "relation:max-morden": [
+      "maxmorden"
+    ],
+    "relation:max-weinberg": [
+      "maxweinberg"
+    ],
+    "relation:maya-rudolph": [
+      "mayarudolph"
+    ],
+    "relation:mazz-swift": [
+      "mazzswift"
+    ],
+    "relation:mel-taylor": [
+      "meltaylor"
+    ],
+    "relation:melissa-etheridge": [
+      "melissaetheridge"
+    ],
+    "relation:melissa-mcmillan": [
+      "melissamcmillan"
+    ],
+    "relation:melissa-stewart-hernandez": [
+      "melissastewarthernandez"
+    ],
+    "relation:melle-mel": [
+      "mellemel"
+    ],
+    "relation:melvin-franklin": [
+      "melvinfranklin"
+    ],
+    "relation:meshell-ndegeocello": [
+      "meshellndegeocello"
+    ],
+    "relation:mfanafuthi-dlamini": [
+      "mfanafuthidlamini"
+    ],
+    "relation:michael-antrim": [
+      "michaelantrim"
+    ],
+    "relation:michael-antunes": [
+      "michaelantunes"
+    ],
+    "relation:michael-bacon": [
+      "michaelbacon"
+    ],
+    "relation:michael-bearden": [
+      "michaelbearden"
+    ],
+    "relation:michael-blyth": [
+      "michaelblyth"
+    ],
+    "relation:michael-boddicker": [
+      "michaelboddicker"
+    ],
+    "relation:michael-bolton": [
+      "michaelbolton"
+    ],
+    "relation:michael-boscarino": [
+      "michaelboscarino"
+    ],
+    "relation:michael-brecker": [
+      "michaelbrecker"
+    ],
+    "relation:michael-burke": [
+      "michaelburke"
+    ],
+    "relation:michael-che": [
+      "michaelche"
+    ],
+    "relation:michael-clarke": [
+      "michaelclarke"
+    ],
+    "relation:michael-dease": [
+      "michaeldease"
+    ],
+    "relation:michael-des-barres": [
+      "michaeldesbarres"
+    ],
+    "relation:michael-falch": [
+      "michaelfalch"
+    ],
+    "relation:michael-franti": [
+      "michaelfranti"
+    ],
+    "relation:michael-hesslein": [
+      "michaelhesslein"
+    ],
+    "relation:michael-hommel": [
+      "michaelhommel"
+    ],
+    "relation:michael-j-fox": [
+      "michaeljfox"
+    ],
+    "relation:michael-jackson": [
+      "michaeljackson"
+    ],
+    "relation:michael-jochum": [
+      "michaeljochum"
+    ],
+    "relation:michael-johns": [
+      "michaeljohns"
+    ],
+    "relation:michael-longoria": [
+      "michaellongoria"
+    ],
+    "relation:michael-mark": [
+      "michaelmark"
+    ],
+    "relation:michael-mccabe": [
+      "michaelmccabe"
+    ],
+    "relation:michael-monroe": [
+      "michaelmonroe"
+    ],
+    "relation:michael-omartian": [
+      "michaelomartian"
+    ],
+    "relation:michael-purington": [
+      "michaelpurington"
+    ],
+    "relation:michael-robertson": [
+      "michaelrobertson"
+    ],
+    "relation:michael-shannon": [
+      "michaelshannon"
+    ],
+    "relation:michael-sklar": [
+      "michaelsklar"
+    ],
+    "relation:michael-stipe": [
+      "michaelstipe"
+    ],
+    "relation:michael-strollo": [
+      "michaelstrollo"
+    ],
+    "relation:michael-suchorsky": [
+      "michaelsuchorsky"
+    ],
+    "relation:michael-utley": [
+      "michaelutley"
+    ],
+    "relation:michael-vogelmann": [
+      "michaelvogelmann"
+    ],
+    "relation:michael-ward": [
+      "michaelward"
+    ],
+    "relation:michel-rivard": [
+      "michelrivard"
+    ],
+    "relation:michele-rowe": [
+      "michelerowe"
+    ],
+    "relation:michelle-casillas": [
+      "michellecasillas"
+    ],
+    "relation:michelle-moore": [
+      "michellemoore"
+    ],
+    "relation:michelle-obama": [
+      "michelleobama"
+    ],
+    "relation:michelle-shocked": [
+      "michelleshocked"
+    ],
+    "relation:mick-avory": [
+      "mickavory"
+    ],
+    "relation:mick-bader": [
+      "mickbader"
+    ],
+    "relation:mick-jagger": [
+      "mickjagger"
+    ],
+    "relation:mick-jones": [
+      "mickjones"
+    ],
+    "relation:mick-seeley": [
+      "mickseeley"
+    ],
+    "relation:mick-taylor": [
+      "micktaylor"
+    ],
+    "relation:mickey-curry": [
+      "mickeycurry"
+    ],
+    "relation:mickey-gee": [
+      "mickeygee"
+    ],
+    "relation:mickey-raphael": [
+      "mickeyraphael"
+    ],
+    "relation:midnight-thunder": [
+      "midnightthunder"
+    ],
+    "relation:miguel": [
+      "miguel"
+    ],
+    "relation:mike-bovenzi": [
+      "mikebovenzi"
+    ],
+    "relation:mike-brenner": [
+      "mikebrenner"
+    ],
+    "relation:mike-brooks": [
+      "mikebrooks"
+    ],
+    "relation:mike-campbell": [
+      "mikecampbell"
+    ],
+    "relation:mike-davis": [
+      "mikedavis"
+    ],
+    "relation:mike-delevante": [
+      "mikedelevante"
+    ],
+    "relation:mike-delguidice": [
+      "mikedelguidice"
+    ],
+    "relation:mike-gordon": [
+      "mikegordon"
+    ],
+    "relation:mike-gribbroek": [
+      "mikegribbroek"
+    ],
+    "relation:mike-love": [
+      "mikelove"
+    ],
+    "relation:mike-mahoney": [
+      "mikemahoney"
+    ],
+    "relation:mike-mancini": [
+      "mikemancini"
+    ],
+    "relation:mike-mani": [
+      "mikemani"
+    ],
+    "relation:mike-merenda": [
+      "mikemerenda"
+    ],
+    "relation:mike-merritt": [
+      "mikemerritt"
+    ],
+    "relation:mike-micara": [
+      "mikemicara"
+    ],
+    "relation:mike-mills": [
+      "mikemills"
+    ],
+    "relation:mike-mogis": [
+      "mikemogis"
+    ],
+    "relation:mike-ness": [
+      "mikeness"
+    ],
+    "relation:mike-peters": [
+      "mikepeters"
+    ],
+    "relation:mike-riddleberger": [
+      "mikeriddleberger"
+    ],
+    "relation:mike-rose": [
+      "mikerose"
+    ],
+    "relation:mike-scialfa": [
+      "mikescialfa"
+    ],
+    "relation:mike-spengler": [
+      "mikespengler"
+    ],
+    "relation:mike-stoller": [
+      "mikestoller"
+    ],
+    "relation:mike-todd": [
+      "miketodd"
+    ],
+    "relation:mike-vinas": [
+      "mikevinas"
+    ],
+    "relation:mike-wanchic": [
+      "mikewanchic"
+    ],
+    "relation:mikey-freedom-hart": [
+      "mikeyfreedomhart"
+    ],
+    "relation:miko-weaver": [
+      "mikoweaver"
+    ],
+    "relation:mila-de-la-garza": [
+      "miladelagarza"
+    ],
+    "relation:mile-high-band": [
+      "milehighband"
+    ],
+    "relation:miles-davis": [
+      "milesdavis"
+    ],
+    "relation:miles-robbins": [
+      "milesrobbins"
+    ],
+    "relation:milton-nascimento": [
+      "miltonnascimento"
+    ],
+    "relation:mindi-abair": [
+      "mindiabair"
+    ],
+    "relation:mino-cinelu": [
+      "minocinelu"
+    ],
+    "relation:miriam-sturm": [
+      "miriamsturm"
+    ],
+    "relation:mitch-albom": [
+      "mitchalbom"
+    ],
+    "relation:mitch-ryder": [
+      "mitchryder"
+    ],
+    "relation:mj-rodriguez": [
+      "mjrodriguez"
+    ],
+    "relation:molly-mason": [
+      "mollymason"
+    ],
+    "relation:monica-davis": [
+      "monicadavis"
+    ],
+    "relation:monique-abbadie": [
+      "moniqueabbadie"
+    ],
+    "relation:monti-louis-ellison": [
+      "montilouisellison"
+    ],
+    "relation:mos-def": [
+      "mosdef"
+    ],
+    "relation:moses-manaka": [
+      "mosesmanaka"
+    ],
+    "relation:mr-reality": [
+      "mrreality"
+    ],
+    "relation:msizi-shabalala": [
+      "msizishabalala"
+    ],
+    "relation:mumford-sons": [
+      "mumfordsons"
+    ],
+    "relation:music-will-academy-of-lower-manhattan-public-middle": [
+      "musicwillacademyoflowermanhattanpublicmiddleschool"
+    ],
+    "relation:nadia-ackerman": [
+      "nadiaackerman"
+    ],
+    "relation:nadia-buck": [
+      "nadiabuck"
+    ],
+    "relation:nancy-lee-baxter": [
+      "nancyleebaxter"
+    ],
+    "relation:narada-michael-walden": [
+      "naradamichaelwalden"
+    ],
+    "relation:natalie-cressman": [
+      "nataliecressman"
+    ],
+    "relation:natalie-maines": [
+      "nataliemaines"
+    ],
+    "relation:natalya-bing": [
+      "cooperandkoostrings",
+      "natalyabing"
+    ],
+    "relation:nate-head": [
+      "natehead"
+    ],
+    "relation:nate-walcott": [
+      "natewalcott"
+    ],
+    "relation:nathan-watts": [
+      "nathanwatts"
+    ],
+    "relation:nathaniel-rateliff": [
+      "nathanielrateliff"
+    ],
+    "relation:native-american-indian-cultural-alliance": [
+      "nativeamericanindianculturalalliance"
+    ],
+    "relation:neal-coomer": [
+      "nealcoomer"
+    ],
+    "relation:neal-pawley": [
+      "nealpawley"
+    ],
+    "relation:ned-rankin": [
+      "nedrankin"
+    ],
+    "relation:neil-diamond": [
+      "neildiamond"
+    ],
+    "relation:nelson-bogart": [
+      "nelsonbogart"
+    ],
+    "relation:nelson-bragg": [
+      "nelsonbragg"
+    ],
+    "relation:new-breed-brass-band": [
+      "newbreedbrassband"
+    ],
+    "relation:new-orleans-blues-department": [
+      "neworleansbluesdepartment"
+    ],
+    "relation:new-york-city-labor-chorus": [
+      "nyclaborchorus"
+    ],
+    "relation:nicholas-rolfe": [
+      "nicholasrolfe"
+    ],
+    "relation:nick-ferraro": [
+      "nickferraro"
+    ],
+    "relation:nick-jonas": [
+      "nickjonas"
+    ],
+    "relation:nick-massi": [
+      "nickmassi"
+    ],
+    "relation:nick-walusko": [
+      "nickwalusko"
+    ],
+    "relation:nicki-richards": [
+      "nickirichards"
+    ],
+    "relation:nicky-addeo": [
+      "nickyaddeo"
+    ],
+    "relation:nicole-atkins": [
+      "nicoleatkins"
+    ],
+    "relation:nicole-demaio": [
+      "nicoledemaio"
+    ],
+    "relation:nicole-lawrence": [
+      "nicolelawrence"
+    ],
+    "relation:nile-rodgers": [
+      "nilerodgers"
+    ],
+    "relation:nils-lofgren": [
+      "nilslofgren"
+    ],
+    "relation:noah-le-gros": [
+      "noahlegros"
+    ],
+    "relation:nona-hendryx": [
+      "nonahendryx"
+    ],
+    "relation:nora-guthrie": [
+      "noraguthrie"
+    ],
+    "relation:nora-parkington": [
+      "noraparkington"
+    ],
+    "relation:norm-crosby": [
+      "normcrosby"
+    ],
+    "relation:norm-fisher": [
+      "normfisher"
+    ],
+    "relation:norman-nardini": [
+      "normannardini"
+    ],
+    "relation:north-street-music-strings": [
+      "northstreetmusicstrings"
+    ],
+    "relation:nyc-hit-squad": [
+      "nychitsquad"
+    ],
+    "relation:odell-davis": [
+      "odelldavis"
+    ],
+    "relation:odessa-young": [
+      "odessayoung"
+    ],
+    "relation:odin": [
+      "odin"
+    ],
+    "relation:olivia-tallent": [
+      "oliviatallent"
+    ],
+    "relation:orchestra-of-st-luke-s": [
+      "orchestraofstlukes"
+    ],
+    "relation:oren-bloedow": [
+      "orenbloedow"
+    ],
+    "relation:orlando-wells": [
+      "orlandowells"
+    ],
+    "relation:oscar-hernandez": [
+      "oscarhernandez"
+    ],
+    "relation:otis-taylor": [
+      "otistaylor"
+    ],
+    "relation:otis-williams": [
+      "otiswilliams"
+    ],
+    "relation:owen-biddle": [
+      "owenbiddle"
+    ],
+    "relation:ozzie-melendez": [
+      "ozziemelendez"
+    ],
+    "relation:page-mcconnell": [
+      "pagemcconnell"
+    ],
+    "relation:pamela-springsteen": [
+      "pamelaspringsteen"
+    ],
+    "relation:panther-club-band": [
+      "pantherclubband"
+    ],
+    "relation:parker-grogan": [
+      "parkergrogan"
+    ],
+    "relation:pascal-kravetz": [
+      "pascalkravetz"
+    ],
+    "relation:pascale-whiting": [
+      "pascalewhiting"
+    ],
+    "relation:pat-benatar": [
+      "patbenatar"
+    ],
+    "relation:pat-karwin": [
+      "patkarwin"
+    ],
+    "relation:pat-mokoka": [
+      "patmokoka"
+    ],
+    "relation:pat-sefolosha": [
+      "patsefolosha"
+    ],
+    "relation:pat-thrall": [
+      "patthrall"
+    ],
+    "relation:pat-toner": [
+      "pattoner"
+    ],
+    "relation:patricia-scialfa": [
+      "patriciascialfa"
+    ],
+    "relation:patrick-lupo": [
+      "patricklupo"
+    ],
+    "relation:patrick-warren": [
+      "patrickwarren"
+    ],
+    "relation:patterson-hood": [
+      "pattersonhood"
+    ],
+    "relation:patti-scialfa": [
+      "pattiscialfa"
+    ],
+    "relation:patti-smith": [
+      "pattismith"
+    ],
+    "relation:patty-smyth": [
+      "pattysmyth"
+    ],
+    "relation:paul-banks": [
+      "paulbanks"
+    ],
+    "relation:paul-branin": [
+      "paulbranin"
+    ],
+    "relation:paul-bryan": [
+      "paulbryan"
+    ],
+    "relation:paul-burton": [
+      "paulburton"
+    ],
+    "relation:paul-butterfield": [
+      "paulbutterfield"
+    ],
+    "relation:paul-ende": [
+      "paulende"
+    ],
+    "relation:paul-garisto": [
+      "paulgaristo"
+    ],
+    "relation:paul-hammond": [
+      "paulhammond"
+    ],
+    "relation:paul-horton": [
+      "paulhorton"
+    ],
+    "relation:paul-kelley": [
+      "paulkelley"
+    ],
+    "relation:paul-marshall": [
+      "paulmarshall"
+    ],
+    "relation:paul-mccartney": [
+      "paulmccartney"
+    ],
+    "relation:paul-menotiades": [
+      "paulmenotiades"
+    ],
+    "relation:paul-mertens": [
+      "paulmertens"
+    ],
+    "relation:paul-metsa": [
+      "paulmetsa"
+    ],
+    "relation:paul-nelson": [
+      "paulnelson"
+    ],
+    "relation:paul-pettitt": [
+      "paulpettitt"
+    ],
+    "relation:paul-popkin": [
+      "paulpopkin"
+    ],
+    "relation:paul-roberts": [
+      "paulroberts"
+    ],
+    "relation:paul-shaffer": [
+      "paulshaffer"
+    ],
+    "relation:paul-simon": [
+      "paulsimon"
+    ],
+    "relation:paul-weisenstein": [
+      "paulweisenstein"
+    ],
+    "relation:paul-whistler": [
+      "paulwhistler"
+    ],
+    "relation:paul-wiancko": [
+      "paulwiancko"
+    ],
+    "relation:paul-wickens": [
+      "paulwickens"
+    ],
+    "relation:paulinho-da-costa": [
+      "paulinhodacosta"
+    ],
+    "relation:pavel-farkas": [
+      "pavelfarkas"
+    ],
+    "relation:pegasus": [
+      "pegasus"
+    ],
+    "relation:peggy-seeger": [
+      "peggyseeger"
+    ],
+    "relation:pegi-young": [
+      "pegiyoung"
+    ],
+    "relation:pervis-staples": [
+      "pervisstaples"
+    ],
+    "relation:pete-davidson": [
+      "petedavidson"
+    ],
+    "relation:pete-farndon": [
+      "petefarndon"
+    ],
+    "relation:pete-gagen": [
+      "petegagen"
+    ],
+    "relation:pete-maurer": [
+      "petemaurer"
+    ],
+    "relation:pete-quaife": [
+      "petequaife"
+    ],
+    "relation:pete-seeger": [
+      "peteseeger"
+    ],
+    "relation:pete-thomas": [
+      "petethomas"
+    ],
+    "relation:pete-townshend": [
+      "petetownshend"
+    ],
+    "relation:pete-yorn": [
+      "peteyorn"
+    ],
+    "relation:peter-buck": [
+      "peterbuck"
+    ],
+    "relation:peter-duchin": [
+      "peterduchin"
+    ],
+    "relation:peter-ecklund": [
+      "peterecklund"
+    ],
+    "relation:peter-elkas": [
+      "peterelkas"
+    ],
+    "relation:peter-gabriel": [
+      "petergabriel"
+    ],
+    "relation:peter-garrett": [
+      "petergarrett"
+    ],
+    "relation:peter-glazer": [
+      "peterglazer"
+    ],
+    "relation:peter-hatch": [
+      "peterhatch"
+    ],
+    "relation:peter-john-kane": [
+      "peterjohnkane"
+    ],
+    "relation:peter-levin": [
+      "peterlevin"
+    ],
+    "relation:peter-mors": [
+      "petermors"
+    ],
+    "relation:peter-scherer": [
+      "peterscherer"
+    ],
+    "relation:peter-schulle": [
+      "peterschulle"
+    ],
+    "relation:peter-valentine": [
+      "petervalentine"
+    ],
+    "relation:peter-viskinde": [
+      "peterviskinde"
+    ],
+    "relation:peter-wolf": [
+      "peterwolf"
+    ],
+    "relation:pharrell-williams": [
+      "pharrellwilliams"
+    ],
+    "relation:phil-alvin": [
+      "philalvin"
+    ],
+    "relation:phil-brontz": [
+      "philbrontz"
+    ],
+    "relation:phil-ceccola": [
+      "philceccola"
+    ],
+    "relation:phil-hamilton": [
+      "philhamilton"
+    ],
+    "relation:phil-ochs": [
+      "philochs"
+    ],
+    "relation:phil-x": [
+      "philx"
+    ],
+    "relation:phish": [
+      "phish"
+    ],
+    "relation:phoebe-snow": [
+      "phoebesnow"
+    ],
+    "relation:pink": [
+      "pink"
+    ],
+    "relation:pino-palladino": [
+      "pinopalladino"
+    ],
+    "relation:polo-jones": [
+      "polojones"
+    ],
+    "relation:premik-russell-tubbs": [
+      "premikrusselltubbs"
+    ],
+    "relation:prescott-niles": [
+      "prescottniles"
+    ],
+    "relation:preservation-hall-jazz-band": [
+      "preservationhalljazzband"
+    ],
+    "relation:price-quenin": [
+      "pricequenin"
+    ],
+    "relation:prince-markie-dee": [
+      "princemarkiedee"
+    ],
+    "relation:probyn-gregory": [
+      "probyngregory"
+    ],
+    "relation:psychotic-blues-band": [
+      "psychoticbluesband"
+    ],
+    "relation:public-enemy": [
+      "publicenemy"
+    ],
+    "relation:questlove": [
+      "questlove"
+    ],
+    "relation:quincy-jones": [
+      "quincyjones"
+    ],
+    "relation:r-e-m": [
+      "rem"
+    ],
+    "relation:rachael-aquilina": [
+      "rachaelaquilina"
+    ],
+    "relation:rachel-ana-dobken": [
+      "rachelanadobken"
+    ],
+    "relation:rachel-drehmann": [
+      "racheldrehmann"
+    ],
+    "relation:rachel-golub": [
+      "rachelgolub"
+    ],
+    "relation:ragnhildur-petursdottir": [
+      "ragnhildurpetursdottir"
+    ],
+    "relation:rahiem": [
+      "rahiem"
+    ],
+    "relation:rahni-sadler": [
+      "rahnisadler"
+    ],
+    "relation:raina-douris": [
+      "rainadouris"
+    ],
+    "relation:rainy-miatke": [
+      "rainymiatke"
+    ],
+    "relation:ralph-irizarry": [
+      "ralphirizarry"
+    ],
+    "relation:ralph-molina": [
+      "ralphmolina"
+    ],
+    "relation:rami-jaffee": [
+      "ramijaffee"
+    ],
+    "relation:randi-fishenfeld": [
+      "randifishenfeld"
+    ],
+    "relation:randy-brecker": [
+      "randybrecker"
+    ],
+    "relation:randy-kohrs": [
+      "randykohrs"
+    ],
+    "relation:randy-schrager": [
+      "randyschrager"
+    ],
+    "relation:raphael-saadiq": [
+      "raphaelsaadiq"
+    ],
+    "relation:ravi-best": [
+      "ravibest"
+    ],
+    "relation:ray-andersen": [
+      "rayandersen"
+    ],
+    "relation:ray-barretto": [
+      "raybarretto"
+    ],
+    "relation:ray-charles": [
+      "raycharles"
+    ],
+    "relation:ray-davies": [
+      "raydavies"
+    ],
+    "relation:ray-paczkowski": [
+      "raypaczkowski"
+    ],
+    "relation:ray-phiri": [
+      "rayphiri"
+    ],
+    "relation:ray-planet": [
+      "rayplanet"
+    ],
+    "relation:raymond-angry": [
+      "raymondangry"
+    ],
+    "relation:read-connolly": [
+      "readconnolly"
+    ],
+    "relation:reagan-richards": [
+      "reaganrichards"
+    ],
+    "relation:reenat-pinchas": [
+      "reenatpinchas"
+    ],
+    "relation:regine-chassagne": [
+      "reginechassagne"
+    ],
+    "relation:remember-jones": [
+      "rememberjones"
+    ],
+    "relation:renaldo-benson": [
+      "obiebenson"
+    ],
+    "relation:rene-coman": [
+      "renecoman"
+    ],
+    "relation:rene-veldsman": [
+      "reneveldsman"
+    ],
+    "relation:rev-run": [
+      "revrun"
+    ],
+    "relation:rex-carr-white": [
+      "rexcarrwhite"
+    ],
+    "relation:rhani-krija": [
+      "rhanikrija"
+    ],
+    "relation:rhiannon-giddens": [
+      "rhiannongiddens"
+    ],
+    "relation:rhys-clark": [
+      "rhysclark"
+    ],
+    "relation:rich-armstrong": [
+      "richarmstrong"
+    ],
+    "relation:rich-mercurio": [
+      "richmercurio"
+    ],
+    "relation:rich-scannella": [
+      "richscannella"
+    ],
+    "relation:richard-bennett": [
+      "richardbennett"
+    ],
+    "relation:richard-blackwell": [
+      "richardblackwell"
+    ],
+    "relation:richard-davis": [
+      "richarddavis"
+    ],
+    "relation:richard-grando": [
+      "richardgrando"
+    ],
+    "relation:richard-manitoba": [
+      "richardmanitoba"
+    ],
+    "relation:richard-neer": [
+      "richardneer"
+    ],
+    "relation:richard-scher": [
+      "richardscher"
+    ],
+    "relation:richard-sohl": [
+      "richardsohl"
+    ],
+    "relation:richie-goldstein": [
+      "richiegoldstein"
+    ],
+    "relation:richie-havens": [
+      "richiehavens"
+    ],
+    "relation:richie-rosenberg": [
+      "richierosenberg"
+    ],
+    "relation:richie-sambora": [
+      "richiesambora"
+    ],
+    "relation:rick-cyr": [
+      "rickcyr"
+    ],
+    "relation:rick-danko": [
+      "rickdanko"
+    ],
+    "relation:rick-desarno": [
+      "rickdesarno"
+    ],
+    "relation:rick-gazda": [
+      "rickgazda"
+    ],
+    "relation:rick-marotta": [
+      "rickmarotta"
+    ],
+    "relation:rick-vito": [
+      "rickvito"
+    ],
+    "relation:rick-witkowski": [
+      "rickwitkowski"
+    ],
+    "relation:rickey-minor": [
+      "rickeyminor"
+    ],
+    "relation:rickie-lee-jones": [
+      "rickieleejones"
+    ],
+    "relation:rickie-monie": [
+      "rickiemonie"
+    ],
+    "relation:ricky-byrd": [
+      "rickybyrd"
+    ],
+    "relation:ricky-martin": [
+      "rickymartin"
+    ],
+    "relation:ricky-ray-jackson": [
+      "rickyrayjackson"
+    ],
+    "relation:ridley-pearson": [
+      "ridleypearson"
+    ],
+    "relation:ringo-starr": [
+      "ringostarr"
+    ],
+    "relation:rob-clores": [
+      "robclores"
+    ],
+    "relation:rob-dye": [
+      "robdye"
+    ],
+    "relation:rob-lange": [
+      "roblange"
+    ],
+    "relation:rob-mathes": [
+      "robmathes"
+    ],
+    "relation:rob-mellaci": [
+      "robmellaci"
+    ],
+    "relation:rob-moose": [
+      "robmoose"
+    ],
+    "relation:rob-stoner": [
+      "robstoner"
+    ],
+    "relation:rob-tanico": [
+      "robtanico"
+    ],
+    "relation:robbie-connolly": [
+      "robbieconnolly"
+    ],
+    "relation:robbie-gordon": [
+      "robbiegordon"
+    ],
+    "relation:robbie-kilgore": [
+      "robbiekilgore"
+    ],
+    "relation:robbie-robertson": [
+      "robbierobertson"
+    ],
+    "relation:robbin-thompson": [
+      "robbinthompson"
+    ],
+    "relation:robby-ameen": [
+      "robbyameen"
+    ],
+    "relation:robert-conti": [
+      "robertconti"
+    ],
+    "relation:robert-cray": [
+      "robertcray"
+    ],
+    "relation:robert-crenshaw": [
+      "robertcrenshaw"
+    ],
+    "relation:robert-de-niro": [
+      "robertdeniro"
+    ],
+    "relation:robert-donnelly": [
+      "robertdonnelly"
+    ],
+    "relation:robert-downey-jr": [
+      "robertdowneyjr"
+    ],
+    "relation:robert-gordon": [
+      "robertgordon"
+    ],
+    "relation:robert-higgins": [
+      "bobbyhiggins"
+    ],
+    "relation:robert-lloyd": [
+      "robertlloyd"
+    ],
+    "relation:robert-pinsky": [
+      "robertpinsky"
+    ],
+    "relation:robert-randolph": [
+      "robertrandolph"
+    ],
+    "relation:robert-santelli": [
+      "robertsantelli"
+    ],
+    "relation:robert-wagner": [
+      "robertwagner"
+    ],
+    "relation:robin-clark": [
+      "robinclark"
+    ],
+    "relation:robin-holcomb": [
+      "robinholcomb"
+    ],
+    "relation:robin-nash": [
+      "robinnash"
+    ],
+    "relation:robin-williams": [
+      "robinwilliams"
+    ],
+    "relation:robin-zeh": [
+      "robinzeh"
+    ],
+    "relation:rod-hodges": [
+      "rodhodges"
+    ],
+    "relation:roebuck-staples": [
+      "popsstaples"
+    ],
+    "relation:roger-daltrey": [
+      "rogerdaltrey"
+    ],
+    "relation:roger-lewis": [
+      "rogerlewis"
+    ],
+    "relation:roger-mcguinn": [
+      "rogermcguinn"
+    ],
+    "relation:roger-taylor": [
+      "rogertaylor"
+    ],
+    "relation:roma-sinfonietta-orchestra": [
+      "romasinfoniettaorchestra"
+    ],
+    "relation:roman-johnson": [
+      "romanjohnson"
+    ],
+    "relation:roman-morello": [
+      "romanmorello"
+    ],
+    "relation:ron-amodea": [
+      "ronamodea"
+    ],
+    "relation:ron-aniello": [
+      "ronaniello"
+    ],
+    "relation:ron-carter": [
+      "roncarter"
+    ],
+    "relation:ron-darling": [
+      "rondarling"
+    ],
+    "relation:ron-foster": [
+      "ronfoster"
+    ],
+    "relation:ron-haney": [
+      "ronhaney"
+    ],
+    "relation:ron-lankone": [
+      "ronlankone"
+    ],
+    "relation:ron-mccrory": [
+      "ronmccrory"
+    ],
+    "relation:ron-tooley": [
+      "rontooley"
+    ],
+    "relation:ron-tutt": [
+      "rontutt"
+    ],
+    "relation:ronald-coleman": [
+      "ronaldcoleman"
+    ],
+    "relation:ronnie-mack": [
+      "ronniemack"
+    ],
+    "relation:ronnie-spector": [
+      "ronniespector"
+    ],
+    "relation:ronnie-vannucci-jr": [
+      "ronnievannuccijr"
+    ],
+    "relation:ronnie-wood": [
+      "ronniewood"
+    ],
+    "relation:rosanne-cash": [
+      "rosannecash"
+    ],
+    "relation:rose-blanshei": [
+      "roseblanshei"
+    ],
+    "relation:rose-parkington": [
+      "roseparkington"
+    ],
+    "relation:roseanne-barr": [
+      "roseannebarr"
+    ],
+    "relation:rosemary-butler": [
+      "rosemarybutler"
+    ],
+    "relation:rosy-timms": [
+      "rosytimms"
+    ],
+    "relation:roy-bittan": [
+      "roybittan"
+    ],
+    "relation:roy-blount": [
+      "royblountjr"
+    ],
+    "relation:roy-orbison": [
+      "royorbison"
+    ],
+    "relation:ruben-blades": [
+      "rubenblades"
+    ],
+    "relation:ruby-dee": [
+      "rubydee"
+    ],
+    "relation:rufus-wainwright": [
+      "rufuswainwright"
+    ],
+    "relation:run-d-m-c": [
+      "rundmc"
+    ],
+    "relation:russ-kunkel": [
+      "russkunkel"
+    ],
+    "relation:russ-lawton": [
+      "russlawton"
+    ],
+    "relation:russel-mthembu": [
+      "russelmthembu"
+    ],
+    "relation:rusty-anderson": [
+      "rustyanderson"
+    ],
+    "relation:rusty-cloud": [
+      "rustycloud"
+    ],
+    "relation:rusty-steele": [
+      "rustysteele"
+    ],
+    "relation:ruth-klein-cook": [
+      "ruthkleincook"
+    ],
+    "relation:ruth-pointer": [
+      "ruthpointer"
+    ],
+    "relation:ruth-ungar": [
+      "ruthungar"
+    ],
+    "relation:ryan-bittan": [
+      "ryanbittan"
+    ],
+    "relation:ryan-hatcher": [
+      "ryanhatcher"
+    ],
+    "relation:ryan-michael-james": [
+      "ryanmichaeljames"
+    ],
+    "relation:ryan-tubridy": [
+      "ryantubridy"
+    ],
+    "relation:ryudo-uzaki": [
+      "ryudouzaki"
+    ],
+    "relation:sally-cooper": [
+      "sallycooper"
+    ],
+    "relation:sam-bardfeld": [
+      "sambardfeld"
+    ],
+    "relation:sam-clayton": [
+      "samclayton"
+    ],
+    "relation:sam-gooden": [
+      "samgooden"
+    ],
+    "relation:sam-moore": [
+      "sammoore"
+    ],
+    "relation:sam-springsteen": [
+      "samspringsteen"
+    ],
+    "relation:sam-tshabalala": [
+      "samtshabalala"
+    ],
+    "relation:samantha-uzbay": [
+      "samanthauzbay"
+    ],
+    "relation:sammy-figueroa": [
+      "sammyfigueroa"
+    ],
+    "relation:sandro-leal-santiesteban": [
+      "sandrolealsantiesteban"
+    ],
+    "relation:sandy-mack": [
+      "sandymack"
+    ],
+    "relation:sara-caswell": [
+      "saracaswell"
+    ],
+    "relation:sara-devine": [
+      "saradevine"
+    ],
+    "relation:sarah-parkington": [
+      "sarahparkington"
+    ],
+    "relation:sarina-bellissimo": [
+      "sarinabellissimo"
+    ],
+    "relation:sasha-ono": [
+      "sashaono"
+    ],
+    "relation:sasheer-zamata": [
+      "sasheerzamata"
+    ],
+    "relation:scarlett-lee-moore": [
+      "scarlettleemoore"
+    ],
+    "relation:scorpio": [
+      "scorpio"
+    ],
+    "relation:scott-bennett": [
+      "scottbennett"
+    ],
+    "relation:scott-cooper": [
+      "scottcooper"
+    ],
+    "relation:scott-devendorf": [
+      "scottdevendorf"
+    ],
+    "relation:scott-healy": [
+      "scotthealy"
+    ],
+    "relation:scott-ian": [
+      "scottian"
+    ],
+    "relation:scott-kempner": [
+      "scottkempner"
+    ],
+    "relation:scott-mayo": [
+      "scottmayo"
+    ],
+    "relation:scott-mccaughey": [
+      "scottmccaughey"
+    ],
+    "relation:scott-thurston": [
+      "scottthurston"
+    ],
+    "relation:scout-ford": [
+      "scoutford"
+    ],
+    "relation:scruffy-wallace": [
+      "scruffywallace"
+    ],
+    "relation:sean-dalton": [
+      "seandalton"
+    ],
+    "relation:sean-hopper": [
+      "news.",
+      "seanhopper"
+    ],
+    "relation:sean-hutchinson": [
+      "seanhutchinson"
+    ],
+    "relation:sean-lennon": [
+      "seanlennon"
+    ],
+    "relation:seneca-black": [
+      "senecablack"
+    ],
+    "relation:serge-bielanko": [
+      "sergebielanko"
+    ],
+    "relation:seth-milly": [
+      "sethmilly"
+    ],
+    "relation:shaggy": [
+      "shaggy"
+    ],
+    "relation:shane-fogerty": [
+      "shanefogerty"
+    ],
+    "relation:shane-fontayne": [
+      "shanefontayne"
+    ],
+    "relation:shane-gillis": [
+      "shanegillis"
+    ],
+    "relation:shane-sager": [
+      "shanesager"
+    ],
+    "relation:shannon-mcnally": [
+      "shannonmcnally"
+    ],
+    "relation:sharon-van-etten": [
+      "sharonvanetten"
+    ],
+    "relation:sharonmarie-fisher": [
+      "sharonmariefisher"
+    ],
+    "relation:shaun-murphy": [
+      "shaunmurphy"
+    ],
+    "relation:shawn-colvin": [
+      "shawncolvin"
+    ],
+    "relation:shawn-pelton": [
+      "shawnpelton"
+    ],
+    "relation:sheila-e": [
+      "sheilae"
+    ],
+    "relation:shemekia-copeland": [
+      "shemekiacopeland"
+    ],
+    "relation:sherl-tallent": [
+      "sherltallent"
+    ],
+    "relation:sheryl-crow": [
+      "sherylcrow"
+    ],
+    "relation:shirley-bassey": [
+      "shirleybassey"
+    ],
+    "relation:sibongiseni-shabalala": [
+      "sibongisenishabalala"
+    ],
+    "relation:sid-gottlieb": [
+      "sidgottlieb"
+    ],
+    "relation:sid-mcginnis": [
+      "sidmcginnis"
+    ],
+    "relation:simon-garfunkel": [
+      "simongarfunkel"
+    ],
+    "relation:simon-mayo": [
+      "simonmayo"
+    ],
+    "relation:simon-townshend": [
+      "simontownshend"
+    ],
+    "relation:sister-sadie": [
+      "sistersadie"
+    ],
+    "relation:slim-jim-phantom": [
+      "slimjimphantom"
+    ],
+    "relation:smokey-noble": [
+      "smokeynoble"
+    ],
+    "relation:smokey-robinson": [
+      "smokeyrobinson"
+    ],
+    "relation:social-distortion": [
+      "socialdistortion"
+    ],
+    "relation:solar-circus": [
+      "solarcircus"
+    ],
+    "relation:sonny-burgess": [
+      "sonnyburgess"
+    ],
+    "relation:sonny-kenn": [
+      "sonnykenn"
+    ],
+    "relation:sonny-okosun": [
+      "sonnyokosun"
+    ],
+    "relation:soozie-tyrell": [
+      "soozietyrell"
+    ],
+    "relation:soul-asylum": [
+      "soulasylum"
+    ],
+    "relation:soup": [
+      "soup"
+    ],
+    "relation:south-community-choir-of-asbury-park": [
+      "southcommunitychoirofasburypark"
+    ],
+    "relation:spike-perkins": [
+      "spikeperkins"
+    ],
+    "relation:stan-harrison": [
+      "stanharrison"
+    ],
+    "relation:stan-lynch": [
+      "stanlynch"
+    ],
+    "relation:stan-steele": [
+      "stansteele"
+    ],
+    "relation:stan-szelest": [
+      "stanszelest"
+    ],
+    "relation:stan-tartas": [
+      "stantartas"
+    ],
+    "relation:stand-and-deliver": [
+      "standanddeliver"
+    ],
+    "relation:stanley-jordan": [
+      "stanleyjordan"
+    ],
+    "relation:stanley-sheldon": [
+      "stanleysheldon"
+    ],
+    "relation:stanley-taylor": [
+      "stanleytaylor"
+    ],
+    "relation:steel-mill": [
+      "steelmill",
+      "steven.vanzandt"
+    ],
+    "relation:stefanos-melas": [
+      "stefanosmelas"
+    ],
+    "relation:steph-munter": [
+      "stephmunter"
+    ],
+    "relation:stephan-crump": [
+      "stephancrump"
+    ],
+    "relation:stephen-colbert": [
+      "stephencolbert"
+    ],
+    "relation:stephen-graham": [
+      "stephengraham"
+    ],
+    "relation:stephen-king": [
+      "stephenking"
+    ],
+    "relation:stephen-rava": [
+      "stephenrava"
+    ],
+    "relation:stephen-schraeger": [
+      "stephenschraeger"
+    ],
+    "relation:stephen-stills": [
+      "stephenstills"
+    ],
+    "relation:stephon-jones": [
+      "stephonjones"
+    ],
+    "relation:sterling-campbell": [
+      "sterlingcampbell"
+    ],
+    "relation:steve-argy": [
+      "steveargy"
+    ],
+    "relation:steve-barlotta": [
+      "stevebarlotta"
+    ],
+    "relation:steve-becker": [
+      "stevebecker"
+    ],
+    "relation:steve-bliley": [
+      "stevebliley"
+    ],
+    "relation:steve-chrismar": [
+      "stevechrismar"
+    ],
+    "relation:steve-clark": [
+      "steveclark"
+    ],
+    "relation:steve-clarke": [
+      "steveclarke"
+    ],
+    "relation:steve-cropper": [
+      "stevecropper"
+    ],
+    "relation:steve-duncan": [
+      "steveduncan"
+    ],
+    "relation:steve-eitelberg": [
+      "steveeitelberg"
+    ],
+    "relation:steve-hargrave": [
+      "stevehargrave"
+    ],
+    "relation:steve-hunter": [
+      "stevehunter"
+    ],
+    "relation:steve-hyde": [
+      "stevehyde"
+    ],
+    "relation:steve-jankowski": [
+      "stevejankowski"
+    ],
+    "relation:steve-johnson": [
+      "stevejohnson"
+    ],
+    "relation:steve-jordan": [
+      "stevejordan"
+    ],
+    "relation:steve-large": [
+      "stevelarge"
+    ],
+    "relation:steve-lawrence": [
+      "stevelawrence"
+    ],
+    "relation:steve-munson": [
+      "stevemunson"
+    ],
+    "relation:steve-nieve": [
+      "stevenieve"
+    ],
+    "relation:steve-paraczky": [
+      "steveparaczky"
+    ],
+    "relation:steve-perry": [
+      "steveperry"
+    ],
+    "relation:steve-pryor": [
+      "stevepryor"
+    ],
+    "relation:steve-riggs": [
+      "steveriggs"
+    ],
+    "relation:steve-shews": [
+      "steveshews"
+    ],
+    "relation:steve-shook": [
+      "steveshook"
+    ],
+    "relation:steve-walker": [
+      "stevewalker"
+    ],
+    "relation:steve-winkler": [
+      "stevewinkler"
+    ],
+    "relation:steve-winwood": [
+      "stevewinwood"
+    ],
+    "relation:steven-carter": [
+      "stevencarter"
+    ],
+    "relation:steven-soles": [
+      "stevensoles"
+    ],
+    "relation:steven-tyler": [
+      "steventyler"
+    ],
+    "relation:stevie-wonder": [
+      "steviewonder"
+    ],
+    "relation:sting": [
+      "sting"
+    ],
+    "relation:stiv-bators": [
+      "stivbators"
+    ],
+    "relation:stray-cats": [
+      "straycats"
+    ],
+    "relation:stro-elliot": [
+      "stroelliot"
+    ],
+    "relation:stuart-heinrich": [
+      "stuartheinrich"
+    ],
+    "relation:sue-chase": [
+      "suechase"
+    ],
+    "relation:suki-lahav": [
+      "sukilahav"
+    ],
+    "relation:surrenity-xyz": [
+      "surrenityxyz"
+    ],
+    "relation:susan-lovell": [
+      "susanlovell"
+    ],
+    "relation:susanna-hoffs": [
+      "susannahoffs"
+    ],
+    "relation:susannah-clark": [
+      "cooperandkoostrings",
+      "susannahclark"
+    ],
+    "relation:susannah-williams": [
+      "susannahwilliams"
+    ],
+    "relation:susie-davis": [
+      "susiedavis"
+    ],
+    "relation:suzan-lastovica": [
+      "suzanlastovica"
+    ],
+    "relation:syd-straw": [
+      "sydstraw"
+    ],
+    "relation:t-bone-burnett": [
+      "tboneburnett"
+    ],
+    "relation:t-m-stevens": [
+      "tmstevens"
+    ],
+    "relation:tabitha-fair": [
+      "tabithafair"
+    ],
+    "relation:taj-mahal": [
+      "tajmahal"
+    ],
+    "relation:tania-jones": [
+      "taniajones"
+    ],
+    "relation:tao-rodriguez-seeger": [
+      "taorodriguezseeger"
+    ],
+    "relation:tapelo-khomo": [
+      "tapelokhomo"
+    ],
+    "relation:taran-killam": [
+      "tarankillam"
+    ],
+    "relation:tawatha-agee": [
+      "tawathaagee"
+    ],
+    "relation:taylor-mills": [
+      "taylormills"
+    ],
+    "relation:taylor-momsen": [
+      "taylormomsen"
+    ],
+    "relation:tcb-band": [
+      "tcbband"
+    ],
+    "relation:ted-dwane": [
+      "teddwane"
+    ],
+    "relation:ted-sablay": [
+      "tedsablay"
+    ],
+    "relation:ted-schoenherr": [
+      "tedschoenherr"
+    ],
+    "relation:teddy-thompson": [
+      "teddythompson"
+    ],
+    "relation:terence-trent-d-arby": [
+      "terencetrentdarby"
+    ],
+    "relation:teresa-vinci": [
+      "teresavinci"
+    ],
+    "relation:teresa-williams": [
+      "teresawilliams"
+    ],
+    "relation:terrence-wildeman": [
+      "terrencewildeman"
+    ],
+    "relation:teye": [
+      "teye"
+    ],
+    "relation:thamsanqa-shabalala": [
+      "thamsanqashabalala"
+    ],
+    "relation:the-alliance-singers": [
+      "alliancesingers"
+    ],
+    "relation:the-allstars": [
+      "allstars"
+    ],
+    "relation:the-australian-urban-orchestra": [
+      "australianurbanorchestra"
+    ],
+    "relation:the-bacon-brothers": [
+      "baconbrothers"
+    ],
+    "relation:the-bank-street-blues-band": [
+      "bankstreetbluesband"
+    ],
+    "relation:the-barefoot-strings": [
+      "barefootstrings"
+    ],
+    "relation:the-beach-boys": [
+      "beachboys"
+    ],
+    "relation:the-big-bad-bobby-williams-band": [
+      "bigbadbobbywilliamsband",
+      "steven.vanzandt"
+    ],
+    "relation:the-blackberry-booze-band": [
+      "blackberryboozeband",
+      "steven.vanzandt"
+    ],
+    "relation:the-blasters": [
+      "blasters"
+    ],
+    "relation:the-bruce-springsteen-band": [
+      "brucespringsteenband",
+      "steven.vanzandt"
+    ],
+    "relation:the-byrds": [
+      "byrds"
+    ],
+    "relation:the-castiles": [
+      "castiles"
+    ],
+    "relation:the-chambers-brothers": [
+      "chambersbrothers"
+    ],
+    "relation:the-cherubs": [
+      "cherubs"
+    ],
+    "relation:the-coasters": [
+      "coasters",
+      "dubjones"
+    ],
+    "relation:the-composure": [
+      "composure"
+    ],
+    "relation:the-david-johansen-group": [
+      "davidjohansengroup"
+    ],
+    "relation:the-del-fuegos": [
+      "delfuegos"
+    ],
+    "relation:the-delevantes": [
+      "delevantes"
+    ],
+    "relation:the-dictators": [
+      "dictators"
+    ],
+    "relation:the-drifters": [
+      "drifters"
+    ],
+    "relation:the-e-street-choir": [
+      "estreetchoir"
+    ],
+    "relation:the-e-street-horns": [
+      "estreethorns"
+    ],
+    "relation:the-eddie-testa-band": [
+      "eddietestaband"
+    ],
+    "relation:the-edge": [
+      "theedge"
+    ],
+    "relation:the-epidemics": [
+      "epidemics"
+    ],
+    "relation:the-exciters": [
+      "exciters"
+    ],
+    "relation:the-fabulous-greaseband": [
+      "fabulousgreaseband"
+    ],
+    "relation:the-fairlanes": [
+      "fairlanes"
+    ],
+    "relation:the-fanatics": [
+      "fanatics"
+    ],
+    "relation:the-fat-boys": [
+      "fatboys"
+    ],
+    "relation:the-four-seasons": [
+      "fourseasons"
+    ],
+    "relation:the-friendly-enemies": [
+      "friendlyenemies",
+      "steven.vanzandt"
+    ],
+    "relation:the-gaslight-anthem": [
+      "gaslightanthem"
+    ],
+    "relation:the-gotham-playboys": [
+      "gothamplayboys"
+    ],
+    "relation:the-iguanas": [
+      "iguanas"
+    ],
+    "relation:the-impressions": [
+      "impressions"
+    ],
+    "relation:the-jacksons": [
+      "jacksons"
+    ],
+    "relation:the-joyce-garrett-singers": [
+      "joycegarrettsingers"
+    ],
+    "relation:the-kidd-creole": [
+      "kiddcreole"
+    ],
+    "relation:the-killers": [
+      "killers"
+    ],
+    "relation:the-kinks": [
+      "kinks"
+    ],
+    "relation:the-knack": [
+      "knack"
+    ],
+    "relation:the-last-internationale": [
+      "lastinternationale"
+    ],
+    "relation:the-linda-lindas": [
+      "lindalindas"
+    ],
+    "relation:the-low-anthem": [
+      "lowanthem"
+    ],
+    "relation:the-lumineers": [
+      "lumineers"
+    ],
+    "relation:the-mates": [
+      "mates",
+      "steven.vanzandt"
+    ],
+    "relation:the-max-weinberg-big-band": [
+      "maxweinbergbigband"
+    ],
+    "relation:the-maximum-horns": [
+      "maximumhorns"
+    ],
+    "relation:the-miami-horns": [
+      "miamihorns"
+    ],
+    "relation:the-midtown-men": [
+      "midtownmen"
+    ],
+    "relation:the-mighty-hornets": [
+      "mightyhornets"
+    ],
+    "relation:the-national": [
+      "national"
+    ],
+    "relation:the-news": [
+      "news."
+    ],
+    "relation:the-old-dog-band": [
+      "olddogband"
+    ],
+    "relation:the-outcry": [
+      "outcry"
+    ],
+    "relation:the-parkington-sisters": [
+      "parkingtonsisters"
+    ],
+    "relation:the-pointer-sisters": [
+      "pointersisters"
+    ],
+    "relation:the-pretenders": [
+      "pretenders"
+    ],
+    "relation:the-rascals": [
+      "rascals"
+    ],
+    "relation:the-red-hot-mammas": [
+      "redhotmammas",
+      "steven.vanzandt"
+    ],
+    "relation:the-revolution": [
+      "brownmark"
+    ],
+    "relation:the-rock-bottom-remainders": [
+      "kathigoldmark",
+      "rockbottomremainders"
+    ],
+    "relation:the-rogues": [
+      "rogues"
+    ],
+    "relation:the-rolling-stones": [
+      "rollingstones"
+    ],
+    "relation:the-roots": [
+      "roots"
+    ],
+    "relation:the-shakes": [
+      "shakes"
+    ],
+    "relation:the-shots": [
+      "shots"
+    ],
+    "relation:the-smithereens": [
+      "smithereens"
+    ],
+    "relation:the-sonic-people": [
+      "sonicpeople"
+    ],
+    "relation:the-staple-singers": [
+      "popsstaples",
+      "staplesingers"
+    ],
+    "relation:the-sundance-blues-band": [
+      "steven.vanzandt",
+      "sundancebluesband"
+    ],
+    "relation:the-swingin-medallions": [
+      "swinginmedallions"
+    ],
+    "relation:the-tangiers-blues-band": [
+      "tangiersbluesband"
+    ],
+    "relation:the-temptations": [
+      "temptations"
+    ],
+    "relation:the-terrorists-of-love": [
+      "terroristsoflove"
+    ],
+    "relation:the-trews": [
+      "trews"
+    ],
+    "relation:the-wallflowers": [
+      "wallflowers"
+    ],
+    "relation:the-who": [
+      "who"
+    ],
+    "relation:the-zoomettes": [
+      "zoomettes"
+    ],
+    "relation:theo-jackson": [
+      "theojackson"
+    ],
+    "relation:thom-powers": [
+      "thompowers"
+    ],
+    "relation:thom-zimny": [
+      "thomzimny"
+    ],
+    "relation:thomas-haden-church": [
+      "thomashadenchurch"
+    ],
+    "relation:thulani-shabalala": [
+      "thulanishabalala"
+    ],
+    "relation:tico-torres": [
+      "ticotorres"
+    ],
+    "relation:tiffeny-andrews": [
+      "tiffenyandrews"
+    ],
+    "relation:tim-brennan": [
+      "timbrennan"
+    ],
+    "relation:tim-mcgraw": [
+      "timmcgraw"
+    ],
+    "relation:tim-mcilrath": [
+      "timmcilrath"
+    ],
+    "relation:tim-ries": [
+      "timries"
+    ],
+    "relation:tim-robbins": [
+      "timrobbins"
+    ],
+    "relation:tim-tindall": [
+      "timtindall"
+    ],
+    "relation:timepiece": [
+      "frankpagano2",
+      "timepiece"
+    ],
+    "relation:timm-biery": [
+      "timmbiery"
+    ],
+    "relation:timothy-christian-riley": [
+      "timothychristianriley"
+    ],
+    "relation:timothy-schmit": [
+      "timothyschmit"
+    ],
+    "relation:tina-b": [
+      "tinab"
+    ],
+    "relation:tina-fey": [
+      "tinafey"
+    ],
+    "relation:tina-turner": [
+      "tinaturner"
+    ],
+    "relation:tiokasin-ghosthorse": [
+      "tiokasinghosthorse"
+    ],
+    "relation:tito-allen": [
+      "titoallen"
+    ],
+    "relation:tito-jackson": [
+      "titojackson"
+    ],
+    "relation:toby-emmerich": [
+      "tobyemmerich"
+    ],
+    "relation:toby-myers": [
+      "tobymyers"
+    ],
+    "relation:todd-reynolds": [
+      "toddreynolds"
+    ],
+    "relation:tom-bender": [
+      "tombender"
+    ],
+    "relation:tom-boesch": [
+      "tomboesch"
+    ],
+    "relation:tom-chapin": [
+      "tomchapin"
+    ],
+    "relation:tom-cochrane": [
+      "tomcochrane"
+    ],
+    "relation:tom-cohen": [
+      "tomcohen"
+    ],
+    "relation:tom-cunningham": [
+      "tomcunningham"
+    ],
+    "relation:tom-donovan": [
+      "tomdonovan"
+    ],
+    "relation:tom-fogerty": [
+      "tomfogerty"
+    ],
+    "relation:tom-labella": [
+      "tomlabella"
+    ],
+    "relation:tom-lloyd": [
+      "tomlloyd"
+    ],
+    "relation:tom-lofgren": [
+      "tomlofgren"
+    ],
+    "relation:tom-malone": [
+      "tommalone"
+    ],
+    "relation:tom-meares": [
+      "tommeares"
+    ],
+    "relation:tom-morello": [
+      "tommorello"
+    ],
+    "relation:tom-morrongiello": [
+      "tommorrongiello"
+    ],
+    "relation:tom-pacheco": [
+      "tompacheco"
+    ],
+    "relation:tom-seguso": [
+      "tomseguso"
+    ],
+    "relation:tom-selleck": [
+      "tomselleck"
+    ],
+    "relation:tom-sontag": [
+      "tomsontag"
+    ],
+    "relation:tom-timko": [
+      "tomtimko"
+    ],
+    "relation:tom-waits": [
+      "tomwaits"
+    ],
+    "relation:tom-whitehorse": [
+      "tomwhitehorse"
+    ],
+    "relation:tomas-diaz": [
+      "tomasdiaz"
+    ],
+    "relation:tommy-byrnes": [
+      "tommybyrnes"
+    ],
+    "relation:tommy-devito": [
+      "tommydevito"
+    ],
+    "relation:tommy-lasorda": [
+      "tommylasorda"
+    ],
+    "relation:tommy-sands": [
+      "tommysands"
+    ],
+    "relation:tommy-sims": [
+      "tommysims"
+    ],
+    "relation:tommy-zvoncheck": [
+      "tommyzvoncheck"
+    ],
+    "relation:tony-aiello": [
+      "tonyaiello"
+    ],
+    "relation:tony-bennett": [
+      "tonybennett"
+    ],
+    "relation:tony-braunagel": [
+      "tonybraunagel"
+    ],
+    "relation:tony-cedras": [
+      "tonycedras"
+    ],
+    "relation:tony-danza": [
+      "tonydanza"
+    ],
+    "relation:tony-garnier": [
+      "tonygarnier"
+    ],
+    "relation:tony-kanal": [
+      "tonykanal"
+    ],
+    "relation:tony-orlando": [
+      "tonyorlando"
+    ],
+    "relation:tony-perruso": [
+      "tonyperruso"
+    ],
+    "relation:tony-shanahan": [
+      "tonyshanahan"
+    ],
+    "relation:tony-tino": [
+      "tonytino"
+    ],
+    "relation:tony-toni-tone": [
+      "tonytonitone"
+    ],
+    "relation:tony-trischka": [
+      "tonytrischka"
+    ],
+    "relation:tony-williams": [
+      "tonywilliams"
+    ],
+    "relation:tori-allen": [
+      "toriallen"
+    ],
+    "relation:tori-kelly": [
+      "torikelly"
+    ],
+    "relation:toshi-seeger": [
+      "toshiseeger"
+    ],
+    "relation:tracy-chapman": [
+      "tracychapman"
+    ],
+    "relation:tracy-wormworth": [
+      "tracywormworth"
+    ],
+    "relation:trey-anastasio": [
+      "treyanastasio"
+    ],
+    "relation:trey-anastasio-band": [
+      "treyanastasioband"
+    ],
+    "relation:trombone-shorty": [
+      "tromboneshorty"
+    ],
+    "relation:troye-kinnett": [
+      "troyekinnett"
+    ],
+    "relation:trudie-styler": [
+      "trudiestyler"
+    ],
+    "relation:tuba-gooding": [
+      "tubagooding"
+    ],
+    "relation:tyler-fogerty": [
+      "tylerfogerty"
+    ],
+    "relation:tyler-osborne": [
+      "tylerosborne"
+    ],
+    "relation:tyler-ramsey": [
+      "tylerramsey"
+    ],
+    "relation:u2": [
+      "u2"
+    ],
+    "relation:ula-hedwig": [
+      "ulahedwig"
+    ],
+    "relation:uri-caine": [
+      "uricaine"
+    ],
+    "relation:val-mccallum": [
+      "valmccallum"
+    ],
+    "relation:valerie-june": [
+      "valeriejune"
+    ],
+    "relation:vaneese-thomas": [
+      "vaneesethomas"
+    ],
+    "relation:vanessa-bayer": [
+      "vanessabayer"
+    ],
+    "relation:vernon-masayesva": [
+      "vernonmasayesva"
+    ],
+    "relation:vernon-reid": [
+      "vernonreid"
+    ],
+    "relation:via-afrika": [
+      "viaafrika"
+    ],
+    "relation:vic-damone": [
+      "vicdamone"
+    ],
+    "relation:victorious-gospel-choir": [
+      "victoriousgospelchoir"
+    ],
+    "relation:vikku-vinayakram": [
+      "vikkuvinayakram"
+    ],
+    "relation:vincent-daniele": [
+      "vincentdaniele"
+    ],
+    "relation:vincent-pastore": [
+      "vincentpastore"
+    ],
+    "relation:vinnie-colaiuta": [
+      "vinniecolaiuta"
+    ],
+    "relation:vinnie-manniello": [
+      "vinniemanniello"
+    ],
+    "relation:vinnie-roslin": [
+      "vinnieroslin"
+    ],
+    "relation:vinnie-tieto": [
+      "vinnietieto"
+    ],
+    "relation:vinny-luongo": [
+      "vinnyluongo"
+    ],
+    "relation:vinny-vella": [
+      "vinnyvella"
+    ],
+    "relation:vittorio-grigolo": [
+      "vittoriogrigolo"
+    ],
+    "relation:waddy-wachtel": [
+      "waddywachtel"
+    ],
+    "relation:wade-matthews": [
+      "wadematthews"
+    ],
+    "relation:wally-safford": [
+      "wallysafford"
+    ],
+    "relation:walter-payton": [
+      "walterpayton"
+    ],
+    "relation:warren-haynes": [
+      "warrenhaynes"
+    ],
+    "relation:warren-kaye": [
+      "warrenkaye"
+    ],
+    "relation:warren-zanes": [
+      "warrenzanes"
+    ],
+    "relation:warren-zevon": [
+      "warrenzevon"
+    ],
+    "relation:waylon-jennings": [
+      "waylonjennings"
+    ],
+    "relation:wayne-jackson": [
+      "waynejackson"
+    ],
+    "relation:wells-kelly": [
+      "wellskelly"
+    ],
+    "relation:wendy-melvoin": [
+      "wendymelvoin"
+    ],
+    "relation:wesley-schultz": [
+      "wesleyschultz"
+    ],
+    "relation:wesley-snipes": [
+      "wesleysnipes"
+    ],
+    "relation:whoopi-goldberg": [
+      "whoopigoldberg"
+    ],
+    "relation:wil-hercek": [
+      "wilhercek"
+    ],
+    "relation:wil-schade": [
+      "wilschade"
+    ],
+    "relation:will-champion": [
+      "willchampion"
+    ],
+    "relation:will-downing": [
+      "willdowning"
+    ],
+    "relation:will-gompertz": [
+      "willgompertz"
+    ],
+    "relation:will-holshouser": [
+      "willholshouser"
+    ],
+    "relation:will-i-am": [
+      "will.i.am"
+    ],
+    "relation:will-lee": [
+      "willlee"
+    ],
+    "relation:will-williams": [
+      "willwilliams"
+    ],
+    "relation:william-butler": [
+      "williambutler"
+    ],
+    "relation:william-frampton": [
+      "williamframpton"
+    ],
+    "relation:willie-nelson": [
+      "willienelson"
+    ],
+    "relation:willie-nile": [
+      "willienile"
+    ],
+    "relation:willie-weeks": [
+      "willieweeks"
+    ],
+    "relation:wilson-pickett": [
+      "wilsonpickett"
+    ],
+    "relation:win-butler": [
+      "winbutler"
+    ],
+    "relation:winston-marshall": [
+      "winstonmarshall"
+    ],
+    "relation:winston-watson": [
+      "winstonwatson"
+    ],
+    "relation:wolfgang-niedecken": [
+      "wolfgangniedecken"
+    ],
+    "relation:woody-giessmann": [
+      "woodygiessmann"
+    ],
+    "relation:woody-harrelson": [
+      "woodyharrelson"
+    ],
+    "relation:x-men": [
+      "xmen"
+    ],
+    "relation:yahzarah": [
+      "yahzarah"
+    ],
+    "relation:yena-choi": [
+      "yenachoi"
+    ],
+    "relation:yohei-nakamura": [
+      "yoheinakamura"
+    ],
+    "relation:yoko-ono": [
+      "yokoono"
+    ],
+    "relation:youssou-n-dour": [
+      "youssoundour"
+    ],
+    "relation:yvonne-staples": [
+      "yvonnestaples"
+    ],
+    "relation:zac-brown": [
+      "zacbrown"
+    ],
+    "relation:zac-brown-band": [
+      "zacbrownband"
+    ],
+    "relation:zac-cockrell": [
+      "zaccockrell"
+    ],
+    "relation:zach-blair": [
+      "zachblair"
+    ],
+    "relation:zach-bryan": [
+      "zachbryan"
+    ],
+    "relation:zack-alford": [
+      "zackalford"
+    ],
+    "relation:zak-starkey": [
+      "zakstarkey"
+    ],
+    "relation:zakir-hussain": [
+      "zakirhussain"
+    ],
+    "relation:zane-lowe": [
+      "zanelowe"
+    ],
+    "relation:zem-audu": [
+      "zemaudu"
+    ],
+    "relation:zephyr-avalon": [
+      "zephyravalon"
+    ],
+    "relation:zev-katz": [
+      "zevkatz"
+    ],
+    "relation:zoe-ball": [
+      "zoeball"
+    ],
+    "relation:zoe-brecher": [
+      "zoebrecher"
+    ],
+    "relation:zoe-yanakis": [
+      "zoeyanakis"
+    ],
+    "relation:zohar-schondorf": [
+      "zoharschondorf"
+    ],
+    "relation:zsuzsa-leon": [
+      "zsuzsaleon"
+    ],
+    "relation:zucchero-fornaciari": [
+      "zucchero"
+    ],
+    "relation:zz-top": [
+      "zztop"
+    ]
+  },
   "reports": {
     "date-parts": {
       "count": 5,
@@ -6077,10 +12602,10 @@
     }
   },
   "run": {
-    "bruceparser": "0.40.0",
-    "commit": "3e65334",
+    "bruceparser": "0.43.0",
+    "commit": "675cda3",
     "date": "2026-11-23",
-    "feed": "1.9"
+    "feed": "1.10"
   },
   "site": "https://brucebase.wikidot.com",
   "songTags": {
@@ -10097,6 +16622,7 @@
       ]
     },
     "relationAlias": {
+      "the 1992-93 world tour band": "otherband",
       "the 1992–93 world tour band": "otherband"
     },
     "songCombos": {
