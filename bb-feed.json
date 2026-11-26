@@ -2937,9 +2937,9 @@
 "no-tags":{"count":38,"files":["REPORTING/MISSING-tags.txt"]}
 },
 "run":{
-"bruceparser":"0.43.1",
-"commit":"6f7fc30",
-"date":"2026-11-24",
+"bruceparser":"0.44.0",
+"commit":"683729a",
+"date":"2026-11-26",
 "feed":"1.11"
 },
 "site":"https://brucebase.wikidot.com",
